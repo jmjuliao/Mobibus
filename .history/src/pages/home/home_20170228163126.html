@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Welcome
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h1>Choose a city and start exploring</h1>
+  <!-- <ion-icon name="remove"></ion-icon> -->
+
+  <ion-card ion-item class="large-thumbnail" *ngFor="let city of cities" (click)="goToPlaces(city.id)">
+    <ion-thumbnail item-left>
+      <img src="{{city.image}}">
+    </ion-thumbnail>
+    <h2>{{city.name}}</h2>
+    <p>{{city.description}}</p>
+  </ion-card>
+</ion-content>
+
