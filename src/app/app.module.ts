@@ -26,7 +26,8 @@ import { Places } from '../providers/places';
   ],
   imports: [
     IonicModule.forRoot(MyApp),
-    AgmCoreModule.forRoot()
+    AgmCoreModule.forRoot({ apiKey: 'AIzaSyDNtKCzqx3M4fz_zdGjj0KvTHuaQJsVAHQ',
+    libraries: ['places']})
   ],
   bootstrap: [IonicApp],
   entryComponents: [
