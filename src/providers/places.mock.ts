@@ -33421,4 +33421,4 @@ export const PLACES = [
         'longitude': -20,881029
       }
     }
-]
+];
