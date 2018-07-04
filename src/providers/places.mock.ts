@@ -14,8 +14,8 @@ export const PLACES = [
     "metro": "None",
     "bus": "003 - 006 - 007 - 017",
     "coords": {
-      "latitude": -41,071057,
-      "longitude": -20,881029
+      "latitude": -41.071057,
+      "longitude": -20.881029
     }
   },
   {
