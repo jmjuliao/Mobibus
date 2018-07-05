@@ -433,8 +433,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762645,
-      'longitude': -41.271234
+      'latitude': -20.831844,
+      'longitude': -41.155885
     }
   },
   {
@@ -452,8 +452,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762882,
-      'longitude': -41.271699
+      'latitude': -20.830246,
+      'longitude': -41.155857
     }
   },
   {
@@ -471,8 +471,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831844,
-      'longitude': -41.155885
+      'latitude': -20.83088,
+      'longitude': -41.157211
     }
   },
   {
@@ -490,8 +490,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.830246,
-      'longitude': -41.155857
+      'latitude': -20.831976,
+      'longitude': -41.157381
     }
   },
   {
@@ -509,8 +509,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83088,
-      'longitude': -41.157211
+      'latitude': -20.83389,
+      'longitude': -41.15766
     }
   },
   {
@@ -528,8 +528,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831976,
-      'longitude': -41.157381
+      'latitude': -20.834507,
+      'longitude': -41.156455
     }
   },
   {
@@ -547,8 +547,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83389,
-      'longitude': -41.15766
+      'latitude': -20.837358,
+      'longitude': -41.156805
     }
   },
   {
@@ -566,8 +566,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834507,
-      'longitude': -41.156455
+      'latitude': -20.838924,
+      'longitude': -41.156935
     }
   },
   {
@@ -585,8 +585,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837358,
-      'longitude': -41.156805
+      'latitude': -20.8398,
+      'longitude': -41.157144
     }
   },
   {
@@ -604,8 +604,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838924,
-      'longitude': -41.156935
+      'latitude': -20.840307,
+      'longitude': -41.158357
     }
   },
   {
@@ -623,8 +623,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8398,
-      'longitude': -41.157144
+      'latitude': -20.838829,
+      'longitude': -41.158443
     }
   },
   {
@@ -642,8 +642,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840307,
-      'longitude': -41.158357
+      'latitude': -20.841311,
+      'longitude': -41.158625
     }
   },
   {
@@ -661,8 +661,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838829,
-      'longitude': -41.158443
+      'latitude': -20.838414,
+      'longitude': -41.158301
     }
   },
   {
@@ -680,8 +680,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841311,
-      'longitude': -41.158625
+      'latitude': -20.833942,
+      'longitude': -41.157449
     }
   },
   {
@@ -699,8 +699,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838414,
-      'longitude': -41.158301
+      'latitude': -20.833038,
+      'longitude': -41.15573
     }
   },
   {
@@ -718,8 +718,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833942,
-      'longitude': -41.157449
+      'latitude': -20.863553,
+      'longitude': -41.117072
     }
   },
   {
@@ -737,8 +737,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833038,
-      'longitude': -41.15573
+      'latitude': -20.865856,
+      'longitude': -41.112199
     }
   },
   {
@@ -756,8 +756,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863553,
-      'longitude': -41.117072
+      'latitude': -20.867476,
+      'longitude': -41.107363
     }
   },
   {
@@ -775,8 +775,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.865856,
-      'longitude': -41.112199
+      'latitude': -20.873367,
+      'longitude': -41.10092
     }
   },
   {
@@ -794,8 +794,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.867476,
-      'longitude': -41.107363
+      'latitude': -20.876422,
+      'longitude': -41.099244
     }
   },
   {
@@ -813,8 +813,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873367,
-      'longitude': -41.10092
+      'latitude': -20.879526,
+      'longitude': -41.097945
     }
   },
   {
@@ -832,8 +832,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.876422,
-      'longitude': -41.099244
+      'latitude': -20.881401,
+      'longitude': -41.097548
     }
   },
   {
@@ -851,8 +851,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879526,
-      'longitude': -41.097945
+      'latitude': -20.885501,
+      'longitude': -41.095772
     }
   },
   {
@@ -870,8 +870,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.881401,
-      'longitude': -41.097548
+      'latitude': -20.888405,
+      'longitude': -41.09462
     }
   },
   {
@@ -889,8 +889,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.885501,
-      'longitude': -41.095772
+      'latitude': -20.889851,
+      'longitude': -41.093856
     }
   },
   {
@@ -908,8 +908,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.888405,
-      'longitude': -41.09462
+      'latitude': -20.881389,
+      'longitude': -41.09735
     }
   },
   {
@@ -927,8 +927,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.889851,
-      'longitude': -41.093856
+      'latitude': -20.879771,
+      'longitude': -41.097693
     }
   },
   {
@@ -946,8 +946,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.881389,
-      'longitude': -41.09735
+      'latitude': -20.876417,
+      'longitude': -41.099134
     }
   },
   {
@@ -965,8 +965,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879771,
-      'longitude': -41.097693
+      'latitude': -20.865805,
+      'longitude': -41.111877
     }
   },
   {
@@ -984,8 +984,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.876417,
-      'longitude': -41.099134
+      'latitude': -20.863348,
+      'longitude': -41.11704
     }
   },
   {
@@ -1003,8 +1003,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.865805,
-      'longitude': -41.111877
+      'latitude': -20.847063,
+      'longitude': -41.128552
     }
   },
   {
@@ -1022,8 +1022,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863348,
-      'longitude': -41.11704
+      'latitude': -20.84715,
+      'longitude': -41.1286
     }
   },
   {
@@ -1041,8 +1041,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847063,
-      'longitude': -41.128552
+      'latitude': -20.847002,
+      'longitude': -41.127272
     }
   },
   {
@@ -1060,8 +1060,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84715,
-      'longitude': -41.1286
+      'latitude': -20.846616,
+      'longitude': -41.126406
     }
   },
   {
@@ -1079,8 +1079,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847002,
-      'longitude': -41.127272
+      'latitude': -20.846445,
+      'longitude': -41.12555
     }
   },
   {
@@ -1098,8 +1098,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846616,
-      'longitude': -41.126406
+      'latitude': -20.845877,
+      'longitude': -41.125649
     }
   },
   {
@@ -1117,8 +1117,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846445,
-      'longitude': -41.12555
+      'latitude': -20.845872,
+      'longitude': -41.126544
     }
   },
   {
@@ -1136,8 +1136,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845877,
-      'longitude': -41.125649
+      'latitude': -20.845187,
+      'longitude': -41.127525
     }
   },
   {
@@ -1155,8 +1155,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845872,
-      'longitude': -41.126544
+      'latitude': -20.845347,
+      'longitude': -41.126024
     }
   },
   {
@@ -1174,8 +1174,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845187,
-      'longitude': -41.127525
+      'latitude': -20.846917,
+      'longitude': -41.127441
     }
   },
   {
@@ -1193,8 +1193,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845347,
-      'longitude': -41.126024
+      'latitude': -20.846488,
+      'longitude': -41.12641
     }
   },
   {
@@ -1212,8 +1212,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846917,
-      'longitude': -41.127441
+      'latitude': -20.85296,
+      'longitude': -41.124186
     }
   },
   {
@@ -1231,8 +1231,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846488,
-      'longitude': -41.12641
+      'latitude': -20.852875,
+      'longitude': -41.124253
     }
   },
   {
@@ -1250,8 +1250,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85296,
-      'longitude': -41.124186
+      'latitude': -20.852069,
+      'longitude': -41.122853
     }
   },
   {
@@ -1269,8 +1269,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852875,
-      'longitude': -41.124253
+      'latitude': -20.852062,
+      'longitude': -41.122903
     }
   },
   {
@@ -1288,8 +1288,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852069,
-      'longitude': -41.122853
+      'latitude': -20.850387,
+      'longitude': -41.122688
     }
   },
   {
@@ -1307,8 +1307,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852062,
-      'longitude': -41.122903
+      'latitude': -20.850711,
+      'longitude': -41.122559
     }
   },
   {
@@ -1326,8 +1326,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850387,
-      'longitude': -41.122688
+      'latitude': -20.849779,
+      'longitude': -41.121997
     }
   },
   {
@@ -1345,8 +1345,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850711,
-      'longitude': -41.122559
+      'latitude': -20.849706,
+      'longitude': -41.122044
     }
   },
   {
@@ -1364,8 +1364,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849779,
-      'longitude': -41.121997
+      'latitude': -20.848841,
+      'longitude': -41.121353
     }
   },
   {
@@ -1383,8 +1383,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849706,
-      'longitude': -41.122044
+      'latitude': -20.848914,
+      'longitude': -41.12131
     }
   },
   {
@@ -1402,8 +1402,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848841,
-      'longitude': -41.121353
+      'latitude': -20.842719,
+      'longitude': -41.119781
     }
   },
   {
@@ -1421,8 +1421,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848914,
-      'longitude': -41.12131
+      'latitude': -20.842542,
+      'longitude': -41.118658
     }
   },
   {
@@ -1440,8 +1440,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842719,
-      'longitude': -41.119781
+      'latitude': -20.842591,
+      'longitude': -41.118716
     }
   },
   {
@@ -1459,8 +1459,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842542,
-      'longitude': -41.118658
+      'latitude': -20.843218,
+      'longitude': -41.117823
     }
   },
   {
@@ -1478,8 +1478,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842591,
-      'longitude': -41.118716
+      'latitude': -20.8432,
+      'longitude': -41.11795
     }
   },
   {
@@ -1497,8 +1497,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843218,
-      'longitude': -41.117823
+      'latitude': -20.84389,
+      'longitude': -41.117648
     }
   },
   {
@@ -1516,8 +1516,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8432,
-      'longitude': -41.11795
+      'latitude': -20.843692,
+      'longitude': -41.11722
     }
   },
   {
@@ -1535,8 +1535,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84389,
-      'longitude': -41.117648
+      'latitude': -20.843589,
+      'longitude': -41.116431
     }
   },
   {
@@ -1554,8 +1554,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843692,
-      'longitude': -41.11722
+      'latitude': -20.843279,
+      'longitude': -41.116084
     }
   },
   {
@@ -1573,8 +1573,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843589,
-      'longitude': -41.116431
+      'latitude': -20.845393,
+      'longitude': -41.11554
     }
   },
   {
@@ -1592,8 +1592,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843279,
-      'longitude': -41.116084
+      'latitude': -20.845442,
+      'longitude': -41.115602
     }
   },
   {
@@ -1611,8 +1611,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845393,
-      'longitude': -41.11554
+      'latitude': -20.845563,
+      'longitude': -41.14628
     }
   },
   {
@@ -1630,8 +1630,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845442,
-      'longitude': -41.115602
+      'latitude': -20.844636,
+      'longitude': -41.146065
     }
   },
   {
@@ -1649,8 +1649,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845563,
-      'longitude': -41.14628
+      'latitude': -20.844281,
+      'longitude': -41.14632
     }
   },
   {
@@ -1668,8 +1668,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844636,
-      'longitude': -41.146065
+      'latitude': -20.843421,
+      'longitude': -41.146762
     }
   },
   {
@@ -1687,8 +1687,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844281,
-      'longitude': -41.14632
+      'latitude': -20.842576,
+      'longitude': -41.146719
     }
   },
   {
@@ -1706,8 +1706,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843421,
-      'longitude': -41.146762
+      'latitude': -20.848021,
+      'longitude': -41.144601
     }
   },
   {
@@ -1725,8 +1725,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842576,
-      'longitude': -41.146719
+      'latitude': -20.839597,
+      'longitude': -41.147081
     }
   },
   {
@@ -1744,8 +1744,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848021,
-      'longitude': -41.144601
+      'latitude': -20.838263,
+      'longitude': -41.147135
     }
   },
   {
@@ -1763,8 +1763,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839597,
-      'longitude': -41.147081
+      'latitude': -20.837908,
+      'longitude': -41.149198
     }
   },
   {
@@ -1782,8 +1782,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838263,
-      'longitude': -41.147135
+      'latitude': -20.837235,
+      'longitude': -41.149932
     }
   },
   {
@@ -1801,8 +1801,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837908,
-      'longitude': -41.149198
+      'latitude': -20.837363,
+      'longitude': -41.151373
     }
   },
   {
@@ -1820,8 +1820,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837235,
-      'longitude': -41.149932
+      'latitude': -20.836394,
+      'longitude': -41.152778
     }
   },
   {
@@ -1839,8 +1839,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837363,
-      'longitude': -41.151373
+      'latitude': -20.836794,
+      'longitude': -41.151802
     }
   },
   {
@@ -1858,8 +1858,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836394,
-      'longitude': -41.152778
+      'latitude': -20.836415,
+      'longitude': -41.149502
     }
   },
   {
@@ -1877,8 +1877,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836794,
-      'longitude': -41.151802
+      'latitude': -20.835303,
+      'longitude': -41.149603
     }
   },
   {
@@ -1896,8 +1896,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836415,
-      'longitude': -41.149502
+      'latitude': -20.834764,
+      'longitude': -41.149922
     }
   },
   {
@@ -1915,8 +1915,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835303,
-      'longitude': -41.149603
+      'latitude': -20.834417,
+      'longitude': -41.150698
     }
   },
   {
@@ -1934,8 +1934,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834764,
-      'longitude': -41.149922
+      'latitude': -20.833727,
+      'longitude': -41.151501
     }
   },
   {
@@ -1953,8 +1953,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834417,
-      'longitude': -41.150698
+      'latitude': -20.83257,
+      'longitude': -41.152121
     }
   },
   {
@@ -1972,8 +1972,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833727,
-      'longitude': -41.151501
+      'latitude': -20.830822,
+      'longitude': -41.153052
     }
   },
   {
@@ -1991,8 +1991,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83257,
-      'longitude': -41.152121
+      'latitude': -20.829899,
+      'longitude': -41.153629
     }
   },
   {
@@ -2010,8 +2010,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.830822,
-      'longitude': -41.153052
+      'latitude': -20.828858,
+      'longitude': -41.153027
     }
   },
   {
@@ -2029,8 +2029,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829899,
-      'longitude': -41.153629
+      'latitude': -20.85397,
+      'longitude': -41.133193
     }
   },
   {
@@ -2048,8 +2048,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828858,
-      'longitude': -41.153027
+      'latitude': -20.853422,
+      'longitude': -41.133584
     }
   },
   {
@@ -2067,8 +2067,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85397,
-      'longitude': -41.133193
+      'latitude': -20.852331,
+      'longitude': -41.133648
     }
   },
   {
@@ -2086,8 +2086,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853422,
-      'longitude': -41.133584
+      'latitude': -20.851625,
+      'longitude': -41.13375
     }
   },
   {
@@ -2105,8 +2105,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852331,
-      'longitude': -41.133648
+      'latitude': -20.851173,
+      'longitude': -41.133816
     }
   },
   {
@@ -2124,8 +2124,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851625,
-      'longitude': -41.13375
+      'latitude': -20.850476,
+      'longitude': -41.133656
     }
   },
   {
@@ -2143,8 +2143,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851173,
-      'longitude': -41.133816
+      'latitude': -20.855026,
+      'longitude': -41.134777
     }
   },
   {
@@ -2162,8 +2162,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850476,
-      'longitude': -41.133656
+      'latitude': -20.853811,
+      'longitude': -41.135555
     }
   },
   {
@@ -2181,8 +2181,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855026,
-      'longitude': -41.134777
+      'latitude': -20.853366,
+      'longitude': -41.135757
     }
   },
   {
@@ -2200,8 +2200,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853811,
-      'longitude': -41.135555
+      'latitude': -20.854235,
+      'longitude': -41.135299
     }
   },
   {
@@ -2219,8 +2219,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853366,
-      'longitude': -41.135757
+      'latitude': -20.852149,
+      'longitude': -41.136068
     }
   },
   {
@@ -2238,8 +2238,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854235,
-      'longitude': -41.135299
+      'latitude': -20.851135,
+      'longitude': -41.136328
     }
   },
   {
@@ -2257,8 +2257,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852149,
-      'longitude': -41.136068
+      'latitude': -20.851154,
+      'longitude': -41.136379
     }
   },
   {
@@ -2276,8 +2276,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851135,
-      'longitude': -41.136328
+      'latitude': -20.850258,
+      'longitude': -41.136158
     }
   },
   {
@@ -2295,8 +2295,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851154,
-      'longitude': -41.136379
+      'latitude': -20.85016,
+      'longitude': -41.136205
     }
   },
   {
@@ -2314,8 +2314,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850258,
-      'longitude': -41.136158
+      'latitude': -20.848916,
+      'longitude': -41.135753
     }
   },
   {
@@ -2333,8 +2333,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85016,
-      'longitude': -41.136205
+      'latitude': -20.852405,
+      'longitude': -41.134517
     }
   },
   {
@@ -2352,8 +2352,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848916,
-      'longitude': -41.135753
+      'latitude': -20.85235,
+      'longitude': -41.13452
     }
   },
   {
@@ -2371,8 +2371,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852405,
-      'longitude': -41.134517
+      'latitude': -20.851301,
+      'longitude': -41.134586
     }
   },
   {
@@ -2390,8 +2390,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85235,
-      'longitude': -41.13452
+      'latitude': -20.851271,
+      'longitude': -41.134662
     }
   },
   {
@@ -2409,8 +2409,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851301,
-      'longitude': -41.134586
+      'latitude': -20.850634,
+      'longitude': -41.133259
     }
   },
   {
@@ -2428,8 +2428,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851271,
-      'longitude': -41.134662
+      'latitude': -20.850809,
+      'longitude': -41.133205
     }
   },
   {
@@ -2447,8 +2447,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850634,
-      'longitude': -41.133259
+      'latitude': -20.852496,
+      'longitude': -41.132478
     }
   },
   {
@@ -2466,8 +2466,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850809,
-      'longitude': -41.133205
+      'latitude': -20.852326,
+      'longitude': -41.132409
     }
   },
   {
@@ -2485,8 +2485,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852496,
-      'longitude': -41.132478
+      'latitude': -20.851893,
+      'longitude': -41.132323
     }
   },
   {
@@ -2504,8 +2504,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852326,
-      'longitude': -41.132409
+      'latitude': -20.85143,
+      'longitude': -41.132283
     }
   },
   {
@@ -2523,8 +2523,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851893,
-      'longitude': -41.132323
+      'latitude': -20.850376,
+      'longitude': -41.132426
     }
   },
   {
@@ -2542,8 +2542,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85143,
-      'longitude': -41.132283
+      'latitude': -20.850207,
+      'longitude': -41.132566
     }
   },
   {
@@ -2561,8 +2561,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850376,
-      'longitude': -41.132426
+      'latitude': -20.851808,
+      'longitude': -41.135005
     }
   },
   {
@@ -2580,8 +2580,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850207,
-      'longitude': -41.132566
+      'latitude': -20.851237,
+      'longitude': -41.135114
     }
   },
   {
@@ -2599,8 +2599,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851808,
-      'longitude': -41.135005
+      'latitude': -20.850237,
+      'longitude': -41.134964
     }
   },
   {
@@ -2618,8 +2618,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851237,
-      'longitude': -41.135114
+      'latitude': -20.84933,
+      'longitude': -41.134557
     }
   },
   {
@@ -2637,8 +2637,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850237,
-      'longitude': -41.134964
+      'latitude': -20.846993,
+      'longitude': -41.13568
     }
   },
   {
@@ -2656,8 +2656,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84933,
-      'longitude': -41.134557
+      'latitude': -20.847105,
+      'longitude': -41.135663
     }
   },
   {
@@ -2675,8 +2675,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846993,
-      'longitude': -41.13568
+      'latitude': -20.846185,
+      'longitude': -41.135341
     }
   },
   {
@@ -2694,8 +2694,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847105,
-      'longitude': -41.135663
+      'latitude': -20.846131,
+      'longitude': -41.135435
     }
   },
   {
@@ -2713,8 +2713,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846185,
-      'longitude': -41.135341
+      'latitude': -20.828923,
+      'longitude': -41.152834
     }
   },
   {
@@ -2732,8 +2732,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846131,
-      'longitude': -41.135435
+      'latitude': -20.828802,
+      'longitude': -41.15094
     }
   },
   {
@@ -2751,8 +2751,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828923,
-      'longitude': -41.152834
+      'latitude': -20.828688,
+      'longitude': -41.151187
     }
   },
   {
@@ -2770,8 +2770,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828802,
-      'longitude': -41.15094
+      'latitude': -20.828988,
+      'longitude': -41.148422
     }
   },
   {
@@ -2789,8 +2789,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828688,
-      'longitude': -41.151187
+      'latitude': -20.828856,
+      'longitude': -41.14866
     }
   },
   {
@@ -2808,8 +2808,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828988,
-      'longitude': -41.148422
+      'latitude': -20.829053,
+      'longitude': -41.146165
     }
   },
   {
@@ -2827,8 +2827,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828856,
-      'longitude': -41.14866
+      'latitude': -20.828228,
+      'longitude': -41.144381
     }
   },
   {
@@ -2846,8 +2846,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829053,
-      'longitude': -41.146165
+      'latitude': -20.828934,
+      'longitude': -41.141465
     }
   },
   {
@@ -2865,8 +2865,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828228,
-      'longitude': -41.144381
+      'latitude': -20.828716,
+      'longitude': -41.141494
     }
   },
   {
@@ -2884,8 +2884,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828934,
-      'longitude': -41.141465
+      'latitude': -20.82625,
+      'longitude': -41.136871
     }
   },
   {
@@ -2903,8 +2903,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828716,
-      'longitude': -41.141494
+      'latitude': -20.856732,
+      'longitude': -41.121483
     }
   },
   {
@@ -2922,8 +2922,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82625,
-      'longitude': -41.136871
+      'latitude': -20.856485,
+      'longitude': -41.123266
     }
   },
   {
@@ -2941,8 +2941,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856732,
-      'longitude': -41.121483
+      'latitude': -20.856113,
+      'longitude': -41.12158
     }
   },
   {
@@ -2960,8 +2960,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856485,
-      'longitude': -41.123266
+      'latitude': -20.854376,
+      'longitude': -41.121148
     }
   },
   {
@@ -2979,8 +2979,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856113,
-      'longitude': -41.12158
+      'latitude': -20.85421,
+      'longitude': -41.121178
     }
   },
   {
@@ -2998,8 +2998,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854376,
-      'longitude': -41.121148
+      'latitude': -20.853039,
+      'longitude': -41.119712
     }
   },
   {
@@ -3017,8 +3017,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85421,
-      'longitude': -41.121178
+      'latitude': -20.852437,
+      'longitude': -41.120979
     }
   },
   {
@@ -3036,8 +3036,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853039,
-      'longitude': -41.119712
+      'latitude': -20.854474,
+      'longitude': -41.119828
     }
   },
   {
@@ -3055,8 +3055,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852437,
-      'longitude': -41.120979
+      'latitude': -20.849695,
+      'longitude': -41.114289
     }
   },
   {
@@ -3074,8 +3074,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854474,
-      'longitude': -41.119828
+      'latitude': -20.850003,
+      'longitude': -41.114236
     }
   },
   {
@@ -3093,8 +3093,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849695,
-      'longitude': -41.114289
+      'latitude': -20.852538,
+      'longitude': -41.115552
     }
   },
   {
@@ -3112,8 +3112,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850003,
-      'longitude': -41.114236
+      'latitude': -20.852322,
+      'longitude': -41.115085
     }
   },
   {
@@ -3131,8 +3131,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852538,
-      'longitude': -41.115552
+      'latitude': -20.854769,
+      'longitude': -41.116823
     }
   },
   {
@@ -3150,8 +3150,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852322,
-      'longitude': -41.115085
+      'latitude': -20.853659,
+      'longitude': -41.116753
     }
   },
   {
@@ -3169,8 +3169,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854769,
-      'longitude': -41.116823
+      'latitude': -20.854165,
+      'longitude': -41.116985
     }
   },
   {
@@ -3188,8 +3188,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853659,
-      'longitude': -41.116753
+      'latitude': -20.854826,
+      'longitude': -41.12004
     }
   },
   {
@@ -3207,8 +3207,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854165,
-      'longitude': -41.116985
+      'latitude': -20.856037,
+      'longitude': -41.120851
     }
   },
   {
@@ -3226,8 +3226,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854826,
-      'longitude': -41.12004
+      'latitude': -20.858201,
+      'longitude': -41.120518
     }
   },
   {
@@ -3245,8 +3245,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856037,
-      'longitude': -41.120851
+      'latitude': -20.858187,
+      'longitude': -41.120328
     }
   },
   {
@@ -3264,8 +3264,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858201,
-      'longitude': -41.120518
+      'latitude': -20.86003,
+      'longitude': -41.11955
     }
   },
   {
@@ -3283,8 +3283,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858187,
-      'longitude': -41.120328
+      'latitude': -20.861409,
+      'longitude': -41.118845
     }
   },
   {
@@ -3302,8 +3302,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86003,
-      'longitude': -41.11955
+      'latitude': -20.861226,
+      'longitude': -41.118707
     }
   },
   {
@@ -3321,8 +3321,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861409,
-      'longitude': -41.118845
+      'latitude': -20.862971,
+      'longitude': -41.119396
     }
   },
   {
@@ -3340,8 +3340,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861226,
-      'longitude': -41.118707
+      'latitude': -20.86252,
+      'longitude': -41.118821
     }
   },
   {
@@ -3359,8 +3359,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862971,
-      'longitude': -41.119396
+      'latitude': -20.86348,
+      'longitude': -41.120503
     }
   },
   {
@@ -3378,8 +3378,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86252,
-      'longitude': -41.118821
+      'latitude': -20.863542,
+      'longitude': -41.12039
     }
   },
   {
@@ -3397,8 +3397,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86348,
-      'longitude': -41.120503
+      'latitude': -20.862612,
+      'longitude': -41.121259
     }
   },
   {
@@ -3416,8 +3416,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863542,
-      'longitude': -41.12039
+      'latitude': -20.862468,
+      'longitude': -41.121247
     }
   },
   {
@@ -3435,8 +3435,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862612,
-      'longitude': -41.121259
+      'latitude': -20.861935,
+      'longitude': -41.121811
     }
   },
   {
@@ -3454,8 +3454,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862468,
-      'longitude': -41.121247
+      'latitude': -20.861807,
+      'longitude': -41.121781
     }
   },
   {
@@ -3473,8 +3473,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861935,
-      'longitude': -41.121811
+      'latitude': -20.862192,
+      'longitude': -41.123287
     }
   },
   {
@@ -3492,8 +3492,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861807,
-      'longitude': -41.121781
+      'latitude': -20.862892,
+      'longitude': -41.124356
     }
   },
   {
@@ -3511,8 +3511,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862192,
-      'longitude': -41.123287
+      'latitude': -20.861305,
+      'longitude': -41.123279
     }
   },
   {
@@ -3530,8 +3530,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862892,
-      'longitude': -41.124356
+      'latitude': -20.860717,
+      'longitude': -41.122996
     }
   },
   {
@@ -3549,8 +3549,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861305,
-      'longitude': -41.123279
+      'latitude': -20.861753,
+      'longitude': -41.124227
     }
   },
   {
@@ -3568,8 +3568,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860717,
-      'longitude': -41.122996
+      'latitude': -20.862605,
+      'longitude': -41.125286
     }
   },
   {
@@ -3587,8 +3587,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861753,
-      'longitude': -41.124227
+      'latitude': -20.863476,
+      'longitude': -41.123642
     }
   },
   {
@@ -3606,8 +3606,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862605,
-      'longitude': -41.125286
+      'latitude': -20.86271,
+      'longitude': -41.122668
     }
   },
   {
@@ -3625,8 +3625,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863476,
-      'longitude': -41.123642
+      'latitude': -20.86158,
+      'longitude': -41.122512
     }
   },
   {
@@ -3644,8 +3644,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86271,
-      'longitude': -41.122668
+      'latitude': -20.843586,
+      'longitude': -41.130639
     }
   },
   {
@@ -3663,8 +3663,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86158,
-      'longitude': -41.122512
+      'latitude': -20.843705,
+      'longitude': -41.130639
     }
   },
   {
@@ -3682,8 +3682,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843586,
-      'longitude': -41.130639
+      'latitude': -20.84314,
+      'longitude': -41.130987
     }
   },
   {
@@ -3701,8 +3701,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843705,
-      'longitude': -41.130639
+      'latitude': -20.843034,
+      'longitude': -41.131176
     }
   },
   {
@@ -3720,8 +3720,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84314,
-      'longitude': -41.130987
+      'latitude': -20.842141,
+      'longitude': -41.131961
     }
   },
   {
@@ -3739,8 +3739,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843034,
-      'longitude': -41.131176
+      'latitude': -20.842232,
+      'longitude': -41.131126
     }
   },
   {
@@ -3758,8 +3758,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842141,
-      'longitude': -41.131961
+      'latitude': -20.842075,
+      'longitude': -41.130507
     }
   },
   {
@@ -3777,8 +3777,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842232,
-      'longitude': -41.131126
+      'latitude': -20.842045,
+      'longitude': -41.130564
     }
   },
   {
@@ -3796,8 +3796,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842075,
-      'longitude': -41.130507
+      'latitude': -20.84124,
+      'longitude': -41.130605
     }
   },
   {
@@ -3815,8 +3815,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842045,
-      'longitude': -41.130564
+      'latitude': -20.841203,
+      'longitude': -41.130692
     }
   },
   {
@@ -3834,8 +3834,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84124,
-      'longitude': -41.130605
+      'latitude': -20.840444,
+      'longitude': -41.130839
     }
   },
   {
@@ -3853,8 +3853,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841203,
-      'longitude': -41.130692
+      'latitude': -20.840559,
+      'longitude': -41.130844
     }
   },
   {
@@ -3872,8 +3872,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840444,
-      'longitude': -41.130839
+      'latitude': -20.839711,
+      'longitude': -41.130483
     }
   },
   {
@@ -3891,8 +3891,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840559,
-      'longitude': -41.130844
+      'latitude': -20.839648,
+      'longitude': -41.130481
     }
   },
   {
@@ -3910,8 +3910,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839711,
-      'longitude': -41.130483
+      'latitude': -20.840044,
+      'longitude': -41.129601
     }
   },
   {
@@ -3929,8 +3929,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839648,
-      'longitude': -41.130481
+      'latitude': -20.840152,
+      'longitude': -41.129512
     }
   },
   {
@@ -3948,8 +3948,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840044,
-      'longitude': -41.129601
+      'latitude': -20.840583,
+      'longitude': -41.128233
     }
   },
   {
@@ -3967,8 +3967,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840152,
-      'longitude': -41.129512
+      'latitude': -20.840488,
+      'longitude': -41.128296
     }
   },
   {
@@ -3986,8 +3986,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840583,
-      'longitude': -41.128233
+      'latitude': -20.839839,
+      'longitude': -41.127928
     }
   },
   {
@@ -4005,8 +4005,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840488,
-      'longitude': -41.128296
+      'latitude': -20.839987,
+      'longitude': -41.127962
     }
   },
   {
@@ -4024,8 +4024,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839839,
-      'longitude': -41.127928
+      'latitude': -20.839306,
+      'longitude': -41.12821
     }
   },
   {
@@ -4043,8 +4043,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839987,
-      'longitude': -41.127962
+      'latitude': -20.839049,
+      'longitude': -41.128222
     }
   },
   {
@@ -4062,8 +4062,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839306,
-      'longitude': -41.12821
+      'latitude': -20.837768,
+      'longitude': -41.128531
     }
   },
   {
@@ -4081,8 +4081,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839049,
-      'longitude': -41.128222
+      'latitude': -20.837854,
+      'longitude': -41.1286
     }
   },
   {
@@ -4100,8 +4100,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837768,
-      'longitude': -41.128531
+      'latitude': -20.838553,
+      'longitude': -41.132067
     }
   },
   {
@@ -4119,8 +4119,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837854,
-      'longitude': -41.1286
+      'latitude': -20.837681,
+      'longitude': -41.132238
     }
   },
   {
@@ -4138,8 +4138,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838553,
-      'longitude': -41.132067
+      'latitude': -20.837644,
+      'longitude': -41.132056
     }
   },
   {
@@ -4157,8 +4157,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837681,
-      'longitude': -41.132238
+      'latitude': -20.837572,
+      'longitude': -41.131732
     }
   },
   {
@@ -4176,8 +4176,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837644,
-      'longitude': -41.132056
+      'latitude': -20.837461,
+      'longitude': -41.131543
     }
   },
   {
@@ -4195,8 +4195,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837572,
-      'longitude': -41.131732
+      'latitude': -20.837348,
+      'longitude': -41.13071
     }
   },
   {
@@ -4214,8 +4214,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837461,
-      'longitude': -41.131543
+      'latitude': -20.837314,
+      'longitude': -41.130868
     }
   },
   {
@@ -4233,8 +4233,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837348,
-      'longitude': -41.13071
+      'latitude': -20.83711,
+      'longitude': -41.130012
     }
   },
   {
@@ -4252,8 +4252,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837314,
-      'longitude': -41.130868
+      'latitude': -20.837211,
+      'longitude': -41.130145
     }
   },
   {
@@ -4271,8 +4271,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83711,
-      'longitude': -41.130012
+      'latitude': -20.836638,
+      'longitude': -41.128587
     }
   },
   {
@@ -4290,8 +4290,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837211,
-      'longitude': -41.130145
+      'latitude': -20.836593,
+      'longitude': -41.128474
     }
   },
   {
@@ -4309,8 +4309,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836638,
-      'longitude': -41.128587
+      'latitude': -20.835754,
+      'longitude': -41.127292
     }
   },
   {
@@ -4328,8 +4328,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836593,
-      'longitude': -41.128474
+      'latitude': -20.835808,
+      'longitude': -41.127319
     }
   },
   {
@@ -4347,8 +4347,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835754,
-      'longitude': -41.127292
+      'latitude': -20.835641,
+      'longitude': -41.126869
     }
   },
   {
@@ -4366,8 +4366,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835808,
-      'longitude': -41.127319
+      'latitude': -20.835681,
+      'longitude': -41.126798
     }
   },
   {
@@ -4385,8 +4385,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835641,
-      'longitude': -41.126869
+      'latitude': -20.835223,
+      'longitude': -41.124886
     }
   },
   {
@@ -4404,8 +4404,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835681,
-      'longitude': -41.126798
+      'latitude': -20.835208,
+      'longitude': -41.125132
     }
   },
   {
@@ -4423,8 +4423,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835223,
-      'longitude': -41.124886
+      'latitude': -20.835544,
+      'longitude': -41.124388
     }
   },
   {
@@ -4442,8 +4442,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835208,
-      'longitude': -41.125132
+      'latitude': -20.835404,
+      'longitude': -41.124424
     }
   },
   {
@@ -4461,8 +4461,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835544,
-      'longitude': -41.124388
+      'latitude': -20.882162,
+      'longitude': -41.098309
     }
   },
   {
@@ -4480,8 +4480,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835404,
-      'longitude': -41.124424
+      'latitude': -20.882089,
+      'longitude': -41.098311
     }
   },
   {
@@ -4499,8 +4499,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882162,
-      'longitude': -41.098309
+      'latitude': -20.882829,
+      'longitude': -41.098703
     }
   },
   {
@@ -4518,8 +4518,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882089,
-      'longitude': -41.098311
+      'latitude': -20.882883,
+      'longitude': -41.098567
     }
   },
   {
@@ -4537,8 +4537,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882829,
-      'longitude': -41.098703
+      'latitude': -20.883417,
+      'longitude': -41.098804
     }
   },
   {
@@ -4556,8 +4556,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882883,
-      'longitude': -41.098567
+      'latitude': -20.882877,
+      'longitude': -41.099868
     }
   },
   {
@@ -4575,8 +4575,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.883417,
-      'longitude': -41.098804
+      'latitude': -20.882962,
+      'longitude': -41.099938
     }
   },
   {
@@ -4594,8 +4594,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882877,
-      'longitude': -41.099868
+      'latitude': -20.881707,
+      'longitude': -41.100316
     }
   },
   {
@@ -4613,8 +4613,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.882962,
-      'longitude': -41.099938
+      'latitude': -20.881865,
+      'longitude': -41.100304
     }
   },
   {
@@ -4632,8 +4632,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.881707,
-      'longitude': -41.100316
+      'latitude': -20.880607,
+      'longitude': -41.099345
     }
   },
   {
@@ -4651,8 +4651,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.881865,
-      'longitude': -41.100304
+      'latitude': -20.8806,
+      'longitude': -41.098925
     }
   },
   {
@@ -4670,8 +4670,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.880607,
-      'longitude': -41.099345
+      'latitude': -20.879935,
+      'longitude': -41.098874
     }
   },
   {
@@ -4689,8 +4689,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8806,
-      'longitude': -41.098925
+      'latitude': -20.88005,
+      'longitude': -41.098882
     }
   },
   {
@@ -4708,8 +4708,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879935,
-      'longitude': -41.098874
+      'latitude': -20.87928,
+      'longitude': -41.099533
     }
   },
   {
@@ -4727,8 +4727,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.88005,
-      'longitude': -41.098882
+      'latitude': -20.879325,
+      'longitude': -41.099407
     }
   },
   {
@@ -4746,8 +4746,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87928,
-      'longitude': -41.099533
+      'latitude': -20.880261,
+      'longitude': -41.102013
     }
   },
   {
@@ -4765,8 +4765,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879325,
-      'longitude': -41.099407
+      'latitude': -20.879294,
+      'longitude': -41.103043
     }
   },
   {
@@ -4784,8 +4784,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.880261,
-      'longitude': -41.102013
+      'latitude': -20.879249,
+      'longitude': -41.102977
     }
   },
   {
@@ -4803,8 +4803,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879294,
-      'longitude': -41.103043
+      'latitude': -20.877979,
+      'longitude': -41.102561
     }
   },
   {
@@ -4822,8 +4822,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.879249,
-      'longitude': -41.102977
+      'latitude': -20.877995,
+      'longitude': -41.102646
     }
   },
   {
@@ -4841,8 +4841,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.877979,
-      'longitude': -41.102561
+      'latitude': -20.877343,
+      'longitude': -41.104214
     }
   },
   {
@@ -4860,8 +4860,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.877995,
-      'longitude': -41.102646
+      'latitude': -20.877298,
+      'longitude': -41.104157
     }
   },
   {
@@ -4879,8 +4879,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.877343,
-      'longitude': -41.104214
+      'latitude': -20.876487,
+      'longitude': -41.104306
     }
   },
   {
@@ -4898,8 +4898,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.877298,
-      'longitude': -41.104157
+      'latitude': -20.87666,
+      'longitude': -41.10435
     }
   },
   {
@@ -4917,8 +4917,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.876487,
-      'longitude': -41.104306
+      'latitude': -20.875977,
+      'longitude': -41.104408
     }
   },
   {
@@ -4936,8 +4936,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87666,
-      'longitude': -41.10435
+      'latitude': -20.87604,
+      'longitude': -41.10448
     }
   },
   {
@@ -4955,8 +4955,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875977,
-      'longitude': -41.104408
+      'latitude': -20.875096,
+      'longitude': -41.103948
     }
   },
   {
@@ -4974,8 +4974,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87604,
-      'longitude': -41.10448
+      'latitude': -20.875003,
+      'longitude': -41.103888
     }
   },
   {
@@ -4993,8 +4993,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875096,
-      'longitude': -41.103948
+      'latitude': -20.875099,
+      'longitude': -41.103096
     }
   },
   {
@@ -5012,8 +5012,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875003,
-      'longitude': -41.103888
+      'latitude': -20.875148,
+      'longitude': -41.1031
     }
   },
   {
@@ -5031,8 +5031,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875099,
-      'longitude': -41.103096
+      'latitude': -20.874247,
+      'longitude': -41.102057
     }
   },
   {
@@ -5050,8 +5050,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875148,
-      'longitude': -41.1031
+      'latitude': -20.87425,
+      'longitude': -41.101799
     }
   },
   {
@@ -5069,8 +5069,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874247,
-      'longitude': -41.102057
+      'latitude': -20.881522,
+      'longitude': -41.128903
     }
   },
   {
@@ -5088,8 +5088,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87425,
-      'longitude': -41.101799
+      'latitude': -20.878551,
+      'longitude': -41.128021
     }
   },
   {
@@ -5107,8 +5107,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.881522,
-      'longitude': -41.128903
+      'latitude': -20.87857,
+      'longitude': -41.127894
     }
   },
   {
@@ -5126,8 +5126,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.878551,
-      'longitude': -41.128021
+      'latitude': -20.877863,
+      'longitude': -41.127603
     }
   },
   {
@@ -5145,8 +5145,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87857,
-      'longitude': -41.127894
+      'latitude': -20.87777,
+      'longitude': -41.127667
     }
   },
   {
@@ -5164,8 +5164,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.877863,
-      'longitude': -41.127603
+      'latitude': -20.874426,
+      'longitude': -41.12517
     }
   },
   {
@@ -5183,8 +5183,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87777,
-      'longitude': -41.127667
+      'latitude': -20.874281,
+      'longitude': -41.125245
     }
   },
   {
@@ -5202,8 +5202,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874426,
-      'longitude': -41.12517
+      'latitude': -20.875102,
+      'longitude': -41.124282
     }
   },
   {
@@ -5221,8 +5221,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874281,
-      'longitude': -41.125245
+      'latitude': -20.875225,
+      'longitude': -41.12423
     }
   },
   {
@@ -5240,8 +5240,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875102,
-      'longitude': -41.124282
+      'latitude': -20.841662,
+      'longitude': -41.127493
     }
   },
   {
@@ -5259,8 +5259,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875225,
-      'longitude': -41.12423
+      'latitude': -20.841761,
+      'longitude': -41.12741
     }
   },
   {
@@ -5278,8 +5278,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841662,
-      'longitude': -41.127493
+      'latitude': -20.85551,
+      'longitude': -41.152706
     }
   },
   {
@@ -5297,8 +5297,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841761,
-      'longitude': -41.12741
+      'latitude': -20.850534,
+      'longitude': -41.151521
     }
   },
   {
@@ -5316,8 +5316,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85551,
-      'longitude': -41.152706
+      'latitude': -20.851739,
+      'longitude': -41.151447
     }
   },
   {
@@ -5335,8 +5335,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850534,
-      'longitude': -41.151521
+      'latitude': -20.851122,
+      'longitude': -41.152532
     }
   },
   {
@@ -5354,8 +5354,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851739,
-      'longitude': -41.151447
+      'latitude': -20.850057,
+      'longitude': -41.152515
     }
   },
   {
@@ -5373,8 +5373,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851122,
-      'longitude': -41.152532
+      'latitude': -20.848654,
+      'longitude': -41.152287
     }
   },
   {
@@ -5392,8 +5392,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850057,
-      'longitude': -41.152515
+      'latitude': -20.847726,
+      'longitude': -41.152729
     }
   },
   {
@@ -5411,8 +5411,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848654,
-      'longitude': -41.152287
+      'latitude': -20.849222,
+      'longitude': -41.152908
     }
   },
   {
@@ -5430,8 +5430,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847726,
-      'longitude': -41.152729
+      'latitude': -20.850103,
+      'longitude': -41.152976
     }
   },
   {
@@ -5449,8 +5449,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849222,
-      'longitude': -41.152908
+      'latitude': -20.85195,
+      'longitude': -41.153031
     }
   },
   {
@@ -5468,8 +5468,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850103,
-      'longitude': -41.152976
+      'latitude': -20.85264,
+      'longitude': -41.152469
     }
   },
   {
@@ -5487,8 +5487,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85195,
-      'longitude': -41.153031
+      'latitude': -20.853482,
+      'longitude': -41.154257
     }
   },
   {
@@ -5506,8 +5506,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85264,
-      'longitude': -41.152469
+      'latitude': -20.859942,
+      'longitude': -41.101191
     }
   },
   {
@@ -5525,8 +5525,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853482,
-      'longitude': -41.154257
+      'latitude': -20.860433,
+      'longitude': -41.101987
     }
   },
   {
@@ -5544,8 +5544,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859942,
-      'longitude': -41.101191
+      'latitude': -20.860525,
+      'longitude': -41.101498
     }
   },
   {
@@ -5563,8 +5563,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860433,
-      'longitude': -41.101987
+      'latitude': -20.86049,
+      'longitude': -41.100049
     }
   },
   {
@@ -5582,8 +5582,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860525,
-      'longitude': -41.101498
+      'latitude': -20.859704,
+      'longitude': -41.100002
     }
   },
   {
@@ -5601,8 +5601,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86049,
-      'longitude': -41.100049
+      'latitude': -20.859744,
+      'longitude': -41.099928
     }
   },
   {
@@ -5620,8 +5620,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859704,
-      'longitude': -41.100002
+      'latitude': -20.858596,
+      'longitude': -41.099069
     }
   },
   {
@@ -5639,8 +5639,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859744,
-      'longitude': -41.099928
+      'latitude': -20.858857,
+      'longitude': -41.099063
     }
   },
   {
@@ -5658,8 +5658,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858596,
-      'longitude': -41.099069
+      'latitude': -20.858154,
+      'longitude': -41.100079
     }
   },
   {
@@ -5677,8 +5677,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858857,
-      'longitude': -41.099063
+      'latitude': -20.858246,
+      'longitude': -41.099995
     }
   },
   {
@@ -5696,8 +5696,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858154,
-      'longitude': -41.100079
+      'latitude': -20.858125,
+      'longitude': -41.10164
     }
   },
   {
@@ -5715,8 +5715,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858246,
-      'longitude': -41.099995
+      'latitude': -20.858245,
+      'longitude': -41.101494
     }
   },
   {
@@ -5734,8 +5734,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858125,
-      'longitude': -41.10164
+      'latitude': -20.858445,
+      'longitude': -41.102015
     }
   },
   {
@@ -5753,8 +5753,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858245,
-      'longitude': -41.101494
+      'latitude': -20.858554,
+      'longitude': -41.102178
     }
   },
   {
@@ -5772,8 +5772,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858445,
-      'longitude': -41.102015
+      'latitude': -20.858176,
+      'longitude': -41.102576
     }
   },
   {
@@ -5791,8 +5791,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858554,
-      'longitude': -41.102178
+      'latitude': -20.858205,
+      'longitude': -41.102645
     }
   },
   {
@@ -5810,8 +5810,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858176,
-      'longitude': -41.102576
+      'latitude': -20.859042,
+      'longitude': -41.102776
     }
   },
   {
@@ -5829,8 +5829,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858205,
-      'longitude': -41.102645
+      'latitude': -20.859197,
+      'longitude': -41.102679
     }
   },
   {
@@ -5848,8 +5848,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859042,
-      'longitude': -41.102776
+      'latitude': -20.860363,
+      'longitude': -41.102952
     }
   },
   {
@@ -5867,8 +5867,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859197,
-      'longitude': -41.102679
+      'latitude': -20.860348,
+      'longitude': -41.102875
     }
   },
   {
@@ -5886,8 +5886,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860363,
-      'longitude': -41.102952
+      'latitude': -20.861034,
+      'longitude': -41.103429
     }
   },
   {
@@ -5905,8 +5905,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860348,
-      'longitude': -41.102875
+      'latitude': -20.860983,
+      'longitude': -41.103505
     }
   },
   {
@@ -5924,8 +5924,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861034,
-      'longitude': -41.103429
+      'latitude': -20.861456,
+      'longitude': -41.104277
     }
   },
   {
@@ -5943,8 +5943,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860983,
-      'longitude': -41.103505
+      'latitude': -20.861407,
+      'longitude': -41.104381
     }
   },
   {
@@ -5962,8 +5962,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861456,
-      'longitude': -41.104277
+      'latitude': -20.86104,
+      'longitude': -41.105082
     }
   },
   {
@@ -5981,8 +5981,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861407,
-      'longitude': -41.104381
+      'latitude': -20.861099,
+      'longitude': -41.105121
     }
   },
   {
@@ -6000,8 +6000,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86104,
-      'longitude': -41.105082
+      'latitude': -20.861319,
+      'longitude': -41.106133
     }
   },
   {
@@ -6019,8 +6019,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861099,
-      'longitude': -41.105121
+      'latitude': -20.86195,
+      'longitude': -41.105446
     }
   },
   {
@@ -6038,8 +6038,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861319,
-      'longitude': -41.106133
+      'latitude': -20.861695,
+      'longitude': -41.106391
     }
   },
   {
@@ -6057,8 +6057,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86195,
-      'longitude': -41.105446
+      'latitude': -20.861699,
+      'longitude': -41.106529
     }
   },
   {
@@ -6076,8 +6076,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861695,
-      'longitude': -41.106391
+      'latitude': -20.862262,
+      'longitude': -41.106931
     }
   },
   {
@@ -6095,8 +6095,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861699,
-      'longitude': -41.106529
+      'latitude': -20.862743,
+      'longitude': -41.108024
     }
   },
   {
@@ -6114,8 +6114,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862262,
-      'longitude': -41.106931
+      'latitude': -20.862535,
+      'longitude': -41.108242
     }
   },
   {
@@ -6133,8 +6133,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862743,
-      'longitude': -41.108024
+      'latitude': -20.861318,
+      'longitude': -41.108567
     }
   },
   {
@@ -6152,8 +6152,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862535,
-      'longitude': -41.108242
+      'latitude': -20.861219,
+      'longitude': -41.10863
     }
   },
   {
@@ -6171,8 +6171,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861318,
-      'longitude': -41.108567
+      'latitude': -20.860066,
+      'longitude': -41.107339
     }
   },
   {
@@ -6190,8 +6190,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861219,
-      'longitude': -41.10863
+      'latitude': -20.85917,
+      'longitude': -41.107811
     }
   },
   {
@@ -6209,8 +6209,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860066,
-      'longitude': -41.107339
+      'latitude': -20.860319,
+      'longitude': -41.107681
     }
   },
   {
@@ -6228,8 +6228,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85917,
-      'longitude': -41.107811
+      'latitude': -20.860087,
+      'longitude': -41.108856
     }
   },
   {
@@ -6247,8 +6247,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860319,
-      'longitude': -41.107681
+      'latitude': -20.860245,
+      'longitude': -41.108708
     }
   },
   {
@@ -6266,8 +6266,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860087,
-      'longitude': -41.108856
+      'latitude': -20.859069,
+      'longitude': -41.109078
     }
   },
   {
@@ -6285,8 +6285,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860245,
-      'longitude': -41.108708
+      'latitude': -20.858925,
+      'longitude': -41.109199
     }
   },
   {
@@ -6304,8 +6304,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859069,
-      'longitude': -41.109078
+      'latitude': -20.858033,
+      'longitude': -41.108578
     }
   },
   {
@@ -6323,8 +6323,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858925,
-      'longitude': -41.109199
+      'latitude': -20.857924,
+      'longitude': -41.108558
     }
   },
   {
@@ -6342,8 +6342,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858033,
-      'longitude': -41.108578
+      'latitude': -20.856664,
+      'longitude': -41.107263
     }
   },
   {
@@ -6361,8 +6361,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857924,
-      'longitude': -41.108558
+      'latitude': -20.856677,
+      'longitude': -41.107378
     }
   },
   {
@@ -6380,8 +6380,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856664,
-      'longitude': -41.107263
+      'latitude': -20.855973,
+      'longitude': -41.106613
     }
   },
   {
@@ -6399,8 +6399,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856677,
-      'longitude': -41.107378
+      'latitude': -20.846002,
+      'longitude': -41.120079
     }
   },
   {
@@ -6418,8 +6418,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855973,
-      'longitude': -41.106613
+      'latitude': -20.846077,
+      'longitude': -41.11982
     }
   },
   {
@@ -6437,8 +6437,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846002,
-      'longitude': -41.120079
+      'latitude': -20.851593,
+      'longitude': -41.110501
     }
   },
   {
@@ -6456,8 +6456,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846077,
-      'longitude': -41.11982
+      'latitude': -20.851613,
+      'longitude': -41.110348
     }
   },
   {
@@ -6475,8 +6475,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851593,
-      'longitude': -41.110501
+      'latitude': -20.853114,
+      'longitude': -41.109466
     }
   },
   {
@@ -6494,8 +6494,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851613,
-      'longitude': -41.110348
+      'latitude': -20.852997,
+      'longitude': -41.109426
     }
   },
   {
@@ -6513,8 +6513,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853114,
-      'longitude': -41.109466
+      'latitude': -20.854627,
+      'longitude': -41.106854
     }
   },
   {
@@ -6532,8 +6532,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852997,
-      'longitude': -41.109426
+      'latitude': -20.854519,
+      'longitude': -41.106853
     }
   },
   {
@@ -6551,8 +6551,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854627,
-      'longitude': -41.106854
+      'latitude': -20.855159,
+      'longitude': -41.106128
     }
   },
   {
@@ -6570,8 +6570,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854519,
-      'longitude': -41.106853
+      'latitude': -20.85615,
+      'longitude': -41.104936
     }
   },
   {
@@ -6589,8 +6589,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855159,
-      'longitude': -41.106128
+      'latitude': -20.856906,
+      'longitude': -41.104225
     }
   },
   {
@@ -6608,8 +6608,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85615,
-      'longitude': -41.104936
+      'latitude': -20.856977,
+      'longitude': -41.103995
     }
   },
   {
@@ -6627,8 +6627,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856906,
-      'longitude': -41.104225
+      'latitude': -20.857552,
+      'longitude': -41.1028
     }
   },
   {
@@ -6646,8 +6646,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856977,
-      'longitude': -41.103995
+      'latitude': -20.857464,
+      'longitude': -41.102855
     }
   },
   {
@@ -6665,8 +6665,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857552,
-      'longitude': -41.1028
+      'latitude': -20.857614,
+      'longitude': -41.101734
     }
   },
   {
@@ -6684,8 +6684,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857464,
-      'longitude': -41.102855
+      'latitude': -20.856522,
+      'longitude': -41.099292
     }
   },
   {
@@ -6703,8 +6703,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857614,
-      'longitude': -41.101734
+      'latitude': -20.856567,
+      'longitude': -41.09914
     }
   },
   {
@@ -6722,8 +6722,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856522,
-      'longitude': -41.099292
+      'latitude': -20.856495,
+      'longitude': -41.096572
     }
   },
   {
@@ -6741,8 +6741,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856567,
-      'longitude': -41.09914
+      'latitude': -20.85638,
+      'longitude': -41.096635
     }
   },
   {
@@ -6760,8 +6760,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856495,
-      'longitude': -41.096572
+      'latitude': -20.858179,
+      'longitude': -41.096173
     }
   },
   {
@@ -6779,8 +6779,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85638,
-      'longitude': -41.096635
+      'latitude': -20.858164,
+      'longitude': -41.096043
     }
   },
   {
@@ -6798,8 +6798,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858179,
-      'longitude': -41.096173
+      'latitude': -20.859309,
+      'longitude': -41.096939
     }
   },
   {
@@ -6817,8 +6817,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858164,
-      'longitude': -41.096043
+      'latitude': -20.85938,
+      'longitude': -41.096866
     }
   },
   {
@@ -6836,8 +6836,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859309,
-      'longitude': -41.096939
+      'latitude': -20.862283,
+      'longitude': -41.097747
     }
   },
   {
@@ -6855,8 +6855,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85938,
-      'longitude': -41.096866
+      'latitude': -20.862257,
+      'longitude': -41.097639
     }
   },
   {
@@ -6874,8 +6874,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862283,
-      'longitude': -41.097747
+      'latitude': -20.863752,
+      'longitude': -41.098367
     }
   },
   {
@@ -6893,8 +6893,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.862257,
-      'longitude': -41.097639
+      'latitude': -20.863581,
+      'longitude': -41.09813
     }
   },
   {
@@ -6912,8 +6912,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863752,
-      'longitude': -41.098367
+      'latitude': -20.874653,
+      'longitude': -41.097965
     }
   },
   {
@@ -6931,8 +6931,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863581,
-      'longitude': -41.09813
+      'latitude': -20.874673,
+      'longitude': -41.09802
     }
   },
   {
@@ -6950,8 +6950,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874653,
-      'longitude': -41.097965
+      'latitude': -20.873367,
+      'longitude': -41.098262
     }
   },
   {
@@ -6969,8 +6969,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874673,
-      'longitude': -41.09802
+      'latitude': -20.873449,
+      'longitude': -41.098308
     }
   },
   {
@@ -6988,8 +6988,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873367,
-      'longitude': -41.098262
+      'latitude': -20.872281,
+      'longitude': -41.099933
     }
   },
   {
@@ -7007,8 +7007,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873449,
-      'longitude': -41.098308
+      'latitude': -20.872333,
+      'longitude': -41.099917
     }
   },
   {
@@ -7026,8 +7026,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872281,
-      'longitude': -41.099933
+      'latitude': -20.872554,
+      'longitude': -41.100742
     }
   },
   {
@@ -7045,8 +7045,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872333,
-      'longitude': -41.099917
+      'latitude': -20.86479,
+      'longitude': -41.120784
     }
   },
   {
@@ -7064,8 +7064,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872554,
-      'longitude': -41.100742
+      'latitude': -20.864731,
+      'longitude': -41.12063
     }
   },
   {
@@ -7083,8 +7083,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86479,
-      'longitude': -41.120784
+      'latitude': -20.865944,
+      'longitude': -41.121072
     }
   },
   {
@@ -7102,8 +7102,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.864731,
-      'longitude': -41.12063
+      'latitude': -20.866082,
+      'longitude': -41.120996
     }
   },
   {
@@ -7121,8 +7121,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.865944,
-      'longitude': -41.121072
+      'latitude': -20.868431,
+      'longitude': -41.122603
     }
   },
   {
@@ -7140,8 +7140,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.866082,
-      'longitude': -41.120996
+      'latitude': -20.86845,
+      'longitude': -41.122466
     }
   },
   {
@@ -7159,8 +7159,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.868431,
-      'longitude': -41.122603
+      'latitude': -20.870261,
+      'longitude': -41.123788
     }
   },
   {
@@ -7178,8 +7178,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86845,
-      'longitude': -41.122466
+      'latitude': -20.870213,
+      'longitude': -41.123653
     }
   },
   {
@@ -7197,8 +7197,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.870261,
-      'longitude': -41.123788
+      'latitude': -20.87162,
+      'longitude': -41.124268
     }
   },
   {
@@ -7216,8 +7216,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.870213,
-      'longitude': -41.123653
+      'latitude': -20.871572,
+      'longitude': -41.124153
     }
   },
   {
@@ -7235,8 +7235,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87162,
-      'longitude': -41.124268
+      'latitude': -20.872688,
+      'longitude': -41.124767
     }
   },
   {
@@ -7254,8 +7254,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.871572,
-      'longitude': -41.124153
+      'latitude': -20.872578,
+      'longitude': -41.124714
     }
   },
   {
@@ -7273,8 +7273,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872688,
-      'longitude': -41.124767
+      'latitude': -20.873096,
+      'longitude': -41.124454
     }
   },
   {
@@ -7292,8 +7292,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872578,
-      'longitude': -41.124714
+      'latitude': -20.873232,
+      'longitude': -41.124395
     }
   },
   {
@@ -7311,8 +7311,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873096,
-      'longitude': -41.124454
+      'latitude': -20.873955,
+      'longitude': -41.123361
     }
   },
   {
@@ -7330,8 +7330,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873232,
-      'longitude': -41.124395
+      'latitude': -20.874903,
+      'longitude': -41.122729
     }
   },
   {
@@ -7349,8 +7349,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.873955,
-      'longitude': -41.123361
+      'latitude': -20.874168,
+      'longitude': -41.123296
     }
   },
   {
@@ -7368,8 +7368,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874903,
-      'longitude': -41.122729
+      'latitude': -20.874941,
+      'longitude': -41.122855
     }
   },
   {
@@ -7387,8 +7387,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874168,
-      'longitude': -41.123296
+      'latitude': -20.84855,
+      'longitude': -41.111967
     }
   },
   {
@@ -7406,8 +7406,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874941,
-      'longitude': -41.122855
+      'latitude': -20.847627,
+      'longitude': -41.115038
     }
   },
   {
@@ -7425,8 +7425,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84855,
-      'longitude': -41.111967
+      'latitude': -20.855964,
+      'longitude': -41.106698
     }
   },
   {
@@ -7444,8 +7444,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847627,
-      'longitude': -41.115038
+      'latitude': -20.85504,
+      'longitude': -41.106117
     }
   },
   {
@@ -7463,8 +7463,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855964,
-      'longitude': -41.106698
+      'latitude': -20.857892,
+      'longitude': -41.110699
     }
   },
   {
@@ -7482,8 +7482,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85504,
-      'longitude': -41.106117
+      'latitude': -20.856705,
+      'longitude': -41.111246
     }
   },
   {
@@ -7501,8 +7501,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857892,
-      'longitude': -41.110699
+      'latitude': -20.856799,
+      'longitude': -41.111279
     }
   },
   {
@@ -7520,8 +7520,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856705,
-      'longitude': -41.111246
+      'latitude': -20.856212,
+      'longitude': -41.111296
     }
   },
   {
@@ -7539,8 +7539,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856799,
-      'longitude': -41.111279
+      'latitude': -20.856256,
+      'longitude': -41.111252
     }
   },
   {
@@ -7558,8 +7558,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856212,
-      'longitude': -41.111296
+      'latitude': -20.855495,
+      'longitude': -41.110433
     }
   },
   {
@@ -7577,8 +7577,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856256,
-      'longitude': -41.111252
+      'latitude': -20.855439,
+      'longitude': -41.110458
     }
   },
   {
@@ -7596,8 +7596,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855495,
-      'longitude': -41.110433
+      'latitude': -20.854222,
+      'longitude': -41.109821
     }
   },
   {
@@ -7615,8 +7615,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855439,
-      'longitude': -41.110458
+      'latitude': -20.854261,
+      'longitude': -41.109886
     }
   },
   {
@@ -7634,8 +7634,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854222,
-      'longitude': -41.109821
+      'latitude': -20.852979,
+      'longitude': -41.096284
     }
   },
   {
@@ -7653,8 +7653,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854261,
-      'longitude': -41.109886
+      'latitude': -20.852983,
+      'longitude': -41.096598
     }
   },
   {
@@ -7672,8 +7672,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852979,
-      'longitude': -41.096284
+      'latitude': -20.852333,
+      'longitude': -41.095145
     }
   },
   {
@@ -7691,8 +7691,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852983,
-      'longitude': -41.096598
+      'latitude': -20.84468,
+      'longitude': -41.102119
     }
   },
   {
@@ -7710,8 +7710,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852333,
-      'longitude': -41.095145
+      'latitude': -20.845432,
+      'longitude': -41.101944
     }
   },
   {
@@ -7729,8 +7729,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84468,
-      'longitude': -41.102119
+      'latitude': -20.845601,
+      'longitude': -41.101596
     }
   },
   {
@@ -7748,8 +7748,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845432,
-      'longitude': -41.101944
+      'latitude': -20.845873,
+      'longitude': -41.101443
     }
   },
   {
@@ -7767,8 +7767,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845601,
-      'longitude': -41.101596
+      'latitude': -20.846228,
+      'longitude': -41.102198
     }
   },
   {
@@ -7786,8 +7786,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845873,
-      'longitude': -41.101443
+      'latitude': -20.846253,
+      'longitude': -41.101469
     }
   },
   {
@@ -7805,8 +7805,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846228,
-      'longitude': -41.102198
+      'latitude': -20.847132,
+      'longitude': -41.102293
     }
   },
   {
@@ -7824,8 +7824,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846253,
-      'longitude': -41.101469
+      'latitude': -20.847126,
+      'longitude': -41.102235
     }
   },
   {
@@ -7843,8 +7843,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847132,
-      'longitude': -41.102293
+      'latitude': -20.847875,
+      'longitude': -41.102401
     }
   },
   {
@@ -7862,8 +7862,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847126,
-      'longitude': -41.102235
+      'latitude': -20.847832,
+      'longitude': -41.102472
     }
   },
   {
@@ -7881,8 +7881,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847875,
-      'longitude': -41.102401
+      'latitude': -20.84621,
+      'longitude': -41.104132
     }
   },
   {
@@ -7900,8 +7900,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847832,
-      'longitude': -41.102472
+      'latitude': -20.845515,
+      'longitude': -41.104116
     }
   },
   {
@@ -7919,8 +7919,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84621,
-      'longitude': -41.104132
+      'latitude': -20.842292,
+      'longitude': -41.106445
     }
   },
   {
@@ -7938,8 +7938,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845515,
-      'longitude': -41.104116
+      'latitude': -20.843254,
+      'longitude': -41.104651
     }
   },
   {
@@ -7957,8 +7957,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842292,
-      'longitude': -41.106445
+      'latitude': -20.843335,
+      'longitude': -41.10464
     }
   },
   {
@@ -7976,8 +7976,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843254,
-      'longitude': -41.104651
+      'latitude': -20.844309,
+      'longitude': -41.104012
     }
   },
   {
@@ -7995,8 +7995,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843335,
-      'longitude': -41.10464
+      'latitude': -20.844421,
+      'longitude': -41.103988
     }
   },
   {
@@ -8014,8 +8014,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844309,
-      'longitude': -41.104012
+      'latitude': -20.845516,
+      'longitude': -41.104175
     }
   },
   {
@@ -8033,8 +8033,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844421,
-      'longitude': -41.103988
+      'latitude': -20.846304,
+      'longitude': -41.104221
     }
   },
   {
@@ -8052,8 +8052,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845516,
-      'longitude': -41.104175
+      'latitude': -20.838474,
+      'longitude': -41.11762
     }
   },
   {
@@ -8071,8 +8071,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846304,
-      'longitude': -41.104221
+      'latitude': -20.868141,
+      'longitude': -41.209317
     }
   },
   {
@@ -8090,8 +8090,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838474,
-      'longitude': -41.11762
+      'latitude': -20.851705,
+      'longitude': -41.093872
     }
   },
   {
@@ -8109,8 +8109,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.868141,
-      'longitude': -41.209317
+      'latitude': -20.851649,
+      'longitude': -41.093969
     }
   },
   {
@@ -8128,8 +8128,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851705,
-      'longitude': -41.093872
+      'latitude': -20.851654,
+      'longitude': -41.093335
     }
   },
   {
@@ -8147,8 +8147,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851649,
-      'longitude': -41.093969
+      'latitude': -20.853529,
+      'longitude': -41.092346
     }
   },
   {
@@ -8166,8 +8166,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851654,
-      'longitude': -41.093335
+      'latitude': -20.835984,
+      'longitude': -41.145426
     }
   },
   {
@@ -8185,8 +8185,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853529,
-      'longitude': -41.092346
+      'latitude': -20.836809,
+      'longitude': -41.146597
     }
   },
   {
@@ -8204,8 +8204,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835984,
-      'longitude': -41.145426
+      'latitude': -20.838905,
+      'longitude': -41.145835
     }
   },
   {
@@ -8223,8 +8223,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836809,
-      'longitude': -41.146597
+      'latitude': -20.84011,
+      'longitude': -41.145404
     }
   },
   {
@@ -8242,8 +8242,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838905,
-      'longitude': -41.145835
+      'latitude': -20.842378,
+      'longitude': -41.14449
     }
   },
   {
@@ -8261,8 +8261,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84011,
-      'longitude': -41.145404
+      'latitude': -20.845,
+      'longitude': -41.144704
     }
   },
   {
@@ -8280,8 +8280,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842378,
-      'longitude': -41.14449
+      'latitude': -20.845887,
+      'longitude': -41.145163
     }
   },
   {
@@ -8299,8 +8299,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845,
-      'longitude': -41.144704
+      'latitude': -20.848093,
+      'longitude': -41.144646
     }
   },
   {
@@ -8318,8 +8318,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845887,
-      'longitude': -41.145163
+      'latitude': -20.847881,
+      'longitude': -41.147988
     }
   },
   {
@@ -8337,8 +8337,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848093,
-      'longitude': -41.144646
+      'latitude': -20.846521,
+      'longitude': -41.148665
     }
   },
   {
@@ -8356,8 +8356,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847881,
-      'longitude': -41.147988
+      'latitude': -20.845484,
+      'longitude': -41.149368
     }
   },
   {
@@ -8375,8 +8375,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846521,
-      'longitude': -41.148665
+      'latitude': -20.845537,
+      'longitude': -41.150574
     }
   },
   {
@@ -8394,8 +8394,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845484,
-      'longitude': -41.149368
+      'latitude': -20.845131,
+      'longitude': -41.15127
     }
   },
   {
@@ -8413,8 +8413,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845537,
-      'longitude': -41.150574
+      'latitude': -20.844781,
+      'longitude': -41.152165
     }
   },
   {
@@ -8432,8 +8432,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845131,
-      'longitude': -41.15127
+      'latitude': -20.84262,
+      'longitude': -41.157996
     }
   },
   {
@@ -8451,8 +8451,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844781,
-      'longitude': -41.152165
+      'latitude': -20.844672,
+      'longitude': -41.155635
     }
   },
   {
@@ -8470,8 +8470,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84262,
-      'longitude': -41.157996
+      'latitude': -20.845746,
+      'longitude': -41.153389
     }
   },
   {
@@ -8489,8 +8489,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844672,
-      'longitude': -41.155635
+      'latitude': -20.847016,
+      'longitude': -41.151232
     }
   },
   {
@@ -8508,8 +8508,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845746,
-      'longitude': -41.153389
+      'latitude': -20.848241,
+      'longitude': -41.147172
     }
   },
   {
@@ -8527,8 +8527,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847016,
-      'longitude': -41.151232
+      'latitude': -20.848883,
+      'longitude': -41.144333
     }
   },
   {
@@ -8546,8 +8546,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848241,
-      'longitude': -41.147172
+      'latitude': -20.850482,
+      'longitude': -41.142722
     }
   },
   {
@@ -8565,8 +8565,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848883,
-      'longitude': -41.144333
+      'latitude': -20.848536,
+      'longitude': -41.140199
     }
   },
   {
@@ -8584,8 +8584,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850482,
-      'longitude': -41.142722
+      'latitude': -20.846666,
+      'longitude': -41.136744
     }
   },
   {
@@ -8603,8 +8603,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848536,
-      'longitude': -41.140199
+      'latitude': -20.845758,
+      'longitude': -41.13504
     }
   },
   {
@@ -8622,8 +8622,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846666,
-      'longitude': -41.136744
+      'latitude': -20.844915,
+      'longitude': -41.132824
     }
   },
   {
@@ -8641,8 +8641,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845758,
-      'longitude': -41.13504
+      'latitude': -20.844663,
+      'longitude': -41.129411
     }
   },
   {
@@ -8660,8 +8660,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844915,
-      'longitude': -41.132824
+      'latitude': -20.845086,
+      'longitude': -41.123431
     }
   },
   {
@@ -8679,8 +8679,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844663,
-      'longitude': -41.129411
+      'latitude': -20.844938,
+      'longitude': -41.123409
     }
   },
   {
@@ -8698,8 +8698,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845086,
-      'longitude': -41.123431
+      'latitude': -20.844798,
+      'longitude': -41.126823
     }
   },
   {
@@ -8717,8 +8717,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844938,
-      'longitude': -41.123409
+      'latitude': -20.844733,
+      'longitude': -41.126095
     }
   },
   {
@@ -8736,8 +8736,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844798,
-      'longitude': -41.126823
+      'latitude': -20.844559,
+      'longitude': -41.128395
     }
   },
   {
@@ -8755,8 +8755,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844733,
-      'longitude': -41.126095
+      'latitude': -20.84848,
+      'longitude': -41.141485
     }
   },
   {
@@ -8774,8 +8774,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844559,
-      'longitude': -41.128395
+      'latitude': -20.847891,
+      'longitude': -41.141149
     }
   },
   {
@@ -8793,8 +8793,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84848,
-      'longitude': -41.141485
+      'latitude': -20.8487,
+      'longitude': -41.142321
     }
   },
   {
@@ -8812,8 +8812,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847891,
-      'longitude': -41.141149
+      'latitude': -20.849209,
+      'longitude': -41.142642
     }
   },
   {
@@ -8831,8 +8831,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8487,
-      'longitude': -41.142321
+      'latitude': -20.848859,
+      'longitude': -41.143216
     }
   },
   {
@@ -8850,8 +8850,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849209,
-      'longitude': -41.142642
+      'latitude': -20.847485,
+      'longitude': -41.143433
     }
   },
   {
@@ -8869,8 +8869,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848859,
-      'longitude': -41.143216
+      'latitude': -20.847391,
+      'longitude': -41.143037
     }
   },
   {
@@ -8888,8 +8888,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847485,
-      'longitude': -41.143433
+      'latitude': -20.846612,
+      'longitude': -41.14214
     }
   },
   {
@@ -8907,8 +8907,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847391,
-      'longitude': -41.143037
+      'latitude': -20.848901,
+      'longitude': -41.143794
     }
   },
   {
@@ -8926,8 +8926,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846612,
-      'longitude': -41.14214
+      'latitude': -20.847905,
+      'longitude': -41.149186
     }
   },
   {
@@ -8945,8 +8945,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848901,
-      'longitude': -41.143794
+      'latitude': -20.823552,
+      'longitude': -41.129987
     }
   },
   {
@@ -8964,8 +8964,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847905,
-      'longitude': -41.149186
+      'latitude': -20.824034,
+      'longitude': -41.130582
     }
   },
   {
@@ -8983,8 +8983,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823552,
-      'longitude': -41.129987
+      'latitude': -20.824728,
+      'longitude': -41.130476
     }
   },
   {
@@ -9002,8 +9002,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824034,
-      'longitude': -41.130582
+      'latitude': -20.82718,
+      'longitude': -41.132112
     }
   },
   {
@@ -9021,8 +9021,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824728,
-      'longitude': -41.130476
+      'latitude': -20.825931,
+      'longitude': -41.129986
     }
   },
   {
@@ -9040,8 +9040,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82718,
-      'longitude': -41.132112
+      'latitude': -20.825241,
+      'longitude': -41.130376
     }
   },
   {
@@ -9059,8 +9059,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825931,
-      'longitude': -41.129986
+      'latitude': -20.824986,
+      'longitude': -41.130117
     }
   },
   {
@@ -9078,8 +9078,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825241,
-      'longitude': -41.130376
+      'latitude': -20.833051,
+      'longitude': -41.124232
     }
   },
   {
@@ -9097,8 +9097,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824986,
-      'longitude': -41.130117
+      'latitude': -20.832935,
+      'longitude': -41.125803
     }
   },
   {
@@ -9116,8 +9116,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833051,
-      'longitude': -41.124232
+      'latitude': -20.8325,
+      'longitude': -41.126959
     }
   },
   {
@@ -9135,8 +9135,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832935,
-      'longitude': -41.125803
+      'latitude': -20.832661,
+      'longitude': -41.12859
     }
   },
   {
@@ -9154,8 +9154,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8325,
-      'longitude': -41.126959
+      'latitude': -20.833952,
+      'longitude': -41.124359
     }
   },
   {
@@ -9173,8 +9173,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832661,
-      'longitude': -41.12859
+      'latitude': -20.83502,
+      'longitude': -41.12366
     }
   },
   {
@@ -9192,8 +9192,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833952,
-      'longitude': -41.124359
+      'latitude': -20.836096,
+      'longitude': -41.12356
     }
   },
   {
@@ -9211,8 +9211,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83502,
-      'longitude': -41.12366
+      'latitude': -20.836308,
+      'longitude': -41.123953
     }
   },
   {
@@ -9230,8 +9230,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836096,
-      'longitude': -41.12356
+      'latitude': -20.835971,
+      'longitude': -41.124602
     }
   },
   {
@@ -9249,8 +9249,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836308,
-      'longitude': -41.123953
+      'latitude': -20.890197,
+      'longitude': -41.093376
     }
   },
   {
@@ -9268,8 +9268,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835971,
-      'longitude': -41.124602
+      'latitude': -20.885423,
+      'longitude': -41.095609
     }
   },
   {
@@ -9287,8 +9287,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.890197,
-      'longitude': -41.093376
+      'latitude': -20.859914,
+      'longitude': -41.150247
     }
   },
   {
@@ -9306,8 +9306,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.885423,
-      'longitude': -41.095609
+      'latitude': -20.849495,
+      'longitude': -41.099915
     }
   },
   {
@@ -9325,8 +9325,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859914,
-      'longitude': -41.150247
+      'latitude': -20.848431,
+      'longitude': -41.099448
     }
   },
   {
@@ -9344,8 +9344,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849495,
-      'longitude': -41.099915
+      'latitude': -20.849533,
+      'longitude': -41.156079
     }
   },
   {
@@ -9363,8 +9363,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848431,
-      'longitude': -41.099448
+      'latitude': -20.850994,
+      'longitude': -41.156245
     }
   },
   {
@@ -9382,8 +9382,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.779275,
-      'longitude': -41.06849
+      'latitude': -20.848131,
+      'longitude': -41.131796
     }
   },
   {
@@ -9401,8 +9401,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.777808,
-      'longitude': -41.067887
+      'latitude': -20.848334,
+      'longitude': -41.132629
     }
   },
   {
@@ -9420,8 +9420,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.775383,
-      'longitude': -41.069418
+      'latitude': -20.848223,
+      'longitude': -41.133759
     }
   },
   {
@@ -9439,8 +9439,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.774241,
-      'longitude': -41.06915
+      'latitude': -20.847737,
+      'longitude': -41.134446
     }
   },
   {
@@ -9458,8 +9458,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.77283,
-      'longitude': -41.068199
+      'latitude': -20.857465,
+      'longitude': -41.124108
     }
   },
   {
@@ -9477,8 +9477,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.770809,
-      'longitude': -41.066832
+      'latitude': -20.85675,
+      'longitude': -41.123272
     }
   },
   {
@@ -9496,8 +9496,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.769052,
-      'longitude': -41.065097
+      'latitude': -20.849044,
+      'longitude': -41.127253
     }
   },
   {
@@ -9515,8 +9515,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766899,
-      'longitude': -41.061616
+      'latitude': -20.849359,
+      'longitude': -41.1282
     }
   },
   {
@@ -9534,8 +9534,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766739,
-      'longitude': -41.061584
+      'latitude': -20.849669,
+      'longitude': -41.129695
     }
   },
   {
@@ -9553,8 +9553,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.768938,
-      'longitude': -41.065099
+      'latitude': -20.849668,
+      'longitude': -41.130918
     }
   },
   {
@@ -9572,8 +9572,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.770718,
-      'longitude': -41.066915
+      'latitude': -20.847795,
+      'longitude': -41.129529
     }
   },
   {
@@ -9591,8 +9591,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.772697,
-      'longitude': -41.068219
+      'latitude': -20.854473,
+      'longitude': -41.125676
     }
   },
   {
@@ -9610,8 +9610,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.774138,
-      'longitude': -41.069196
+      'latitude': -20.856067,
+      'longitude': -41.125657
     }
   },
   {
@@ -9629,8 +9629,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.775382,
-      'longitude': -41.069518
+      'latitude': -20.857145,
+      'longitude': -41.125269
     }
   },
   {
@@ -9648,8 +9648,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.778239,
-      'longitude': -41.067596
+      'latitude': -20.857304,
+      'longitude': -41.121406
     }
   },
   {
@@ -9667,8 +9667,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.779183,
-      'longitude': -41.068604
+      'latitude': -20.847021,
+      'longitude': -41.129866
     }
   },
   {
@@ -9686,8 +9686,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826919,
-      'longitude': -41.15672
+      'latitude': -20.84811,
+      'longitude': -41.13136
     }
   },
   {
@@ -9705,8 +9705,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.756198,
-      'longitude': -41.193841
+      'latitude': -20.848275,
+      'longitude': -41.131682
     }
   },
   {
@@ -9724,8 +9724,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.756339,
-      'longitude': -41.193683
+      'latitude': -20.849083,
+      'longitude': -41.128133
     }
   },
   {
@@ -9743,8 +9743,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.759873,
-      'longitude': -41.197939
+      'latitude': -20.8486,
+      'longitude': -41.126142
     }
   },
   {
@@ -9762,8 +9762,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.756239,
-      'longitude': -41.194469
+      'latitude': -20.84782,
+      'longitude': -41.121183
     }
   },
   {
@@ -9781,8 +9781,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.755526,
-      'longitude': -41.194115
+      'latitude': -20.849232,
+      'longitude': -41.12998
     }
   },
   {
@@ -9800,8 +9800,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.75495,
-      'longitude': -41.193821
+      'latitude': -20.847249,
+      'longitude': -41.137605
     }
   },
   {
@@ -9819,8 +9819,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.753544,
-      'longitude': -41.19093
+      'latitude': -20.849093,
+      'longitude': -41.13385
     }
   },
   {
@@ -9838,8 +9838,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.752388,
-      'longitude': -41.189549
+      'latitude': -20.849281,
+      'longitude': -41.132194
     }
   },
   {
@@ -9857,8 +9857,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.751126,
-      'longitude': -41.188457
+      'latitude': -20.851527,
+      'longitude': -41.141471
     }
   },
   {
@@ -9876,8 +9876,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849533,
-      'longitude': -41.156079
+      'latitude': -20.840364,
+      'longitude': -41.182742
     }
   },
   {
@@ -9895,8 +9895,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850994,
-      'longitude': -41.156245
+      'latitude': -20.839533,
+      'longitude': -41.182151
     }
   },
   {
@@ -9914,8 +9914,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848131,
-      'longitude': -41.131796
+      'latitude': -20.839512,
+      'longitude': -41.182258
     }
   },
   {
@@ -9933,8 +9933,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848334,
-      'longitude': -41.132629
+      'latitude': -20.832863,
+      'longitude': -41.175138
     }
   },
   {
@@ -9952,8 +9952,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848223,
-      'longitude': -41.133759
+      'latitude': -20.854307,
+      'longitude': -41.152832
     }
   },
   {
@@ -9971,8 +9971,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847737,
-      'longitude': -41.134446
+      'latitude': -20.854217,
+      'longitude': -41.154306
     }
   },
   {
@@ -9990,8 +9990,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857465,
-      'longitude': -41.124108
+      'latitude': -20.853312,
+      'longitude': -41.152678
     }
   },
   {
@@ -10009,8 +10009,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85675,
-      'longitude': -41.123272
+      'latitude': -20.855406,
+      'longitude': -41.151204
     }
   },
   {
@@ -10028,8 +10028,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849044,
-      'longitude': -41.127253
+      'latitude': -20.854325,
+      'longitude': -41.151007
     }
   },
   {
@@ -10047,8 +10047,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849359,
-      'longitude': -41.1282
+      'latitude': -20.85416,
+      'longitude': -41.152451
     }
   },
   {
@@ -10066,8 +10066,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849669,
-      'longitude': -41.129695
+      'latitude': -20.849371,
+      'longitude': -41.151498
     }
   },
   {
@@ -10085,8 +10085,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849668,
-      'longitude': -41.130918
+      'latitude': -20.822355,
+      'longitude': -41.12193
     }
   },
   {
@@ -10104,8 +10104,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847795,
-      'longitude': -41.129529
+      'latitude': -20.822428,
+      'longitude': -41.121857
     }
   },
   {
@@ -10123,8 +10123,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854473,
-      'longitude': -41.125676
+      'latitude': -20.823204,
+      'longitude': -41.122943
     }
   },
   {
@@ -10142,8 +10142,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856067,
-      'longitude': -41.125657
+      'latitude': -20.823268,
+      'longitude': -41.122915
     }
   },
   {
@@ -10161,8 +10161,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857145,
-      'longitude': -41.125269
+      'latitude': -20.824826,
+      'longitude': -41.123654
     }
   },
   {
@@ -10180,8 +10180,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857304,
-      'longitude': -41.121406
+      'latitude': -20.82476,
+      'longitude': -41.123594
     }
   },
   {
@@ -10199,8 +10199,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847021,
-      'longitude': -41.129866
+      'latitude': -20.826639,
+      'longitude': -41.123135
     }
   },
   {
@@ -10218,8 +10218,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84811,
-      'longitude': -41.13136
+      'latitude': -20.826615,
+      'longitude': -41.123027
     }
   },
   {
@@ -10237,8 +10237,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848275,
-      'longitude': -41.131682
+      'latitude': -20.827809,
+      'longitude': -41.122744
     }
   },
   {
@@ -10256,8 +10256,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849083,
-      'longitude': -41.128133
+      'latitude': -20.827824,
+      'longitude': -41.12282
     }
   },
   {
@@ -10275,8 +10275,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8486,
-      'longitude': -41.126142
+      'latitude': -20.829472,
+      'longitude': -41.121854
     }
   },
   {
@@ -10294,8 +10294,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84782,
-      'longitude': -41.121183
+      'latitude': -20.829532,
+      'longitude': -41.121422
     }
   },
   {
@@ -10313,8 +10313,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849232,
-      'longitude': -41.12998
+      'latitude': -20.829059,
+      'longitude': -41.12032
     }
   },
   {
@@ -10332,8 +10332,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847249,
-      'longitude': -41.137605
+      'latitude': -20.82894,
+      'longitude': -41.119142
     }
   },
   {
@@ -10351,8 +10351,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849093,
-      'longitude': -41.13385
+      'latitude': -20.828863,
+      'longitude': -41.119146
     }
   },
   {
@@ -10370,8 +10370,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849281,
-      'longitude': -41.132194
+      'latitude': -20.82825,
+      'longitude': -41.118263
     }
   },
   {
@@ -10389,8 +10389,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851527,
-      'longitude': -41.141471
+      'latitude': -20.829723,
+      'longitude': -41.118754
     }
   },
   {
@@ -10408,8 +10408,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840364,
-      'longitude': -41.182742
+      'latitude': -20.825601,
+      'longitude': -41.121072
     }
   },
   {
@@ -10427,8 +10427,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839533,
-      'longitude': -41.182151
+      'latitude': -20.826056,
+      'longitude': -41.120906
     }
   },
   {
@@ -10446,8 +10446,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839512,
-      'longitude': -41.182258
+      'latitude': -20.826193,
+      'longitude': -41.120989
     }
   },
   {
@@ -10465,8 +10465,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832863,
-      'longitude': -41.175138
+      'latitude': -20.826521,
+      'longitude': -41.121796
     }
   },
   {
@@ -10484,8 +10484,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854307,
-      'longitude': -41.152832
+      'latitude': -20.826701,
+      'longitude': -41.121983
     }
   },
   {
@@ -10503,8 +10503,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854217,
-      'longitude': -41.154306
+      'latitude': -20.827525,
+      'longitude': -41.122575
     }
   },
   {
@@ -10522,8 +10522,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853312,
-      'longitude': -41.152678
+      'latitude': -20.82751,
+      'longitude': -41.122507
     }
   },
   {
@@ -10541,8 +10541,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855406,
-      'longitude': -41.151204
+      'latitude': -20.828847,
+      'longitude': -41.122269
     }
   },
   {
@@ -10560,8 +10560,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854325,
-      'longitude': -41.151007
+      'latitude': -20.829687,
+      'longitude': -41.122245
     }
   },
   {
@@ -10579,8 +10579,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85416,
-      'longitude': -41.152451
+      'latitude': -20.832878,
+      'longitude': -41.1205
     }
   },
   {
@@ -10598,8 +10598,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849371,
-      'longitude': -41.151498
+      'latitude': -20.83437,
+      'longitude': -41.1198
     }
   },
   {
@@ -10617,8 +10617,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822355,
-      'longitude': -41.12193
+      'latitude': -20.834308,
+      'longitude': -41.119666
     }
   },
   {
@@ -10636,8 +10636,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822428,
-      'longitude': -41.121857
+      'latitude': -20.835819,
+      'longitude': -41.119395
     }
   },
   {
@@ -10655,8 +10655,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823204,
-      'longitude': -41.122943
+      'latitude': -20.835519,
+      'longitude': -41.119318
     }
   },
   {
@@ -10674,8 +10674,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823268,
-      'longitude': -41.122915
+      'latitude': -20.857777,
+      'longitude': -41.110651
     }
   },
   {
@@ -10693,8 +10693,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824826,
-      'longitude': -41.123654
+      'latitude': -20.826973,
+      'longitude': -41.118187
     }
   },
   {
@@ -10712,8 +10712,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82476,
-      'longitude': -41.123594
+      'latitude': -20.826222,
+      'longitude': -41.118651
     }
   },
   {
@@ -10731,8 +10731,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826639,
-      'longitude': -41.123135
+      'latitude': -20.825122,
+      'longitude': -41.119354
     }
   },
   {
@@ -10750,8 +10750,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826615,
-      'longitude': -41.123027
+      'latitude': -20.825089,
+      'longitude': -41.119298
     }
   },
   {
@@ -10769,8 +10769,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827809,
-      'longitude': -41.122744
+      'latitude': -20.823768,
+      'longitude': -41.120478
     }
   },
   {
@@ -10788,8 +10788,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827824,
-      'longitude': -41.12282
+      'latitude': -20.823581,
+      'longitude': -41.120864
     }
   },
   {
@@ -10807,8 +10807,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829472,
-      'longitude': -41.121854
+      'latitude': -20.824521,
+      'longitude': -41.122058
     }
   },
   {
@@ -10826,8 +10826,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829532,
-      'longitude': -41.121422
+      'latitude': -20.824323,
+      'longitude': -41.120452
     }
   },
   {
@@ -10845,8 +10845,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829059,
-      'longitude': -41.12032
+      'latitude': -20.826539,
+      'longitude': -41.118212
     }
   },
   {
@@ -10864,8 +10864,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82894,
-      'longitude': -41.119142
+      'latitude': -20.827899,
+      'longitude': -41.116719
     }
   },
   {
@@ -10883,8 +10883,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828863,
-      'longitude': -41.119146
+      'latitude': -20.828002,
+      'longitude': -41.116691
     }
   },
   {
@@ -10902,8 +10902,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82825,
-      'longitude': -41.118263
+      'latitude': -20.827312,
+      'longitude': -41.115891
     }
   },
   {
@@ -10921,8 +10921,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829723,
-      'longitude': -41.118754
+      'latitude': -20.827268,
+      'longitude': -41.115833
     }
   },
   {
@@ -10940,8 +10940,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825601,
-      'longitude': -41.121072
+      'latitude': -20.826363,
+      'longitude': -41.115908
     }
   },
   {
@@ -10959,8 +10959,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826056,
-      'longitude': -41.120906
+      'latitude': -20.826301,
+      'longitude': -41.115848
     }
   },
   {
@@ -10978,8 +10978,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826193,
-      'longitude': -41.120989
+      'latitude': -20.824685,
+      'longitude': -41.117414
     }
   },
   {
@@ -10997,8 +10997,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826521,
-      'longitude': -41.121796
+      'latitude': -20.82492,
+      'longitude': -41.11738
     }
   },
   {
@@ -11016,8 +11016,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826701,
-      'longitude': -41.121983
+      'latitude': -20.822952,
+      'longitude': -41.11912
     }
   },
   {
@@ -11035,8 +11035,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827525,
-      'longitude': -41.122575
+      'latitude': -20.823093,
+      'longitude': -41.119112
     }
   },
   {
@@ -11054,8 +11054,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82751,
-      'longitude': -41.122507
+      'latitude': -20.822317,
+      'longitude': -41.119641
     }
   },
   {
@@ -11073,8 +11073,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828847,
-      'longitude': -41.122269
+      'latitude': -20.822323,
+      'longitude': -41.119776
     }
   },
   {
@@ -11092,8 +11092,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829687,
-      'longitude': -41.122245
+      'latitude': -20.821494,
+      'longitude': -41.12028
     }
   },
   {
@@ -11111,8 +11111,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832878,
-      'longitude': -41.1205
+      'latitude': -20.821569,
+      'longitude': -41.120365
     }
   },
   {
@@ -11130,8 +11130,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83437,
-      'longitude': -41.1198
+      'latitude': -20.821735,
+      'longitude': -41.119127
     }
   },
   {
@@ -11149,8 +11149,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834308,
-      'longitude': -41.119666
+      'latitude': -20.822245,
+      'longitude': -41.118798
     }
   },
   {
@@ -11168,8 +11168,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835819,
-      'longitude': -41.119395
+      'latitude': -20.823253,
+      'longitude': -41.117786
     }
   },
   {
@@ -11187,8 +11187,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835519,
-      'longitude': -41.119318
+      'latitude': -20.823374,
+      'longitude': -41.117776
     }
   },
   {
@@ -11206,8 +11206,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857777,
-      'longitude': -41.110651
+      'latitude': -20.824714,
+      'longitude': -41.11663
     }
   },
   {
@@ -11225,8 +11225,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826973,
-      'longitude': -41.118187
+      'latitude': -20.824495,
+      'longitude': -41.116716
     }
   },
   {
@@ -11244,8 +11244,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826222,
-      'longitude': -41.118651
+      'latitude': -20.825678,
+      'longitude': -41.115709
     }
   },
   {
@@ -11263,8 +11263,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825122,
-      'longitude': -41.119354
+      'latitude': -20.827259,
+      'longitude': -41.114331
     }
   },
   {
@@ -11282,8 +11282,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825089,
-      'longitude': -41.119298
+      'latitude': -20.827324,
+      'longitude': -41.11436
     }
   },
   {
@@ -11301,8 +11301,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823768,
-      'longitude': -41.120478
+      'latitude': -20.828231,
+      'longitude': -41.113583
     }
   },
   {
@@ -11320,8 +11320,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823581,
-      'longitude': -41.120864
+      'latitude': -20.828142,
+      'longitude': -41.113556
     }
   },
   {
@@ -11339,8 +11339,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824521,
-      'longitude': -41.122058
+      'latitude': -20.828498,
+      'longitude': -41.113612
     }
   },
   {
@@ -11358,8 +11358,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824323,
-      'longitude': -41.120452
+      'latitude': -20.828547,
+      'longitude': -41.113205
     }
   },
   {
@@ -11377,8 +11377,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826539,
-      'longitude': -41.118212
+      'latitude': -20.829779,
+      'longitude': -41.113273
     }
   },
   {
@@ -11396,8 +11396,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827899,
-      'longitude': -41.116719
+      'latitude': -20.831953,
+      'longitude': -41.113324
     }
   },
   {
@@ -11415,8 +11415,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828002,
-      'longitude': -41.116691
+      'latitude': -20.831834,
+      'longitude': -41.113144
     }
   },
   {
@@ -11434,8 +11434,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827312,
-      'longitude': -41.115891
+      'latitude': -20.835431,
+      'longitude': -41.114062
     }
   },
   {
@@ -11453,8 +11453,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827268,
-      'longitude': -41.115833
+      'latitude': -20.83547,
+      'longitude': -41.114125
     }
   },
   {
@@ -11472,8 +11472,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826363,
-      'longitude': -41.115908
+      'latitude': -20.835826,
+      'longitude': -41.113861
     }
   },
   {
@@ -11491,8 +11491,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826301,
-      'longitude': -41.115848
+      'latitude': -20.835825,
+      'longitude': -41.113789
     }
   },
   {
@@ -11510,8 +11510,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824685,
-      'longitude': -41.117414
+      'latitude': -20.836096,
+      'longitude': -41.11468
     }
   },
   {
@@ -11529,8 +11529,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82492,
-      'longitude': -41.11738
+      'latitude': -20.836164,
+      'longitude': -41.11459
     }
   },
   {
@@ -11548,8 +11548,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822952,
-      'longitude': -41.11912
+      'latitude': -20.837236,
+      'longitude': -41.114423
     }
   },
   {
@@ -11567,8 +11567,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823093,
-      'longitude': -41.119112
+      'latitude': -20.837448,
+      'longitude': -41.114056
     }
   },
   {
@@ -11586,8 +11586,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822317,
-      'longitude': -41.119641
+      'latitude': -20.838589,
+      'longitude': -41.114886
     }
   },
   {
@@ -11605,8 +11605,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822323,
-      'longitude': -41.119776
+      'latitude': -20.838807,
+      'longitude': -41.114751
     }
   },
   {
@@ -11624,8 +11624,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.821494,
-      'longitude': -41.12028
+      'latitude': -20.838316,
+      'longitude': -41.116327
     }
   },
   {
@@ -11643,8 +11643,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.821569,
-      'longitude': -41.120365
+      'latitude': -20.838393,
+      'longitude': -41.116227
     }
   },
   {
@@ -11662,8 +11662,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.821735,
-      'longitude': -41.119127
+      'latitude': -20.838505,
+      'longitude': -41.117049
     }
   },
   {
@@ -11681,8 +11681,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.822245,
-      'longitude': -41.118798
+      'latitude': -20.838486,
+      'longitude': -41.117203
     }
   },
   {
@@ -11700,8 +11700,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823253,
-      'longitude': -41.117786
+      'latitude': -20.839574,
+      'longitude': -41.118387
     }
   },
   {
@@ -11719,8 +11719,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823374,
-      'longitude': -41.117776
+      'latitude': -20.839492,
+      'longitude': -41.118166
     }
   },
   {
@@ -11738,8 +11738,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824714,
-      'longitude': -41.11663
+      'latitude': -20.839695,
+      'longitude': -41.118202
     }
   },
   {
@@ -11757,8 +11757,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824495,
-      'longitude': -41.116716
+      'latitude': -20.840926,
+      'longitude': -41.117271
     }
   },
   {
@@ -11776,8 +11776,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825678,
-      'longitude': -41.115709
+      'latitude': -20.840849,
+      'longitude': -41.117137
     }
   },
   {
@@ -11795,8 +11795,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827259,
-      'longitude': -41.114331
+      'latitude': -20.843081,
+      'longitude': -41.116128
     }
   },
   {
@@ -11814,8 +11814,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827324,
-      'longitude': -41.11436
+      'latitude': -20.843135,
+      'longitude': -41.115982
     }
   },
   {
@@ -11833,8 +11833,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828231,
-      'longitude': -41.113583
+      'latitude': -20.844646,
+      'longitude': -41.10556
     }
   },
   {
@@ -11852,8 +11852,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828142,
-      'longitude': -41.113556
+      'latitude': -20.845542,
+      'longitude': -41.105429
     }
   },
   {
@@ -11871,8 +11871,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828498,
-      'longitude': -41.113612
+      'latitude': -20.844923,
+      'longitude': -41.107026
     }
   },
   {
@@ -11890,8 +11890,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828547,
-      'longitude': -41.113205
+      'latitude': -20.844855,
+      'longitude': -41.106978
     }
   },
   {
@@ -11909,8 +11909,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829779,
-      'longitude': -41.113273
+      'latitude': -20.844544,
+      'longitude': -41.107423
     }
   },
   {
@@ -11928,8 +11928,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831953,
-      'longitude': -41.113324
+      'latitude': -20.845098,
+      'longitude': -41.108125
     }
   },
   {
@@ -11947,8 +11947,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831834,
-      'longitude': -41.113144
+      'latitude': -20.845214,
+      'longitude': -41.108099
     }
   },
   {
@@ -11966,8 +11966,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835431,
-      'longitude': -41.114062
+      'latitude': -20.844354,
+      'longitude': -41.10912
     }
   },
   {
@@ -11985,8 +11985,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83547,
-      'longitude': -41.114125
+      'latitude': -20.844141,
+      'longitude': -41.1091
     }
   },
   {
@@ -12004,8 +12004,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835826,
-      'longitude': -41.113861
+      'latitude': -20.843527,
+      'longitude': -41.10916
     }
   },
   {
@@ -12023,8 +12023,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835825,
-      'longitude': -41.113789
+      'latitude': -20.842885,
+      'longitude': -41.110991
     }
   },
   {
@@ -12042,8 +12042,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836096,
-      'longitude': -41.11468
+      'latitude': -20.843064,
+      'longitude': -41.110745
     }
   },
   {
@@ -12061,8 +12061,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836164,
-      'longitude': -41.11459
+      'latitude': -20.843637,
+      'longitude': -41.112487
     }
   },
   {
@@ -12080,8 +12080,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837236,
-      'longitude': -41.114423
+      'latitude': -20.84361,
+      'longitude': -41.112579
     }
   },
   {
@@ -12099,8 +12099,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837448,
-      'longitude': -41.114056
+      'latitude': -20.844079,
+      'longitude': -41.11356
     }
   },
   {
@@ -12118,8 +12118,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838589,
-      'longitude': -41.114886
+      'latitude': -20.844179,
+      'longitude': -41.113856
     }
   },
   {
@@ -12137,8 +12137,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838807,
-      'longitude': -41.114751
+      'latitude': -20.845861,
+      'longitude': -41.114207
     }
   },
   {
@@ -12156,8 +12156,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838316,
-      'longitude': -41.116327
+      'latitude': -20.854763,
+      'longitude': -41.101494
     }
   },
   {
@@ -12175,8 +12175,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838393,
-      'longitude': -41.116227
+      'latitude': -20.853792,
+      'longitude': -41.101198
     }
   },
   {
@@ -12194,8 +12194,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838505,
-      'longitude': -41.117049
+      'latitude': -20.853869,
+      'longitude': -41.101265
     }
   },
   {
@@ -12213,8 +12213,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838486,
-      'longitude': -41.117203
+      'latitude': -20.852837,
+      'longitude': -41.10142
     }
   },
   {
@@ -12232,8 +12232,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839574,
-      'longitude': -41.118387
+      'latitude': -20.8529,
+      'longitude': -41.101395
     }
   },
   {
@@ -12251,8 +12251,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839492,
-      'longitude': -41.118166
+      'latitude': -20.852503,
+      'longitude': -41.10107
     }
   },
   {
@@ -12270,8 +12270,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839695,
-      'longitude': -41.118202
+      'latitude': -20.852368,
+      'longitude': -41.101296
     }
   },
   {
@@ -12289,8 +12289,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840926,
-      'longitude': -41.117271
+      'latitude': -20.851028,
+      'longitude': -41.10231
     }
   },
   {
@@ -12308,8 +12308,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840849,
-      'longitude': -41.117137
+      'latitude': -20.850971,
+      'longitude': -41.102363
     }
   },
   {
@@ -12327,8 +12327,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843081,
-      'longitude': -41.116128
+      'latitude': -20.851014,
+      'longitude': -41.102948
     }
   },
   {
@@ -12346,8 +12346,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843135,
-      'longitude': -41.115982
+      'latitude': -20.850963,
+      'longitude': -41.102977
     }
   },
   {
@@ -12365,8 +12365,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844646,
-      'longitude': -41.10556
+      'latitude': -20.850359,
+      'longitude': -41.103743
     }
   },
   {
@@ -12384,8 +12384,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845542,
-      'longitude': -41.105429
+      'latitude': -20.850441,
+      'longitude': -41.103801
     }
   },
   {
@@ -12403,8 +12403,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844923,
-      'longitude': -41.107026
+      'latitude': -20.84944,
+      'longitude': -41.104074
     }
   },
   {
@@ -12422,8 +12422,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844855,
-      'longitude': -41.106978
+      'latitude': -20.849601,
+      'longitude': -41.104043
     }
   },
   {
@@ -12441,8 +12441,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844544,
-      'longitude': -41.107423
+      'latitude': -20.848611,
+      'longitude': -41.104656
     }
   },
   {
@@ -12460,8 +12460,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845098,
-      'longitude': -41.108125
+      'latitude': -20.84867,
+      'longitude': -41.104605
     }
   },
   {
@@ -12479,8 +12479,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845214,
-      'longitude': -41.108099
+      'latitude': -20.847873,
+      'longitude': -41.105135
     }
   },
   {
@@ -12498,8 +12498,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844354,
-      'longitude': -41.10912
+      'latitude': -20.847962,
+      'longitude': -41.10525
     }
   },
   {
@@ -12517,8 +12517,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844141,
-      'longitude': -41.1091
+      'latitude': -20.853279,
+      'longitude': -41.097122
     }
   },
   {
@@ -12536,8 +12536,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843527,
-      'longitude': -41.10916
+      'latitude': -20.853198,
+      'longitude': -41.097246
     }
   },
   {
@@ -12555,8 +12555,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842885,
-      'longitude': -41.110991
+      'latitude': -20.849611,
+      'longitude': -41.100886
     }
   },
   {
@@ -12574,8 +12574,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843064,
-      'longitude': -41.110745
+      'latitude': -20.849806,
+      'longitude': -41.100574
     }
   },
   {
@@ -12593,8 +12593,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843637,
-      'longitude': -41.112487
+      'latitude': -20.847621,
+      'longitude': -41.103969
     }
   },
   {
@@ -12612,8 +12612,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84361,
-      'longitude': -41.112579
+      'latitude': -20.72809,
+      'longitude': -41.133643
     }
   },
   {
@@ -12631,8 +12631,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844079,
-      'longitude': -41.11356
+      'latitude': -20.728479,
+      'longitude': -41.13469
     }
   },
   {
@@ -12650,8 +12650,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844179,
-      'longitude': -41.113856
+      'latitude': -20.751615,
+      'longitude': -41.187643
     }
   },
   {
@@ -12669,8 +12669,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845861,
-      'longitude': -41.114207
+      'latitude': -20.752161,
+      'longitude': -41.187635
     }
   },
   {
@@ -12688,8 +12688,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854763,
-      'longitude': -41.101494
+      'latitude': -20.843743,
+      'longitude': -41.187046
     }
   },
   {
@@ -12707,8 +12707,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853792,
-      'longitude': -41.101198
+      'latitude': -20.867633,
+      'longitude': -41.210027
     }
   },
   {
@@ -12726,8 +12726,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853869,
-      'longitude': -41.101265
+      'latitude': -20.868427,
+      'longitude': -41.209091
     }
   },
   {
@@ -12745,8 +12745,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852837,
-      'longitude': -41.10142
+      'latitude': -20.869117,
+      'longitude': -41.208039
     }
   },
   {
@@ -12764,8 +12764,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8529,
-      'longitude': -41.101395
+      'latitude': -20.87018,
+      'longitude': -41.207575
     }
   },
   {
@@ -12783,8 +12783,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852503,
-      'longitude': -41.10107
+      'latitude': -20.871336,
+      'longitude': -41.206883
     }
   },
   {
@@ -12802,8 +12802,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852368,
-      'longitude': -41.101296
+      'latitude': -20.872532,
+      'longitude': -41.206177
     }
   },
   {
@@ -12821,8 +12821,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851028,
-      'longitude': -41.10231
+      'latitude': -20.874384,
+      'longitude': -41.203772
     }
   },
   {
@@ -12840,8 +12840,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850971,
-      'longitude': -41.102363
+      'latitude': -20.842905,
+      'longitude': -41.101501
     }
   },
   {
@@ -12859,8 +12859,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851014,
-      'longitude': -41.102948
+      'latitude': -20.84294,
+      'longitude': -41.1014
     }
   },
   {
@@ -12878,8 +12878,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850963,
-      'longitude': -41.102977
+      'latitude': -20.843169,
+      'longitude': -41.102122
     }
   },
   {
@@ -12897,8 +12897,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850359,
-      'longitude': -41.103743
+      'latitude': -20.843067,
+      'longitude': -41.102216
     }
   },
   {
@@ -12916,8 +12916,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850441,
-      'longitude': -41.103801
+      'latitude': -20.84477,
+      'longitude': -41.102166
     }
   },
   {
@@ -12935,8 +12935,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84944,
-      'longitude': -41.104074
+      'latitude': -20.842092,
+      'longitude': -41.132025
     }
   },
   {
@@ -12954,8 +12954,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849601,
-      'longitude': -41.104043
+      'latitude': -20.842346,
+      'longitude': -41.131113
     }
   },
   {
@@ -12973,8 +12973,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848611,
-      'longitude': -41.104656
+      'latitude': -20.888275,
+      'longitude': -41.094524
     }
   },
   {
@@ -12992,8 +12992,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84867,
-      'longitude': -41.104605
+      'latitude': -20.872646,
+      'longitude': -41.10088
     }
   },
   {
@@ -13011,8 +13011,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847873,
-      'longitude': -41.105135
+      'latitude': -20.867155,
+      'longitude': -41.108262
     }
   },
   {
@@ -13030,8 +13030,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847962,
-      'longitude': -41.10525
+      'latitude': -20.825758,
+      'longitude': -41.115736
     }
   },
   {
@@ -13049,8 +13049,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853279,
-      'longitude': -41.097122
+      'latitude': -20.875557,
+      'longitude': -41.123443
     }
   },
   {
@@ -13068,8 +13068,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853198,
-      'longitude': -41.097246
+      'latitude': -20.875557,
+      'longitude': -41.123386
     }
   },
   {
@@ -13087,8 +13087,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849611,
-      'longitude': -41.100886
+      'latitude': -20.846711,
+      'longitude': -41.12755
     }
   },
   {
@@ -13106,8 +13106,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849806,
-      'longitude': -41.100574
+      'latitude': -20.837037,
+      'longitude': -41.177994
     }
   },
   {
@@ -13125,8 +13125,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847621,
-      'longitude': -41.103969
+      'latitude': -20.834925,
+      'longitude': -41.178736
     }
   },
   {
@@ -13144,8 +13144,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84772,
-      'longitude': -41.104027
+      'latitude': -20.833751,
+      'longitude': -41.179415
     }
   },
   {
@@ -13163,8 +13163,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.730511,
-      'longitude': -41.130006
+      'latitude': -20.835038,
+      'longitude': -41.175363
     }
   },
   {
@@ -13182,8 +13182,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.729482,
-      'longitude': -41.131113
+      'latitude': -20.835253,
+      'longitude': -41.176322
     }
   },
   {
@@ -13201,8 +13201,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727856,
-      'longitude': -41.132605
+      'latitude': -20.835898,
+      'longitude': -41.176305
     }
   },
   {
@@ -13220,8 +13220,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727962,
-      'longitude': -41.132706
+      'latitude': -20.836189,
+      'longitude': -41.177921
     }
   },
   {
@@ -13239,8 +13239,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727304,
-      'longitude': -41.13338
+      'latitude': -20.850602,
+      'longitude': -41.154336
     }
   },
   {
@@ -13258,8 +13258,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727047,
-      'longitude': -41.132806
+      'latitude': -20.8509,
+      'longitude': -41.154634
     }
   },
   {
@@ -13277,8 +13277,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.726478,
-      'longitude': -41.132535
+      'latitude': -20.851018,
+      'longitude': -41.155536
     }
   },
   {
@@ -13296,8 +13296,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.724441,
-      'longitude': -41.132215
+      'latitude': -20.85054,
+      'longitude': -41.153845
     }
   },
   {
@@ -13315,8 +13315,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.724417,
-      'longitude': -41.13214
+      'latitude': -20.8509,
+      'longitude': -41.153857
     }
   },
   {
@@ -13334,8 +13334,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.720735,
-      'longitude': -41.13209
+      'latitude': -20.851817,
+      'longitude': -41.153889
     }
   },
   {
@@ -13353,8 +13353,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.720689,
-      'longitude': -41.13225
+      'latitude': -20.853081,
+      'longitude': -41.154295
     }
   },
   {
@@ -13372,8 +13372,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.71988,
-      'longitude': -41.134054
+      'latitude': -20.858385,
+      'longitude': -41.152764
     }
   },
   {
@@ -13391,8 +13391,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.719312,
-      'longitude': -41.137031
+      'latitude': -20.858167,
+      'longitude': -41.15308
     }
   },
   {
@@ -13410,8 +13410,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.719591,
-      'longitude': -41.135447
+      'latitude': -20.857343,
+      'longitude': -41.153257
     }
   },
   {
@@ -13429,8 +13429,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.72809,
-      'longitude': -41.133643
+      'latitude': -20.855755,
+      'longitude': -41.153578
     }
   },
   {
@@ -13448,8 +13448,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.728479,
-      'longitude': -41.13469
+      'latitude': -20.856931,
+      'longitude': -41.150571
     }
   },
   {
@@ -13467,8 +13467,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.751615,
-      'longitude': -41.187643
+      'latitude': -20.846877,
+      'longitude': -41.129831
     }
   },
   {
@@ -13486,8 +13486,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.752161,
-      'longitude': -41.187635
+      'latitude': -20.845975,
+      'longitude': -41.128875
     }
   },
   {
@@ -13505,8 +13505,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764637,
-      'longitude': -41.272064
+      'latitude': -20.845203,
+      'longitude': -41.127792
     }
   },
   {
@@ -13524,8 +13524,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.763709,
-      'longitude': -41.272922
+      'latitude': -20.847124,
+      'longitude': -41.158148
     }
   },
   {
@@ -13543,8 +13543,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762968,
-      'longitude': -41.272961
+      'latitude': -20.847796,
+      'longitude': -41.158331
     }
   },
   {
@@ -13562,8 +13562,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762438,
-      'longitude': -41.269447
+      'latitude': -20.848914,
+      'longitude': -41.158495
     }
   },
   {
@@ -13581,8 +13581,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843743,
-      'longitude': -41.187046
+      'latitude': -20.85096,
+      'longitude': -41.157748
     }
   },
   {
@@ -13600,8 +13600,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.867633,
-      'longitude': -41.210027
+      'latitude': -20.852906,
+      'longitude': -41.156676
     }
   },
   {
@@ -13619,8 +13619,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.868427,
-      'longitude': -41.209091
+      'latitude': -20.851054,
+      'longitude': -41.142227
     }
   },
   {
@@ -13638,8 +13638,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.869117,
-      'longitude': -41.208039
+      'latitude': -20.851636,
+      'longitude': -41.141892
     }
   },
   {
@@ -13657,8 +13657,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.87018,
-      'longitude': -41.207575
+      'latitude': -20.852369,
+      'longitude': -41.140862
     }
   },
   {
@@ -13676,8 +13676,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.871336,
-      'longitude': -41.206883
+      'latitude': -20.849345,
+      'longitude': -41.132361
     }
   },
   {
@@ -13695,8 +13695,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872532,
-      'longitude': -41.206177
+      'latitude': -20.837074,
+      'longitude': -41.11879
     }
   },
   {
@@ -13714,8 +13714,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.874384,
-      'longitude': -41.203772
+      'latitude': -20.83711,
+      'longitude': -41.118881
     }
   },
   {
@@ -13733,8 +13733,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.72284,
-      'longitude': -41.083078
+      'latitude': -20.838149,
+      'longitude': -41.118762
     }
   },
   {
@@ -13752,8 +13752,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.723174,
-      'longitude': -41.084381
+      'latitude': -20.838387,
+      'longitude': -41.119016
     }
   },
   {
@@ -13771,8 +13771,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.723256,
-      'longitude': -41.084325
+      'latitude': -20.839287,
+      'longitude': -41.119531
     }
   },
   {
@@ -13790,8 +13790,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.724013,
-      'longitude': -41.08521
+      'latitude': -20.839424,
+      'longitude': -41.119467
     }
   },
   {
@@ -13809,8 +13809,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.724086,
-      'longitude': -41.085118
+      'latitude': -20.839903,
+      'longitude': -41.119213
     }
   },
   {
@@ -13828,8 +13828,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727038,
-      'longitude': -41.086679
+      'latitude': -20.839836,
+      'longitude': -41.119059
     }
   },
   {
@@ -13847,8 +13847,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.727606,
-      'longitude': -41.086768
+      'latitude': -20.837694,
+      'longitude': -41.11657
     }
   },
   {
@@ -13866,8 +13866,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.730016,
-      'longitude': -41.087769
+      'latitude': -20.837821,
+      'longitude': -41.116533
     }
   },
   {
@@ -13885,8 +13885,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.730014,
-      'longitude': -41.08758
+      'latitude': -20.836955,
+      'longitude': -41.116118
     }
   },
   {
@@ -13904,8 +13904,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.731439,
-      'longitude': -41.087852
+      'latitude': -20.836922,
+      'longitude': -41.115838
     }
   },
   {
@@ -13923,8 +13923,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.731752,
-      'longitude': -41.087891
+      'latitude': -20.836216,
+      'longitude': -41.115406
     }
   },
   {
@@ -13942,8 +13942,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.733863,
-      'longitude': -41.089808
+      'latitude': -20.836188,
+      'longitude': -41.115506
     }
   },
   {
@@ -13961,8 +13961,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.733883,
-      'longitude': -41.089699
+      'latitude': -20.835483,
+      'longitude': -41.115804
     }
   },
   {
@@ -13980,8 +13980,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.768481,
-      'longitude': -41.054853
+      'latitude': -20.835558,
+      'longitude': -41.115809
     }
   },
   {
@@ -13999,8 +13999,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.767599,
-      'longitude': -41.055304
+      'latitude': -20.835919,
+      'longitude': -41.1163
     }
   },
   {
@@ -14018,8 +14018,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766119,
-      'longitude': -41.05635
+      'latitude': -20.836015,
+      'longitude': -41.117009
     }
   },
   {
@@ -14037,8 +14037,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.76622,
-      'longitude': -41.056388
+      'latitude': -20.836635,
+      'longitude': -41.118238
     }
   },
   {
@@ -14056,8 +14056,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765869,
-      'longitude': -41.057733
+      'latitude': -20.836678,
+      'longitude': -41.118178
     }
   },
   {
@@ -14075,8 +14075,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.76576,
-      'longitude': -41.057666
+      'latitude': -20.837981,
+      'longitude': -41.118306
     }
   },
   {
@@ -14094,8 +14094,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764362,
-      'longitude': -41.059234
+      'latitude': -20.837714,
+      'longitude': -41.118338
     }
   },
   {
@@ -14113,8 +14113,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764482,
-      'longitude': -41.059086
+      'latitude': -20.839112,
+      'longitude': -41.118568
     }
   },
   {
@@ -14132,8 +14132,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764904,
-      'longitude': -41.060402
+      'latitude': -20.838456,
+      'longitude': -41.117713
     }
   },
   {
@@ -14151,8 +14151,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764983,
-      'longitude': -41.060662
+      'latitude': -20.83766,
+      'longitude': -41.116885
     }
   },
   {
@@ -14170,8 +14170,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766153,
-      'longitude': -41.060119
+      'latitude': -20.837953,
+      'longitude': -41.112861
     }
   },
   {
@@ -14189,8 +14189,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765886,
-      'longitude': -41.058964
+      'latitude': -20.837958,
+      'longitude': -41.11298
     }
   },
   {
@@ -14208,8 +14208,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.681131,
-      'longitude': -41.347548
+      'latitude': -20.832947,
+      'longitude': -41.113472
     }
   },
   {
@@ -14227,8 +14227,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.681526,
-      'longitude': -41.348502
+      'latitude': -20.833562,
+      'longitude': -41.112376
     }
   },
   {
@@ -14246,8 +14246,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.681617,
-      'longitude': -41.348797
+      'latitude': -20.834729,
+      'longitude': -41.112141
     }
   },
   {
@@ -14265,8 +14265,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.683014,
-      'longitude': -41.348201
+      'latitude': -20.836368,
+      'longitude': -41.111603
     }
   },
   {
@@ -14284,8 +14284,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.683074,
-      'longitude': -41.348232
+      'latitude': -20.837382,
+      'longitude': -41.110641
     }
   },
   {
@@ -14303,8 +14303,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.67866,
-      'longitude': -41.200783
+      'latitude': -20.838322,
+      'longitude': -41.110423
     }
   },
   {
@@ -14322,8 +14322,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.679324,
-      'longitude': -41.200719
+      'latitude': -20.839548,
+      'longitude': -41.109936
     }
   },
   {
@@ -14341,8 +14341,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.674793,
-      'longitude': -41.201087
+      'latitude': -20.840933,
+      'longitude': -41.109084
     }
   },
   {
@@ -14360,8 +14360,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.67489,
-      'longitude': -41.201113
+      'latitude': -20.839954,
+      'longitude': -41.109562
     }
   },
   {
@@ -14379,8 +14379,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.673629,
-      'longitude': -41.204538
+      'latitude': -20.839218,
+      'longitude': -41.110115
     }
   },
   {
@@ -14398,8 +14398,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.673606,
-      'longitude': -41.204346
+      'latitude': -20.838475,
+      'longitude': -41.110956
     }
   },
   {
@@ -14417,8 +14417,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.673134,
-      'longitude': -41.206248
+      'latitude': -20.838737,
+      'longitude': -41.111898
     }
   },
   {
@@ -14436,8 +14436,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.672207,
-      'longitude': -41.20971
+      'latitude': -20.839443,
+      'longitude': -41.112501
     }
   },
   {
@@ -14455,8 +14455,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.672283,
-      'longitude': -41.209673
+      'latitude': -20.839438,
+      'longitude': -41.112657
     }
   },
   {
@@ -14474,8 +14474,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842314,
-      'longitude': -41.100936
+      'latitude': -20.841006,
+      'longitude': -41.121119
     }
   },
   {
@@ -14493,8 +14493,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842905,
-      'longitude': -41.101501
+      'latitude': -20.841019,
+      'longitude': -41.121231
     }
   },
   {
@@ -14512,8 +14512,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84294,
-      'longitude': -41.1014
+      'latitude': -20.842855,
+      'longitude': -41.121428
     }
   },
   {
@@ -14531,8 +14531,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843169,
-      'longitude': -41.102122
+      'latitude': -20.842662,
+      'longitude': -41.121367
     }
   },
   {
@@ -14550,8 +14550,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843067,
-      'longitude': -41.102216
+      'latitude': -20.844649,
+      'longitude': -41.120123
     }
   },
   {
@@ -14569,8 +14569,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84477,
-      'longitude': -41.102166
+      'latitude': -20.844563,
+      'longitude': -41.12014
     }
   },
   {
@@ -14588,8 +14588,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842092,
-      'longitude': -41.132025
+      'latitude': -20.847225,
+      'longitude': -41.111605
     }
   },
   {
@@ -14607,8 +14607,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842346,
-      'longitude': -41.131113
+      'latitude': -20.848948,
+      'longitude': -41.110261
     }
   },
   {
@@ -14626,8 +14626,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.888275,
-      'longitude': -41.094524
+      'latitude': -20.848744,
+      'longitude': -41.092951
     }
   },
   {
@@ -14645,8 +14645,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872646,
-      'longitude': -41.10088
+      'latitude': -20.847547,
+      'longitude': -41.117141
     }
   },
   {
@@ -14664,8 +14664,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.867155,
-      'longitude': -41.108262
+      'latitude': -20.852315,
+      'longitude': -41.09531
     }
   },
   {
@@ -14683,8 +14683,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825758,
-      'longitude': -41.115736
+      'latitude': -20.845239,
+      'longitude': -41.102104
     }
   },
   {
@@ -14702,8 +14702,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875557,
-      'longitude': -41.123443
+      'latitude': -20.859471,
+      'longitude': -41.149563
     }
   },
   {
@@ -14721,8 +14721,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.875557,
-      'longitude': -41.123386
+      'latitude': -20.85944,
+      'longitude': -41.148998
     }
   },
   {
@@ -14740,8 +14740,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846711,
-      'longitude': -41.12755
+      'latitude': -20.858596,
+      'longitude': -41.149073
     }
   },
   {
@@ -14759,8 +14759,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837037,
-      'longitude': -41.177994
+      'latitude': -20.858437,
+      'longitude': -41.148271
     }
   },
   {
@@ -14778,8 +14778,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834925,
-      'longitude': -41.178736
+      'latitude': -20.857536,
+      'longitude': -41.147745
     }
   },
   {
@@ -14797,8 +14797,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833751,
-      'longitude': -41.179415
+      'latitude': -20.857543,
+      'longitude': -41.148911
     }
   },
   {
@@ -14816,8 +14816,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835038,
-      'longitude': -41.175363
+      'latitude': -20.857254,
+      'longitude': -41.147501
     }
   },
   {
@@ -14835,8 +14835,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835253,
-      'longitude': -41.176322
+      'latitude': -20.85612,
+      'longitude': -41.146977
     }
   },
   {
@@ -14854,8 +14854,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835898,
-      'longitude': -41.176305
+      'latitude': -20.85625,
+      'longitude': -41.147133
     }
   },
   {
@@ -14873,8 +14873,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836189,
-      'longitude': -41.177921
+      'latitude': -20.855704,
+      'longitude': -41.147644
     }
   },
   {
@@ -14892,8 +14892,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850602,
-      'longitude': -41.154336
+      'latitude': -20.854243,
+      'longitude': -41.149822
     }
   },
   {
@@ -14911,8 +14911,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8509,
-      'longitude': -41.154634
+      'latitude': -20.855399,
+      'longitude': -41.150808
     }
   },
   {
@@ -14930,8 +14930,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851018,
-      'longitude': -41.155536
+      'latitude': -20.854235,
+      'longitude': -41.150116
     }
   },
   {
@@ -14949,8 +14949,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85054,
-      'longitude': -41.153845
+      'latitude': -20.852599,
+      'longitude': -41.149294
     }
   },
   {
@@ -14968,8 +14968,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8509,
-      'longitude': -41.153857
+      'latitude': -20.851414,
+      'longitude': -41.149171
     }
   },
   {
@@ -14987,8 +14987,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851817,
-      'longitude': -41.153889
+      'latitude': -20.850008,
+      'longitude': -41.148821
     }
   },
   {
@@ -15006,8 +15006,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853081,
-      'longitude': -41.154295
+      'latitude': -20.849941,
+      'longitude': -41.148641
     }
   },
   {
@@ -15025,8 +15025,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858385,
-      'longitude': -41.152764
+      'latitude': -20.848793,
+      'longitude': -41.148014
     }
   },
   {
@@ -15044,8 +15044,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858167,
-      'longitude': -41.15308
+      'latitude': -20.846408,
+      'longitude': -41.157676
     }
   },
   {
@@ -15063,8 +15063,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857343,
-      'longitude': -41.153257
+      'latitude': -20.846766,
+      'longitude': -41.155242
     }
   },
   {
@@ -15082,8 +15082,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855755,
-      'longitude': -41.153578
+      'latitude': -20.847166,
+      'longitude': -41.155232
     }
   },
   {
@@ -15101,8 +15101,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856931,
-      'longitude': -41.150571
+      'latitude': -20.858784,
+      'longitude': -41.14974
     }
   },
   {
@@ -15120,8 +15120,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846877,
-      'longitude': -41.129831
+      'latitude': -20.847578,
+      'longitude': -41.155239
     }
   },
   {
@@ -15139,8 +15139,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845975,
-      'longitude': -41.128875
+      'latitude': -20.847896,
+      'longitude': -41.154641
     }
   },
   {
@@ -15158,8 +15158,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845203,
-      'longitude': -41.127792
+      'latitude': -20.847913,
+      'longitude': -41.153864
     }
   },
   {
@@ -15177,8 +15177,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847124,
-      'longitude': -41.158148
+      'latitude': -20.848302,
+      'longitude': -41.153922
     }
   },
   {
@@ -15196,8 +15196,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847796,
-      'longitude': -41.158331
+      'latitude': -20.848782,
+      'longitude': -41.153627
     }
   },
   {
@@ -15215,8 +15215,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848914,
-      'longitude': -41.158495
+      'latitude': -20.849472,
+      'longitude': -41.153745
     }
   },
   {
@@ -15234,8 +15234,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85096,
-      'longitude': -41.157748
+      'latitude': -20.849498,
+      'longitude': -41.154282
     }
   },
   {
@@ -15253,8 +15253,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852906,
-      'longitude': -41.156676
+      'latitude': -20.842292,
+      'longitude': -41.123839
     }
   },
   {
@@ -15272,8 +15272,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851054,
-      'longitude': -41.142227
+      'latitude': -20.831391,
+      'longitude': -41.183797
     }
   },
   {
@@ -15291,8 +15291,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851636,
-      'longitude': -41.141892
+      'latitude': -20.835264,
+      'longitude': -41.188198
     }
   },
   {
@@ -15310,8 +15310,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852369,
-      'longitude': -41.140862
+      'latitude': -20.829518,
+      'longitude': -41.177198
     }
   },
   {
@@ -15329,8 +15329,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849345,
-      'longitude': -41.132361
+      'latitude': -20.829009,
+      'longitude': -41.178643
     }
   },
   {
@@ -15348,8 +15348,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.659966,
-      'longitude': -41.089628
+      'latitude': -20.836041,
+      'longitude': -41.189394
     }
   },
   {
@@ -15367,8 +15367,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.659922,
-      'longitude': -41.091155
+      'latitude': -20.829182,
+      'longitude': -41.181977
     }
   },
   {
@@ -15386,8 +15386,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837074,
-      'longitude': -41.11879
+      'latitude': -20.828648,
+      'longitude': -41.179692
     }
   },
   {
@@ -15405,8 +15405,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83711,
-      'longitude': -41.118881
+      'latitude': -20.829214,
+      'longitude': -41.181907
     }
   },
   {
@@ -15424,8 +15424,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838149,
-      'longitude': -41.118762
+      'latitude': -20.82877,
+      'longitude': -41.179712
     }
   },
   {
@@ -15443,8 +15443,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838387,
-      'longitude': -41.119016
+      'latitude': -20.838356,
+      'longitude': -41.19041
     }
   },
   {
@@ -15462,8 +15462,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839287,
-      'longitude': -41.119531
+      'latitude': -20.828127,
+      'longitude': -41.18084
     }
   },
   {
@@ -15481,8 +15481,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839424,
-      'longitude': -41.119467
+      'latitude': -20.831855,
+      'longitude': -41.178175
     }
   },
   {
@@ -15500,8 +15500,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839903,
-      'longitude': -41.119213
+      'latitude': -20.832938,
+      'longitude': -41.179581
     }
   },
   {
@@ -15519,8 +15519,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839836,
-      'longitude': -41.119059
+      'latitude': -20.832829,
+      'longitude': -41.179474
     }
   },
   {
@@ -15538,8 +15538,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837694,
-      'longitude': -41.11657
+      'latitude': -20.833132,
+      'longitude': -41.181206
     }
   },
   {
@@ -15557,8 +15557,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837821,
-      'longitude': -41.116533
+      'latitude': -20.833221,
+      'longitude': -41.181191
     }
   },
   {
@@ -15576,8 +15576,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836955,
-      'longitude': -41.116118
+      'latitude': -20.836735,
+      'longitude': -41.182559
     }
   },
   {
@@ -15595,8 +15595,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836922,
-      'longitude': -41.115838
+      'latitude': -20.836652,
+      'longitude': -41.18244
     }
   },
   {
@@ -15614,8 +15614,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836216,
-      'longitude': -41.115406
+      'latitude': -20.838129,
+      'longitude': -41.182267
     }
   },
   {
@@ -15633,8 +15633,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836188,
-      'longitude': -41.115506
+      'latitude': -20.838025,
+      'longitude': -41.182169
     }
   },
   {
@@ -15652,8 +15652,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835483,
-      'longitude': -41.115804
+      'latitude': -20.852881,
+      'longitude': -41.140951
     }
   },
   {
@@ -15671,8 +15671,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835558,
-      'longitude': -41.115809
+      'latitude': -20.849853,
+      'longitude': -41.131476
     }
   },
   {
@@ -15690,8 +15690,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835919,
-      'longitude': -41.1163
+      'latitude': -20.850243,
+      'longitude': -41.126692
     }
   },
   {
@@ -15709,8 +15709,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836015,
-      'longitude': -41.117009
+      'latitude': -20.850243,
+      'longitude': -41.126789
     }
   },
   {
@@ -15728,8 +15728,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836635,
-      'longitude': -41.118238
+      'latitude': -20.850278,
+      'longitude': -41.127826
     }
   },
   {
@@ -15747,8 +15747,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836678,
-      'longitude': -41.118178
+      'latitude': -20.850242,
+      'longitude': -41.127932
     }
   },
   {
@@ -15766,8 +15766,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837981,
-      'longitude': -41.118306
+      'latitude': -20.850634,
+      'longitude': -41.129247
     }
   },
   {
@@ -15785,8 +15785,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837714,
-      'longitude': -41.118338
+      'latitude': -20.850712,
+      'longitude': -41.129275
     }
   },
   {
@@ -15804,8 +15804,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839112,
-      'longitude': -41.118568
+      'latitude': -20.850391,
+      'longitude': -41.130579
     }
   },
   {
@@ -15823,8 +15823,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838456,
-      'longitude': -41.117713
+      'latitude': -20.850341,
+      'longitude': -41.130525
     }
   },
   {
@@ -15842,8 +15842,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83766,
-      'longitude': -41.116885
+      'latitude': -20.855247,
+      'longitude': -41.13295
     }
   },
   {
@@ -15861,8 +15861,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837953,
-      'longitude': -41.112861
+      'latitude': -20.855271,
+      'longitude': -41.132892
     }
   },
   {
@@ -15880,8 +15880,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837958,
-      'longitude': -41.11298
+      'latitude': -20.8548,
+      'longitude': -41.132226
     }
   },
   {
@@ -15899,8 +15899,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832947,
-      'longitude': -41.113472
+      'latitude': -20.854765,
+      'longitude': -41.132256
     }
   },
   {
@@ -15918,8 +15918,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833562,
-      'longitude': -41.112376
+      'latitude': -20.852954,
+      'longitude': -41.131326
     }
   },
   {
@@ -15937,8 +15937,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834729,
-      'longitude': -41.112141
+      'latitude': -20.852865,
+      'longitude': -41.131241
     }
   },
   {
@@ -15956,8 +15956,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836368,
-      'longitude': -41.111603
+      'latitude': -20.853703,
+      'longitude': -41.131354
     }
   },
   {
@@ -15975,8 +15975,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837382,
-      'longitude': -41.110641
+      'latitude': -20.853697,
+      'longitude': -41.131404
     }
   },
   {
@@ -15994,8 +15994,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838322,
-      'longitude': -41.110423
+      'latitude': -20.852308,
+      'longitude': -41.130926
     }
   },
   {
@@ -16013,8 +16013,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839548,
-      'longitude': -41.109936
+      'latitude': -20.852342,
+      'longitude': -41.131061
     }
   },
   {
@@ -16032,8 +16032,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840933,
-      'longitude': -41.109084
+      'latitude': -20.851944,
+      'longitude': -41.130493
     }
   },
   {
@@ -16051,8 +16051,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839954,
-      'longitude': -41.109562
+      'latitude': -20.85193,
+      'longitude': -41.130584
     }
   },
   {
@@ -16070,8 +16070,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839218,
-      'longitude': -41.110115
+      'latitude': -20.851661,
+      'longitude': -41.129786
     }
   },
   {
@@ -16089,8 +16089,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838475,
-      'longitude': -41.110956
+      'latitude': -20.851692,
+      'longitude': -41.129923
     }
   },
   {
@@ -16108,8 +16108,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838737,
-      'longitude': -41.111898
+      'latitude': -20.851939,
+      'longitude': -41.129064
     }
   },
   {
@@ -16127,8 +16127,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839443,
-      'longitude': -41.112501
+      'latitude': -20.85157,
+      'longitude': -41.128539
     }
   },
   {
@@ -16146,8 +16146,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839438,
-      'longitude': -41.112657
+      'latitude': -20.837034,
+      'longitude': -41.117639
     }
   },
   {
@@ -16165,8 +16165,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841006,
-      'longitude': -41.121119
+      'latitude': -20.841267,
+      'longitude': -41.11525
     }
   },
   {
@@ -16184,8 +16184,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841019,
-      'longitude': -41.121231
+      'latitude': -20.841547,
+      'longitude': -41.115482
     }
   },
   {
@@ -16203,8 +16203,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842855,
-      'longitude': -41.121428
+      'latitude': -20.835749,
+      'longitude': -41.116225
     }
   },
   {
@@ -16222,8 +16222,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842662,
-      'longitude': -41.121367
+      'latitude': -20.854736,
+      'longitude': -41.098303
     }
   },
   {
@@ -16241,8 +16241,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844649,
-      'longitude': -41.120123
+      'latitude': -20.854763,
+      'longitude': -41.09815
     }
   },
   {
@@ -16260,8 +16260,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844563,
-      'longitude': -41.12014
+      'latitude': -20.855402,
+      'longitude': -41.099456
     }
   },
   {
@@ -16279,8 +16279,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847225,
-      'longitude': -41.111605
+      'latitude': -20.855274,
+      'longitude': -41.099074
     }
   },
   {
@@ -16298,8 +16298,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848948,
-      'longitude': -41.110261
+      'latitude': -20.856157,
+      'longitude': -41.100829
     }
   },
   {
@@ -16317,8 +16317,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848744,
-      'longitude': -41.092951
+      'latitude': -20.856322,
+      'longitude': -41.101014
     }
   },
   {
@@ -16336,8 +16336,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847547,
-      'longitude': -41.117141
+      'latitude': -20.855549,
+      'longitude': -41.103558
     }
   },
   {
@@ -16355,8 +16355,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852315,
-      'longitude': -41.09531
+      'latitude': -20.855443,
+      'longitude': -41.103815
     }
   },
   {
@@ -16374,8 +16374,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845239,
-      'longitude': -41.102104
+      'latitude': -20.854301,
+      'longitude': -41.105069
     }
   },
   {
@@ -16393,8 +16393,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859471,
-      'longitude': -41.149563
+      'latitude': -20.854551,
+      'longitude': -41.104939
     }
   },
   {
@@ -16412,8 +16412,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85944,
-      'longitude': -41.148998
+      'latitude': -20.853307,
+      'longitude': -41.106631
     }
   },
   {
@@ -16431,8 +16431,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858596,
-      'longitude': -41.149073
+      'latitude': -20.853655,
+      'longitude': -41.106266
     }
   },
   {
@@ -16450,8 +16450,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858437,
-      'longitude': -41.148271
+      'latitude': -20.851149,
+      'longitude': -41.108765
     }
   },
   {
@@ -16469,8 +16469,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857536,
-      'longitude': -41.147745
+      'latitude': -20.851199,
+      'longitude': -41.108839
     }
   },
   {
@@ -16488,8 +16488,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857543,
-      'longitude': -41.148911
+      'latitude': -20.84916,
+      'longitude': -41.109441
     }
   },
   {
@@ -16507,8 +16507,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857254,
-      'longitude': -41.147501
+      'latitude': -20.847803,
+      'longitude': -41.10755
     }
   },
   {
@@ -16526,8 +16526,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85612,
-      'longitude': -41.146977
+      'latitude': -20.848424,
+      'longitude': -41.106143
     }
   },
   {
@@ -16545,8 +16545,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85625,
-      'longitude': -41.147133
+      'latitude': -20.848418,
+      'longitude': -41.106237
     }
   },
   {
@@ -16564,8 +16564,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855704,
-      'longitude': -41.147644
+      'latitude': -20.849594,
+      'longitude': -41.106852
     }
   },
   {
@@ -16583,8 +16583,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854243,
-      'longitude': -41.149822
+      'latitude': -20.849617,
+      'longitude': -41.106806
     }
   },
   {
@@ -16602,8 +16602,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855399,
-      'longitude': -41.150808
+      'latitude': -20.8482,
+      'longitude': -41.107061
     }
   },
   {
@@ -16621,8 +16621,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854235,
-      'longitude': -41.150116
+      'latitude': -20.850728,
+      'longitude': -41.10771
     }
   },
   {
@@ -16640,8 +16640,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852599,
-      'longitude': -41.149294
+      'latitude': -20.850662,
+      'longitude': -41.107558
     }
   },
   {
@@ -16659,8 +16659,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851414,
-      'longitude': -41.149171
+      'latitude': -20.851956,
+      'longitude': -41.106703
     }
   },
   {
@@ -16678,8 +16678,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850008,
-      'longitude': -41.148821
+      'latitude': -20.852004,
+      'longitude': -41.106638
     }
   },
   {
@@ -16697,8 +16697,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849941,
-      'longitude': -41.148641
+      'latitude': -20.851917,
+      'longitude': -41.106491
     }
   },
   {
@@ -16716,8 +16716,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848793,
-      'longitude': -41.148014
+      'latitude': -20.847744,
+      'longitude': -41.10821
     }
   },
   {
@@ -16735,8 +16735,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846408,
-      'longitude': -41.157676
+      'latitude': -20.846816,
+      'longitude': -41.111092
     }
   },
   {
@@ -16754,8 +16754,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846766,
-      'longitude': -41.155242
+      'latitude': -20.845811,
+      'longitude': -41.113451
     }
   },
   {
@@ -16773,8 +16773,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847166,
-      'longitude': -41.155232
+      'latitude': -20.845961,
+      'longitude': -41.11371
     }
   },
   {
@@ -16792,8 +16792,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858784,
-      'longitude': -41.14974
+      'latitude': -20.853295,
+      'longitude': -41.092296
     }
   },
   {
@@ -16811,8 +16811,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847578,
-      'longitude': -41.155239
+      'latitude': -20.852177,
+      'longitude': -41.09193
     }
   },
   {
@@ -16830,8 +16830,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847896,
-      'longitude': -41.154641
+      'latitude': -20.852285,
+      'longitude': -41.092028
     }
   },
   {
@@ -16849,8 +16849,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847913,
-      'longitude': -41.153864
+      'latitude': -20.850567,
+      'longitude': -41.092241
     }
   },
   {
@@ -16868,8 +16868,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848302,
-      'longitude': -41.153922
+      'latitude': -20.850658,
+      'longitude': -41.09231
     }
   },
   {
@@ -16887,8 +16887,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848782,
-      'longitude': -41.153627
+      'latitude': -20.850011,
+      'longitude': -41.093439
     }
   },
   {
@@ -16906,8 +16906,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849472,
-      'longitude': -41.153745
+      'latitude': -20.850042,
+      'longitude': -41.093728
     }
   },
   {
@@ -16925,8 +16925,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849498,
-      'longitude': -41.154282
+      'latitude': -20.851442,
+      'longitude': -41.095381
     }
   },
   {
@@ -16944,8 +16944,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842292,
-      'longitude': -41.123839
+      'latitude': -20.851503,
+      'longitude': -41.09544
     }
   },
   {
@@ -16963,8 +16963,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831391,
-      'longitude': -41.183797
+      'latitude': -20.85176,
+      'longitude': -41.096486
     }
   },
   {
@@ -16982,8 +16982,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835264,
-      'longitude': -41.188198
+      'latitude': -20.851812,
+      'longitude': -41.09643
     }
   },
   {
@@ -17001,8 +17001,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829518,
-      'longitude': -41.177198
+      'latitude': -20.852843,
+      'longitude': -41.096729
     }
   },
   {
@@ -17020,8 +17020,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829009,
-      'longitude': -41.178643
+      'latitude': -20.853082,
+      'longitude': -41.096735
     }
   },
   {
@@ -17039,8 +17039,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836041,
-      'longitude': -41.189394
+      'latitude': -20.853804,
+      'longitude': -41.097065
     }
   },
   {
@@ -17058,8 +17058,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829182,
-      'longitude': -41.181977
+      'latitude': -20.854005,
+      'longitude': -41.097265
     }
   },
   {
@@ -17077,8 +17077,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828648,
-      'longitude': -41.179692
+      'latitude': -20.840826,
+      'longitude': -41.126588
     }
   },
   {
@@ -17096,8 +17096,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829214,
-      'longitude': -41.181907
+      'latitude': -20.842286,
+      'longitude': -41.12819
     }
   },
   {
@@ -17115,8 +17115,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82877,
-      'longitude': -41.179712
+      'latitude': -20.839444,
+      'longitude': -41.122829
     }
   },
   {
@@ -17134,8 +17134,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838356,
-      'longitude': -41.19041
+      'latitude': -20.826145,
+      'longitude': -41.136943
     }
   },
   {
@@ -17153,8 +17153,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828127,
-      'longitude': -41.18084
+      'latitude': -20.823506,
+      'longitude': -41.13308
     }
   },
   {
@@ -17172,8 +17172,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831855,
-      'longitude': -41.178175
+      'latitude': -20.82299,
+      'longitude': -41.132282
     }
   },
   {
@@ -17191,8 +17191,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832938,
-      'longitude': -41.179581
+      'latitude': -20.837023,
+      'longitude': -41.123983
     }
   },
   {
@@ -17210,8 +17210,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832829,
-      'longitude': -41.179474
+      'latitude': -20.836453,
+      'longitude': -41.126368
     }
   },
   {
@@ -17229,8 +17229,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833132,
-      'longitude': -41.181206
+      'latitude': -20.836678,
+      'longitude': -41.127192
     }
   },
   {
@@ -17248,8 +17248,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833221,
-      'longitude': -41.181191
+      'latitude': -20.837765,
+      'longitude': -41.128108
     }
   },
   {
@@ -17267,8 +17267,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836735,
-      'longitude': -41.182559
+      'latitude': -20.83965,
+      'longitude': -41.127514
     }
   },
   {
@@ -17286,8 +17286,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836652,
-      'longitude': -41.18244
+      'latitude': -20.840828,
+      'longitude': -41.126461
     }
   },
   {
@@ -17305,8 +17305,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838129,
-      'longitude': -41.182267
+      'latitude': -20.841109,
+      'longitude': -41.125197
     }
   },
   {
@@ -17324,8 +17324,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838025,
-      'longitude': -41.182169
+      'latitude': -20.841236,
+      'longitude': -41.123874
     }
   },
   {
@@ -17343,8 +17343,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852881,
-      'longitude': -41.140951
+      'latitude': -20.842295,
+      'longitude': -41.128449
     }
   },
   {
@@ -17362,8 +17362,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849853,
-      'longitude': -41.131476
+      'latitude': -20.843199,
+      'longitude': -41.128447
     }
   },
   {
@@ -17381,8 +17381,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850243,
-      'longitude': -41.126692
+      'latitude': -20.844396,
+      'longitude': -41.129077
     }
   },
   {
@@ -17400,8 +17400,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850243,
-      'longitude': -41.126789
+      'latitude': -20.824803,
+      'longitude': -41.13484
     }
   },
   {
@@ -17419,8 +17419,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850278,
-      'longitude': -41.127826
+      'latitude': -20.824573,
+      'longitude': -41.134768
     }
   },
   {
@@ -17438,8 +17438,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850242,
-      'longitude': -41.127932
+      'latitude': -20.82341,
+      'longitude': -41.130211
     }
   },
   {
@@ -17457,8 +17457,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850634,
-      'longitude': -41.129247
+      'latitude': -20.82332,
+      'longitude': -41.130162
     }
   },
   {
@@ -17476,8 +17476,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850712,
-      'longitude': -41.129275
+      'latitude': -20.824619,
+      'longitude': -41.128847
     }
   },
   {
@@ -17495,8 +17495,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850391,
-      'longitude': -41.130579
+      'latitude': -20.824335,
+      'longitude': -41.129013
     }
   },
   {
@@ -17514,8 +17514,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850341,
-      'longitude': -41.130525
+      'latitude': -20.825475,
+      'longitude': -41.127138
     }
   },
   {
@@ -17533,8 +17533,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855247,
-      'longitude': -41.13295
+      'latitude': -20.825307,
+      'longitude': -41.127229
     }
   },
   {
@@ -17552,8 +17552,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855271,
-      'longitude': -41.132892
+      'latitude': -20.826858,
+      'longitude': -41.125624
     }
   },
   {
@@ -17571,8 +17571,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8548,
-      'longitude': -41.132226
+      'latitude': -20.826768,
+      'longitude': -41.125552
     }
   },
   {
@@ -17590,8 +17590,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854765,
-      'longitude': -41.132256
+      'latitude': -20.829558,
+      'longitude': -41.123985
     }
   },
   {
@@ -17609,8 +17609,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852954,
-      'longitude': -41.131326
+      'latitude': -20.829913,
+      'longitude': -41.124017
     }
   },
   {
@@ -17628,8 +17628,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852865,
-      'longitude': -41.131241
+      'latitude': -20.831998,
+      'longitude': -41.123425
     }
   },
   {
@@ -17647,8 +17647,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853703,
-      'longitude': -41.131354
+      'latitude': -20.832194,
+      'longitude': -41.123314
     }
   },
   {
@@ -17666,8 +17666,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853697,
-      'longitude': -41.131404
+      'latitude': -20.833383,
+      'longitude': -41.123182
     }
   },
   {
@@ -17685,8 +17685,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852308,
-      'longitude': -41.130926
+      'latitude': -20.83337,
+      'longitude': -41.123287
     }
   },
   {
@@ -17704,8 +17704,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852342,
-      'longitude': -41.131061
+      'latitude': -20.837513,
+      'longitude': -41.123658
     }
   },
   {
@@ -17723,8 +17723,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851944,
-      'longitude': -41.130493
+      'latitude': -20.837276,
+      'longitude': -41.123757
     }
   },
   {
@@ -17742,8 +17742,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85193,
-      'longitude': -41.130584
+      'latitude': -20.840187,
+      'longitude': -41.122609
     }
   },
   {
@@ -17761,8 +17761,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851661,
-      'longitude': -41.129786
+      'latitude': -20.839891,
+      'longitude': -41.122882
     }
   },
   {
@@ -17780,8 +17780,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851692,
-      'longitude': -41.129923
+      'latitude': -20.844941,
+      'longitude': -41.122638
     }
   },
   {
@@ -17799,8 +17799,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851939,
-      'longitude': -41.129064
+      'latitude': -20.846975,
+      'longitude': -41.121005
     }
   },
   {
@@ -17818,8 +17818,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85157,
-      'longitude': -41.128539
+      'latitude': -20.848774,
+      'longitude': -41.117927
     }
   },
   {
@@ -17837,8 +17837,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837034,
-      'longitude': -41.117639
+      'latitude': -20.849901,
+      'longitude': -41.112956
     }
   },
   {
@@ -17856,8 +17856,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841267,
-      'longitude': -41.11525
+      'latitude': -20.85126,
+      'longitude': -41.111861
     }
   },
   {
@@ -17875,8 +17875,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841547,
-      'longitude': -41.115482
+      'latitude': -20.852405,
+      'longitude': -41.111291
     }
   },
   {
@@ -17894,8 +17894,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835749,
-      'longitude': -41.116225
+      'latitude': -20.853401,
+      'longitude': -41.110363
     }
   },
   {
@@ -17913,8 +17913,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854736,
-      'longitude': -41.098303
+      'latitude': -20.85333,
+      'longitude': -41.110257
     }
   },
   {
@@ -17932,8 +17932,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854763,
-      'longitude': -41.09815
+      'latitude': -20.852285,
+      'longitude': -41.11373
     }
   },
   {
@@ -17951,8 +17951,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855402,
-      'longitude': -41.099456
+      'latitude': -20.852084,
+      'longitude': -41.1139
     }
   },
   {
@@ -17970,8 +17970,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855274,
-      'longitude': -41.099074
+      'latitude': -20.854987,
+      'longitude': -41.110858
     }
   },
   {
@@ -17989,8 +17989,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856157,
-      'longitude': -41.100829
+      'latitude': -20.843277,
+      'longitude': -41.122805
     }
   },
   {
@@ -18008,8 +18008,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856322,
-      'longitude': -41.101014
+      'latitude': -20.846021,
+      'longitude': -41.135786
     }
   },
   {
@@ -18027,8 +18027,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855549,
-      'longitude': -41.103558
+      'latitude': -20.84678,
+      'longitude': -41.13742
     }
   },
   {
@@ -18046,8 +18046,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855443,
-      'longitude': -41.103815
+      'latitude': -20.846814,
+      'longitude': -41.151333
     }
   },
   {
@@ -18065,8 +18065,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854301,
-      'longitude': -41.105069
+      'latitude': -20.846131,
+      'longitude': -41.152934
     }
   },
   {
@@ -18084,8 +18084,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854551,
-      'longitude': -41.104939
+      'latitude': -20.844511,
+      'longitude': -41.155614
     }
   },
   {
@@ -18103,8 +18103,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853307,
-      'longitude': -41.106631
+      'latitude': -20.828678,
+      'longitude': -41.15692
     }
   },
   {
@@ -18122,8 +18122,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853655,
-      'longitude': -41.106266
+      'latitude': -20.83204,
+      'longitude': -41.157513
     }
   },
   {
@@ -18141,8 +18141,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851149,
-      'longitude': -41.108765
+      'latitude': -20.833885,
+      'longitude': -41.157763
     }
   },
   {
@@ -18160,8 +18160,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851199,
-      'longitude': -41.108839
+      'latitude': -20.828284,
+      'longitude': -41.144247
     }
   },
   {
@@ -18179,8 +18179,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84916,
-      'longitude': -41.109441
+      'latitude': -20.8561,
+      'longitude': -41.112266
     }
   },
   {
@@ -18198,8 +18198,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847803,
-      'longitude': -41.10755
+      'latitude': -20.856027,
+      'longitude': -41.112113
     }
   },
   {
@@ -18217,8 +18217,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848424,
-      'longitude': -41.106143
+      'latitude': -20.856822,
+      'longitude': -41.112875
     }
   },
   {
@@ -18236,8 +18236,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848418,
-      'longitude': -41.106237
+      'latitude': -20.856829,
+      'longitude': -41.112777
     }
   },
   {
@@ -18255,8 +18255,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849594,
-      'longitude': -41.106852
+      'latitude': -20.858107,
+      'longitude': -41.113808
     }
   },
   {
@@ -18274,8 +18274,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849617,
-      'longitude': -41.106806
+      'latitude': -20.858251,
+      'longitude': -41.113806
     }
   },
   {
@@ -18293,8 +18293,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8482,
-      'longitude': -41.107061
+      'latitude': -20.859117,
+      'longitude': -41.114624
     }
   },
   {
@@ -18312,8 +18312,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850728,
-      'longitude': -41.10771
+      'latitude': -20.859395,
+      'longitude': -41.11472
     }
   },
   {
@@ -18331,8 +18331,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850662,
-      'longitude': -41.107558
+      'latitude': -20.859904,
+      'longitude': -41.115896
     }
   },
   {
@@ -18350,8 +18350,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851956,
-      'longitude': -41.106703
+      'latitude': -20.859962,
+      'longitude': -41.115833
     }
   },
   {
@@ -18369,8 +18369,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852004,
-      'longitude': -41.106638
+      'latitude': -20.86066,
+      'longitude': -41.117571
     }
   },
   {
@@ -18388,8 +18388,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851917,
-      'longitude': -41.106491
+      'latitude': -20.860762,
+      'longitude': -41.117592
     }
   },
   {
@@ -18407,8 +18407,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847744,
-      'longitude': -41.10821
+      'latitude': -20.861193,
+      'longitude': -41.11834
     }
   },
   {
@@ -18426,8 +18426,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846816,
-      'longitude': -41.111092
+      'latitude': -20.8613,
+      'longitude': -41.118308
     }
   },
   {
@@ -18445,8 +18445,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845811,
-      'longitude': -41.113451
+      'latitude': -20.855657,
+      'longitude': -41.147798
     }
   },
   {
@@ -18464,8 +18464,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845961,
-      'longitude': -41.11371
+      'latitude': -20.854295,
+      'longitude': -41.149924
     }
   },
   {
@@ -18483,8 +18483,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853295,
-      'longitude': -41.092296
+      'latitude': -20.854219,
+      'longitude': -41.150197
     }
   },
   {
@@ -18502,8 +18502,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852177,
-      'longitude': -41.09193
+      'latitude': -20.839436,
+      'longitude': -41.147076
     }
   },
   {
@@ -18521,8 +18521,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852285,
-      'longitude': -41.092028
+      'latitude': -20.833322,
+      'longitude': -41.151342
     }
   },
   {
@@ -18540,8 +18540,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850567,
-      'longitude': -41.092241
+      'latitude': -20.830877,
+      'longitude': -41.153176
     }
   },
   {
@@ -18559,8 +18559,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850658,
-      'longitude': -41.09231
+      'latitude': -20.85234,
+      'longitude': -41.133693
     }
   },
   {
@@ -18578,8 +18578,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850011,
-      'longitude': -41.093439
+      'latitude': -20.838732,
+      'longitude': -41.146002
     }
   },
   {
@@ -18597,8 +18597,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850042,
-      'longitude': -41.093728
+      'latitude': -20.840218,
+      'longitude': -41.145492
     }
   },
   {
@@ -18616,8 +18616,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851442,
-      'longitude': -41.095381
+      'latitude': -20.842389,
+      'longitude': -41.144586
     }
   },
   {
@@ -18635,8 +18635,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851503,
-      'longitude': -41.09544
+      'latitude': -20.847938,
+      'longitude': -41.148037
     }
   },
   {
@@ -18654,8 +18654,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85176,
-      'longitude': -41.096486
+      'latitude': -20.846473,
+      'longitude': -41.148605
     }
   },
   {
@@ -18673,8 +18673,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851812,
-      'longitude': -41.09643
+      'latitude': -20.845495,
+      'longitude': -41.149487
     }
   },
   {
@@ -18692,8 +18692,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852843,
-      'longitude': -41.096729
+      'latitude': -20.84547,
+      'longitude': -41.15059
     }
   },
   {
@@ -18711,8 +18711,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853082,
-      'longitude': -41.096735
+      'latitude': -20.849148,
+      'longitude': -41.142653
     }
   },
   {
@@ -18730,8 +18730,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853804,
-      'longitude': -41.097065
+      'latitude': -20.848799,
+      'longitude': -41.143287
     }
   },
   {
@@ -18749,8 +18749,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854005,
-      'longitude': -41.097265
+      'latitude': -20.847542,
+      'longitude': -41.143491
     }
   },
   {
@@ -18768,8 +18768,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840826,
-      'longitude': -41.126588
+      'latitude': -20.824042,
+      'longitude': -41.13066
     }
   },
   {
@@ -18787,8 +18787,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842286,
-      'longitude': -41.12819
+      'latitude': -20.836366,
+      'longitude': -41.124003
     }
   },
   {
@@ -18806,8 +18806,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839444,
-      'longitude': -41.122829
+      'latitude': -20.843675,
+      'longitude': -41.1871
     }
   },
   {
@@ -18825,8 +18825,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826145,
-      'longitude': -41.136943
+      'latitude': -20.872541,
+      'longitude': -41.206065
     }
   },
   {
@@ -18844,8 +18844,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.823506,
-      'longitude': -41.13308
+      'latitude': -20.85138,
+      'longitude': -41.149243
     }
   },
   {
@@ -18863,8 +18863,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82299,
-      'longitude': -41.132282
+      'latitude': -20.848864,
+      'longitude': -41.147953
     }
   },
   {
@@ -18882,8 +18882,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837023,
-      'longitude': -41.123983
+      'latitude': -20.855053,
+      'longitude': -41.111065
     }
   },
   {
@@ -18901,8 +18901,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836453,
-      'longitude': -41.126368
+      'latitude': -20.846025,
+      'longitude': -41.128787
     }
   },
   {
@@ -18920,8 +18920,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836678,
-      'longitude': -41.127192
+      'latitude': -20.84508,
+      'longitude': -41.127775
     }
   },
   {
@@ -18939,8 +18939,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837765,
-      'longitude': -41.128108
+      'latitude': -20.857113,
+      'longitude': -41.11548
     }
   },
   {
@@ -18958,8 +18958,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83965,
-      'longitude': -41.127514
+      'latitude': -20.857281,
+      'longitude': -41.114713
     }
   },
   {
@@ -18977,8 +18977,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840828,
-      'longitude': -41.126461
+      'latitude': -20.856578,
+      'longitude': -41.114091
     }
   },
   {
@@ -18996,8 +18996,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841109,
-      'longitude': -41.125197
+      'latitude': -20.852395,
+      'longitude': -41.140909
     }
   },
   {
@@ -19015,8 +19015,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841236,
-      'longitude': -41.123874
+      'latitude': -20.852852,
+      'longitude': -41.141124
     }
   },
   {
@@ -19034,8 +19034,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842295,
-      'longitude': -41.128449
+      'latitude': -20.851667,
+      'longitude': -41.141946
     }
   },
   {
@@ -19053,8 +19053,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843199,
-      'longitude': -41.128447
+      'latitude': -20.851077,
+      'longitude': -41.142286
     }
   },
   {
@@ -19072,8 +19072,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844396,
-      'longitude': -41.129077
+      'latitude': -20.829637,
+      'longitude': -41.12216
     }
   },
   {
@@ -19091,8 +19091,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824803,
-      'longitude': -41.13484
+      'latitude': -20.85215,
+      'longitude': -41.136007
     }
   },
   {
@@ -19110,8 +19110,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824573,
-      'longitude': -41.134768
+      'latitude': -20.851983,
+      'longitude': -41.136083
     }
   },
   {
@@ -19129,8 +19129,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82341,
-      'longitude': -41.130211
+      'latitude': -20.853416,
+      'longitude': -41.133528
     }
   },
   {
@@ -19148,8 +19148,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.82332,
-      'longitude': -41.130162
+      'latitude': -20.851635,
+      'longitude': -41.133798
     }
   },
   {
@@ -19167,8 +19167,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824619,
-      'longitude': -41.128847
+      'latitude': -20.851181,
+      'longitude': -41.133888
     }
   },
   {
@@ -19186,8 +19186,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824335,
-      'longitude': -41.129013
+      'latitude': -20.850532,
+      'longitude': -41.133653
     }
   },
   {
@@ -19205,8 +19205,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825475,
-      'longitude': -41.127138
+      'latitude': -20.854216,
+      'longitude': -41.135228
     }
   },
   {
@@ -19224,8 +19224,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.825307,
-      'longitude': -41.127229
+      'latitude': -20.853779,
+      'longitude': -41.13552
     }
   },
   {
@@ -19243,8 +19243,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826858,
-      'longitude': -41.125624
+      'latitude': -20.853322,
+      'longitude': -41.135726
     }
   },
   {
@@ -19262,8 +19262,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826768,
-      'longitude': -41.125552
+      'latitude': -20.849785,
+      'longitude': -41.131539
     }
   },
   {
@@ -19281,8 +19281,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829558,
-      'longitude': -41.123985
+      'latitude': -20.856273,
+      'longitude': -41.108795
     }
   },
   {
@@ -19300,8 +19300,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829913,
-      'longitude': -41.124017
+      'latitude': -20.856552,
+      'longitude': -41.10934
     }
   },
   {
@@ -19319,8 +19319,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831998,
-      'longitude': -41.123425
+      'latitude': -20.855935,
+      'longitude': -41.109117
     }
   },
   {
@@ -19338,8 +19338,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832194,
-      'longitude': -41.123314
+      'latitude': -20.837158,
+      'longitude': -41.123925
     }
   },
   {
@@ -19357,8 +19357,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833383,
-      'longitude': -41.123182
+      'latitude': -20.836497,
+      'longitude': -41.126223
     }
   },
   {
@@ -19376,8 +19376,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83337,
-      'longitude': -41.123287
+      'latitude': -20.836862,
+      'longitude': -41.127305
     }
   },
   {
@@ -19395,8 +19395,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837513,
-      'longitude': -41.123658
+      'latitude': -20.837654,
+      'longitude': -41.127979
     }
   },
   {
@@ -19414,8 +19414,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837276,
-      'longitude': -41.123757
+      'latitude': -20.839571,
+      'longitude': -41.127454
     }
   },
   {
@@ -19433,8 +19433,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840187,
-      'longitude': -41.122609
+      'latitude': -20.841178,
+      'longitude': -41.12523
     }
   },
   {
@@ -19452,8 +19452,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839891,
-      'longitude': -41.122882
+      'latitude': -20.841202,
+      'longitude': -41.123982
     }
   },
   {
@@ -19471,8 +19471,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844941,
-      'longitude': -41.122638
+      'latitude': -20.839205,
+      'longitude': -41.121118
     }
   },
   {
@@ -19490,8 +19490,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846975,
-      'longitude': -41.121005
+      'latitude': -20.839325,
+      'longitude': -41.121082
     }
   },
   {
@@ -19509,8 +19509,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848774,
-      'longitude': -41.117927
+      'latitude': -20.831442,
+      'longitude': -41.183751
     }
   },
   {
@@ -19528,8 +19528,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849901,
-      'longitude': -41.112956
+      'latitude': -20.835348,
+      'longitude': -41.188139
     }
   },
   {
@@ -19547,8 +19547,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85126,
-      'longitude': -41.111861
+      'latitude': -20.829609,
+      'longitude': -41.177158
     }
   },
   {
@@ -19566,8 +19566,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852405,
-      'longitude': -41.111291
+      'latitude': -20.829083,
+      'longitude': -41.178658
     }
   },
   {
@@ -19585,8 +19585,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853401,
-      'longitude': -41.110363
+      'latitude': -20.831492,
+      'longitude': -41.171432
     }
   },
   {
@@ -19604,8 +19604,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85333,
-      'longitude': -41.110257
+      'latitude': -20.83213,
+      'longitude': -41.177814
     }
   },
   {
@@ -19623,8 +19623,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852285,
-      'longitude': -41.11373
+      'latitude': -20.831121,
+      'longitude': -41.17639
     }
   },
   {
@@ -19642,8 +19642,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852084,
-      'longitude': -41.1139
+      'latitude': -20.830325,
+      'longitude': -41.175409
     }
   },
   {
@@ -19661,8 +19661,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854987,
-      'longitude': -41.110858
+      'latitude': -20.834126,
+      'longitude': -41.171739
     }
   },
   {
@@ -19680,8 +19680,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843277,
-      'longitude': -41.122805
+      'latitude': -20.834346,
+      'longitude': -41.171595
     }
   },
   {
@@ -19699,8 +19699,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846021,
-      'longitude': -41.135786
+      'latitude': -20.832243,
+      'longitude': -41.174064
     }
   },
   {
@@ -19718,8 +19718,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84678,
-      'longitude': -41.13742
+      'latitude': -20.832157,
+      'longitude': -41.174206
     }
   },
   {
@@ -19737,8 +19737,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846814,
-      'longitude': -41.151333
+      'latitude': -20.837011,
+      'longitude': -41.178131
     }
   },
   {
@@ -19756,8 +19756,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846131,
-      'longitude': -41.152934
+      'latitude': -20.84128,
+      'longitude': -41.159315
     }
   },
   {
@@ -19775,8 +19775,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844511,
-      'longitude': -41.155614
+      'latitude': -20.840362,
+      'longitude': -41.160525
     }
   },
   {
@@ -19794,8 +19794,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828678,
-      'longitude': -41.15692
+      'latitude': -20.839768,
+      'longitude': -41.161028
     }
   },
   {
@@ -19813,8 +19813,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83204,
-      'longitude': -41.157513
+      'latitude': -20.839042,
+      'longitude': -41.162376
     }
   },
   {
@@ -19832,8 +19832,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833885,
-      'longitude': -41.157763
+      'latitude': -20.838711,
+      'longitude': -41.163308
     }
   },
   {
@@ -19851,8 +19851,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828284,
-      'longitude': -41.144247
+      'latitude': -20.838347,
+      'longitude': -41.164061
     }
   },
   {
@@ -19870,8 +19870,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8561,
-      'longitude': -41.112266
+      'latitude': -20.837753,
+      'longitude': -41.166176
     }
   },
   {
@@ -19889,8 +19889,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856027,
-      'longitude': -41.112113
+      'latitude': -20.837628,
+      'longitude': -41.166187
     }
   },
   {
@@ -19908,8 +19908,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856822,
-      'longitude': -41.112875
+      'latitude': -20.839046,
+      'longitude': -41.163783
     }
   },
   {
@@ -19927,8 +19927,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856829,
-      'longitude': -41.112777
+      'latitude': -20.839745,
+      'longitude': -41.164245
     }
   },
   {
@@ -19946,8 +19946,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858107,
-      'longitude': -41.113808
+      'latitude': -20.840713,
+      'longitude': -41.164745
     }
   },
   {
@@ -19965,8 +19965,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858251,
-      'longitude': -41.113806
+      'latitude': -20.840605,
+      'longitude': -41.163232
     }
   },
   {
@@ -19984,8 +19984,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859117,
-      'longitude': -41.114624
+      'latitude': -20.8363,
+      'longitude': -41.149626
     }
   },
   {
@@ -20003,8 +20003,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859395,
-      'longitude': -41.11472
+      'latitude': -20.835294,
+      'longitude': -41.149715
     }
   },
   {
@@ -20022,8 +20022,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859904,
-      'longitude': -41.115896
+      'latitude': -20.834695,
+      'longitude': -41.150088
     }
   },
   {
@@ -20041,8 +20041,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859962,
-      'longitude': -41.115833
+      'latitude': -20.834526,
+      'longitude': -41.150641
     }
   },
   {
@@ -20060,8 +20060,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86066,
-      'longitude': -41.117571
+      'latitude': -20.829972,
+      'longitude': -41.153731
     }
   },
   {
@@ -20079,8 +20079,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.860762,
-      'longitude': -41.117592
+      'latitude': -20.83824,
+      'longitude': -41.147245
     }
   },
   {
@@ -20098,8 +20098,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.861193,
-      'longitude': -41.11834
+      'latitude': -20.838011,
+      'longitude': -41.149176
     }
   },
   {
@@ -20117,8 +20117,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8613,
-      'longitude': -41.118308
+      'latitude': -20.844227,
+      'longitude': -41.146321
     }
   },
   {
@@ -20136,8 +20136,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855657,
-      'longitude': -41.147798
+      'latitude': -20.84342,
+      'longitude': -41.14683
     }
   },
   {
@@ -20155,8 +20155,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854295,
-      'longitude': -41.149924
+      'latitude': -20.842582,
+      'longitude': -41.146768
     }
   },
   {
@@ -20174,8 +20174,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854219,
-      'longitude': -41.150197
+      'latitude': -20.844606,
+      'longitude': -41.146136
     }
   },
   {
@@ -20193,8 +20193,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839436,
-      'longitude': -41.147076
+      'latitude': -20.841829,
+      'longitude': -41.146318
     }
   },
   {
@@ -20212,8 +20212,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833322,
-      'longitude': -41.151342
+      'latitude': -20.841842,
+      'longitude': -41.146368
     }
   },
   {
@@ -20231,8 +20231,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.830877,
-      'longitude': -41.153176
+      'latitude': -20.859854,
+      'longitude': -41.15028
     }
   },
   {
@@ -20250,8 +20250,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85234,
-      'longitude': -41.133693
+      'latitude': -20.855432,
+      'longitude': -41.152626
     }
   },
   {
@@ -20269,8 +20269,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838732,
-      'longitude': -41.146002
+      'latitude': -20.853624,
+      'longitude': -41.15434
     }
   },
   {
@@ -20288,8 +20288,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840218,
-      'longitude': -41.145492
+      'latitude': -20.852892,
+      'longitude': -41.149264
     }
   },
   {
@@ -20307,8 +20307,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842389,
-      'longitude': -41.144586
+      'latitude': -20.855988,
+      'longitude': -41.153544
     }
   },
   {
@@ -20326,8 +20326,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847938,
-      'longitude': -41.148037
+      'latitude': -20.857479,
+      'longitude': -41.153288
     }
   },
   {
@@ -20345,8 +20345,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846473,
-      'longitude': -41.148605
+      'latitude': -20.858179,
+      'longitude': -41.153131
     }
   },
   {
@@ -20364,8 +20364,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845495,
-      'longitude': -41.149487
+      'latitude': -20.85845,
+      'longitude': -41.15274
     }
   },
   {
@@ -20383,8 +20383,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84547,
-      'longitude': -41.15059
+      'latitude': -20.857072,
+      'longitude': -41.150581
     }
   },
   {
@@ -20402,8 +20402,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849148,
-      'longitude': -41.142653
+      'latitude': -20.857338,
+      'longitude': -41.151977
     }
   },
   {
@@ -20421,8 +20421,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848799,
-      'longitude': -41.143287
+      'latitude': -20.850538,
+      'longitude': -41.151595
     }
   },
   {
@@ -20440,8 +20440,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847542,
-      'longitude': -41.143491
+      'latitude': -20.851781,
+      'longitude': -41.151317
     }
   },
   {
@@ -20459,8 +20459,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.824042,
-      'longitude': -41.13066
+      'latitude': -20.851106,
+      'longitude': -41.152614
     }
   },
   {
@@ -20478,8 +20478,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836366,
-      'longitude': -41.124003
+      'latitude': -20.850059,
+      'longitude': -41.152449
     }
   },
   {
@@ -20497,8 +20497,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762888,
-      'longitude': -41.2729
+      'latitude': -20.848698,
+      'longitude': -41.152224
     }
   },
   {
@@ -20516,8 +20516,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762332,
-      'longitude': -41.269489
+      'latitude': -20.847657,
+      'longitude': -41.152702
     }
   },
   {
@@ -20535,8 +20535,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.843675,
-      'longitude': -41.1871
+      'latitude': -20.84922,
+      'longitude': -41.152843
     }
   },
   {
@@ -20554,8 +20554,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.872541,
-      'longitude': -41.206065
+      'latitude': -20.850189,
+      'longitude': -41.152923
     }
   },
   {
@@ -20573,8 +20573,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85138,
-      'longitude': -41.149243
+      'latitude': -20.851953,
+      'longitude': -41.153104
     }
   },
   {
@@ -20592,8 +20592,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848864,
-      'longitude': -41.147953
+      'latitude': -20.852725,
+      'longitude': -41.152489
     }
   },
   {
@@ -20611,8 +20611,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855053,
-      'longitude': -41.111065
+      'latitude': -20.850568,
+      'longitude': -41.154393
     }
   },
   {
@@ -20630,8 +20630,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846025,
-      'longitude': -41.128787
+      'latitude': -20.850948,
+      'longitude': -41.154618
     }
   },
   {
@@ -20649,8 +20649,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84508,
-      'longitude': -41.127775
+      'latitude': -20.850961,
+      'longitude': -41.155502
     }
   },
   {
@@ -20668,8 +20668,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857113,
-      'longitude': -41.11548
+      'latitude': -20.850543,
+      'longitude': -41.15378
     }
   },
   {
@@ -20687,8 +20687,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857281,
-      'longitude': -41.114713
+      'latitude': -20.851758,
+      'longitude': -41.153942
     }
   },
   {
@@ -20706,8 +20706,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856578,
-      'longitude': -41.114091
+      'latitude': -20.853086,
+      'longitude': -41.154371
     }
   },
   {
@@ -20725,8 +20725,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852395,
-      'longitude': -41.140909
+      'latitude': -20.848014,
+      'longitude': -41.153936
     }
   },
   {
@@ -20744,8 +20744,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852852,
-      'longitude': -41.141124
+      'latitude': -20.848301,
+      'longitude': -41.153841
     }
   },
   {
@@ -20763,8 +20763,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851667,
-      'longitude': -41.141946
+      'latitude': -20.848796,
+      'longitude': -41.153561
     }
   },
   {
@@ -20782,8 +20782,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851077,
-      'longitude': -41.142286
+      'latitude': -20.849496,
+      'longitude': -41.15381
     }
   },
   {
@@ -20801,8 +20801,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829637,
-      'longitude': -41.12216
+      'latitude': -20.8495,
+      'longitude': -41.154356
     }
   },
   {
@@ -20820,8 +20820,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85215,
-      'longitude': -41.136007
+      'latitude': -20.84727,
+      'longitude': -41.16223
     }
   },
   {
@@ -20839,8 +20839,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851983,
-      'longitude': -41.136083
+      'latitude': -20.846621,
+      'longitude': -41.159658
     }
   },
   {
@@ -20858,8 +20858,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853416,
-      'longitude': -41.133528
+      'latitude': -20.847576,
+      'longitude': -41.161745
     }
   },
   {
@@ -20877,8 +20877,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851635,
-      'longitude': -41.133798
+      'latitude': -20.847835,
+      'longitude': -41.16013
     }
   },
   {
@@ -20896,8 +20896,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851181,
-      'longitude': -41.133888
+      'latitude': -20.844384,
+      'longitude': -41.162013
     }
   },
   {
@@ -20915,8 +20915,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850532,
-      'longitude': -41.133653
+      'latitude': -20.845912,
+      'longitude': -41.163344
     }
   },
   {
@@ -20934,8 +20934,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854216,
-      'longitude': -41.135228
+      'latitude': -20.834936,
+      'longitude': -41.175401
     }
   },
   {
@@ -20953,8 +20953,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853779,
-      'longitude': -41.13552
+      'latitude': -20.83519,
+      'longitude': -41.176364
     }
   },
   {
@@ -20972,8 +20972,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853322,
-      'longitude': -41.135726
+      'latitude': -20.835897,
+      'longitude': -41.176252
     }
   },
   {
@@ -20991,8 +20991,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849785,
-      'longitude': -41.131539
+      'latitude': -20.83624,
+      'longitude': -41.177974
     }
   },
   {
@@ -21010,8 +21010,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856273,
-      'longitude': -41.108795
+      'latitude': -20.837128,
+      'longitude': -41.179
     }
   },
   {
@@ -21029,8 +21029,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856552,
-      'longitude': -41.10934
+      'latitude': -20.83707,
+      'longitude': -41.178941
     }
   },
   {
@@ -21048,8 +21048,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855935,
-      'longitude': -41.109117
+      'latitude': -20.83638,
+      'longitude': -41.179067
     }
   },
   {
@@ -21067,8 +21067,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837158,
-      'longitude': -41.123925
+      'latitude': -20.83633,
+      'longitude': -41.179187
     }
   },
   {
@@ -21086,8 +21086,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836497,
-      'longitude': -41.126223
+      'latitude': -20.835151,
+      'longitude': -41.179873
     }
   },
   {
@@ -21105,8 +21105,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836862,
-      'longitude': -41.127305
+      'latitude': -20.835133,
+      'longitude': -41.179805
     }
   },
   {
@@ -21124,8 +21124,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837654,
-      'longitude': -41.127979
+      'latitude': -20.834179,
+      'longitude': -41.181531
     }
   },
   {
@@ -21143,8 +21143,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839571,
-      'longitude': -41.127454
+      'latitude': -20.846119,
+      'longitude': -41.157536
     }
   },
   {
@@ -21162,8 +21162,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841178,
-      'longitude': -41.12523
+      'latitude': -20.840767,
+      'longitude': -41.160575
     }
   },
   {
@@ -21181,8 +21181,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841202,
-      'longitude': -41.123982
+      'latitude': -20.842227,
+      'longitude': -41.161994
     }
   },
   {
@@ -21200,8 +21200,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839205,
-      'longitude': -41.121118
+      'latitude': -20.850871,
+      'longitude': -41.153799
     }
   },
   {
@@ -21219,8 +21219,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839325,
-      'longitude': -41.121082
+      'latitude': -20.846676,
+      'longitude': -41.155182
     }
   },
   {
@@ -21238,8 +21238,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831442,
-      'longitude': -41.183751
+      'latitude': -20.847165,
+      'longitude': -41.15517
     }
   },
   {
@@ -21257,8 +21257,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835348,
-      'longitude': -41.188139
+      'latitude': -20.847581,
+      'longitude': -41.155167
     }
   },
   {
@@ -21276,8 +21276,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829609,
-      'longitude': -41.177158
+      'latitude': -20.847956,
+      'longitude': -41.154643
     }
   },
   {
@@ -21295,8 +21295,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829083,
-      'longitude': -41.178658
+      'latitude': -20.849969,
+      'longitude': -41.155787
     }
   },
   {
@@ -21314,8 +21314,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831492,
-      'longitude': -41.171432
+      'latitude': -20.85061,
+      'longitude': -41.155836
     }
   },
   {
@@ -21333,8 +21333,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83213,
-      'longitude': -41.177814
+      'latitude': -20.84629,
+      'longitude': -41.154654
     }
   },
   {
@@ -21352,8 +21352,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831121,
-      'longitude': -41.17639
+      'latitude': -20.846267,
+      'longitude': -41.153975
     }
   },
   {
@@ -21371,8 +21371,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.830325,
-      'longitude': -41.175409
+      'latitude': -20.846255,
+      'longitude': -41.152843
     }
   },
   {
@@ -21390,8 +21390,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834126,
-      'longitude': -41.171739
+      'latitude': -20.827193,
+      'longitude': -41.159514
     }
   },
   {
@@ -21409,8 +21409,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834346,
-      'longitude': -41.171595
+      'latitude': -20.86931,
+      'longitude': -41.208043
     }
   },
   {
@@ -21428,8 +21428,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832243,
-      'longitude': -41.174064
+      'latitude': -20.870215,
+      'longitude': -41.207642
     }
   },
   {
@@ -21447,8 +21447,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832157,
-      'longitude': -41.174206
+      'latitude': -20.871246,
+      'longitude': -41.206866
     }
   },
   {
@@ -21466,8 +21466,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837011,
-      'longitude': -41.178131
+      'latitude': -20.855264,
+      'longitude': -41.113246
     }
   },
   {
@@ -21485,8 +21485,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84128,
-      'longitude': -41.159315
+      'latitude': -20.854575,
+      'longitude': -41.112116
     }
   },
   {
@@ -21504,8 +21504,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840362,
-      'longitude': -41.160525
+      'latitude': -20.854137,
+      'longitude': -41.111717
     }
   },
   {
@@ -21523,8 +21523,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839768,
-      'longitude': -41.161028
+      'latitude': -20.853202,
+      'longitude': -41.111043
     }
   },
   {
@@ -21542,8 +21542,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839042,
-      'longitude': -41.162376
+      'latitude': -20.852576,
+      'longitude': -41.112257
     }
   },
   {
@@ -21561,8 +21561,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838711,
-      'longitude': -41.163308
+      'latitude': -20.828839,
+      'longitude': -41.116015
     }
   },
   {
@@ -21580,8 +21580,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838347,
-      'longitude': -41.164061
+      'latitude': -20.83019,
+      'longitude': -41.115998
     }
   },
   {
@@ -21599,8 +21599,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837753,
-      'longitude': -41.166176
+      'latitude': -20.830897,
+      'longitude': -41.116629
     }
   },
   {
@@ -21618,8 +21618,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837628,
-      'longitude': -41.166187
+      'latitude': -20.832782,
+      'longitude': -41.115422
     }
   },
   {
@@ -21637,8 +21637,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839046,
-      'longitude': -41.163783
+      'latitude': -20.832386,
+      'longitude': -41.116723
     }
   },
   {
@@ -21656,8 +21656,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.839745,
-      'longitude': -41.164245
+      'latitude': -20.831674,
+      'longitude': -41.115479
     }
   },
   {
@@ -21675,8 +21675,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840713,
-      'longitude': -41.164745
+      'latitude': -20.83094,
+      'longitude': -41.116141
     }
   },
   {
@@ -21694,8 +21694,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840605,
-      'longitude': -41.163232
+      'latitude': -20.829893,
+      'longitude': -41.115851
     }
   },
   {
@@ -21713,8 +21713,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8363,
-      'longitude': -41.149626
+      'latitude': -20.828913,
+      'longitude': -41.116087
     }
   },
   {
@@ -21732,8 +21732,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835294,
-      'longitude': -41.149715
+      'latitude': -20.833871,
+      'longitude': -41.117342
     }
   },
   {
@@ -21751,8 +21751,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834695,
-      'longitude': -41.150088
+      'latitude': -20.833789,
+      'longitude': -41.117137
     }
   },
   {
@@ -21770,8 +21770,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834526,
-      'longitude': -41.150641
+      'latitude': -20.834857,
+      'longitude': -41.116915
     }
   },
   {
@@ -21789,8 +21789,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829972,
-      'longitude': -41.153731
+      'latitude': -20.835179,
+      'longitude': -41.116787
     }
   },
   {
@@ -21808,8 +21808,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83824,
-      'longitude': -41.147245
+      'latitude': -20.831052,
+      'longitude': -41.117222
     }
   },
   {
@@ -21827,8 +21827,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.838011,
-      'longitude': -41.149176
+      'latitude': -20.83177,
+      'longitude': -41.118162
     }
   },
   {
@@ -21846,8 +21846,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844227,
-      'longitude': -41.146321
+      'latitude': -20.84632,
+      'longitude': -41.113712
     }
   },
   {
@@ -21865,8 +21865,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84342,
-      'longitude': -41.14683
+      'latitude': -20.794603,
+      'longitude': -41.179609
     }
   },
   {
@@ -21884,8 +21884,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842582,
-      'longitude': -41.146768
+      'latitude': -20.795366,
+      'longitude': -41.180362
     }
   },
   {
@@ -21903,8 +21903,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844606,
-      'longitude': -41.146136
+      'latitude': -20.797153,
+      'longitude': -41.182706
     }
   },
   {
@@ -21922,8 +21922,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841829,
-      'longitude': -41.146318
+      'latitude': -20.798816,
+      'longitude': -41.186835
     }
   },
   {
@@ -21941,8 +21941,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841842,
-      'longitude': -41.146368
+      'latitude': -20.798868,
+      'longitude': -41.186783
     }
   },
   {
@@ -21960,8 +21960,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859854,
-      'longitude': -41.15028
+      'latitude': -20.800216,
+      'longitude': -41.188009
     }
   },
   {
@@ -21979,8 +21979,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855432,
-      'longitude': -41.152626
+      'latitude': -20.800298,
+      'longitude': -41.188979
     }
   },
   {
@@ -21998,8 +21998,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853624,
-      'longitude': -41.15434
+      'latitude': -20.80008,
+      'longitude': -41.197583
     }
   },
   {
@@ -22017,8 +22017,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852892,
-      'longitude': -41.149264
+      'latitude': -20.798563,
+      'longitude': -41.198511
     }
   },
   {
@@ -22036,8 +22036,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855988,
-      'longitude': -41.153544
+      'latitude': -20.798726,
+      'longitude': -41.198554
     }
   },
   {
@@ -22055,8 +22055,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857479,
-      'longitude': -41.153288
+      'latitude': -20.795196,
+      'longitude': -41.199462
     }
   },
   {
@@ -22074,8 +22074,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858179,
-      'longitude': -41.153131
+      'latitude': -20.789348,
+      'longitude': -41.198649
     }
   },
   {
@@ -22093,8 +22093,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85845,
-      'longitude': -41.15274
+      'latitude': -20.785113,
+      'longitude': -41.19364
     }
   },
   {
@@ -22112,8 +22112,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857072,
-      'longitude': -41.150581
+      'latitude': -20.818638,
+      'longitude': -41.156944
     }
   },
   {
@@ -22131,8 +22131,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857338,
-      'longitude': -41.151977
+      'latitude': -20.814435,
+      'longitude': -41.158181
     }
   },
   {
@@ -22150,8 +22150,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850538,
-      'longitude': -41.151595
+      'latitude': -20.809548,
+      'longitude': -41.156991
     }
   },
   {
@@ -22169,8 +22169,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851781,
-      'longitude': -41.151317
+      'latitude': -20.80707,
+      'longitude': -41.15675
     }
   },
   {
@@ -22188,8 +22188,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851106,
-      'longitude': -41.152614
+      'latitude': -20.802084,
+      'longitude': -41.155918
     }
   },
   {
@@ -22207,8 +22207,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850059,
-      'longitude': -41.152449
+      'latitude': -20.801947,
+      'longitude': -41.156252
     }
   },
   {
@@ -22226,8 +22226,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848698,
-      'longitude': -41.152224
+      'latitude': -20.798827,
+      'longitude': -41.155575
     }
   },
   {
@@ -22245,8 +22245,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847657,
-      'longitude': -41.152702
+      'latitude': -20.796493,
+      'longitude': -41.155177
     }
   },
   {
@@ -22264,8 +22264,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84922,
-      'longitude': -41.152843
+      'latitude': -20.796298,
+      'longitude': -41.15543
     }
   },
   {
@@ -22283,8 +22283,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850189,
-      'longitude': -41.152923
+      'latitude': -20.792567,
+      'longitude': -41.150216
     }
   },
   {
@@ -22302,8 +22302,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851953,
-      'longitude': -41.153104
+      'latitude': -20.795717,
+      'longitude': -41.147353
     }
   },
   {
@@ -22321,8 +22321,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852725,
-      'longitude': -41.152489
+      'latitude': -20.798042,
+      'longitude': -41.138523
     }
   },
   {
@@ -22340,8 +22340,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850568,
-      'longitude': -41.154393
+      'latitude': -20.785266,
+      'longitude': -41.153669
     }
   },
   {
@@ -22359,8 +22359,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850948,
-      'longitude': -41.154618
+      'latitude': -20.782456,
+      'longitude': -41.153954
     }
   },
   {
@@ -22378,8 +22378,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850961,
-      'longitude': -41.155502
+      'latitude': -20.782419,
+      'longitude': -41.154135
     }
   },
   {
@@ -22397,8 +22397,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850543,
-      'longitude': -41.15378
+      'latitude': -20.77634,
+      'longitude': -41.156735
     }
   },
   {
@@ -22416,8 +22416,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.851758,
-      'longitude': -41.153942
+      'latitude': -20.771435,
+      'longitude': -41.161883
     }
   },
   {
@@ -22435,8 +22435,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853086,
-      'longitude': -41.154371
+      'latitude': -20.770728,
+      'longitude': -41.162336
     }
   },
   {
@@ -22454,8 +22454,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848014,
-      'longitude': -41.153936
+      'latitude': -20.768913,
+      'longitude': -41.162971
     }
   },
   {
@@ -22473,8 +22473,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848301,
-      'longitude': -41.153841
+      'latitude': -20.768611,
+      'longitude': -41.163427
     }
   },
   {
@@ -22492,8 +22492,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.848796,
-      'longitude': -41.153561
+      'latitude': -20.764739,
+      'longitude': -41.16818
     }
   },
   {
@@ -22511,8 +22511,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849496,
-      'longitude': -41.15381
+      'latitude': -20.765025,
+      'longitude': -41.168077
     }
   },
   {
@@ -22530,8 +22530,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.8495,
-      'longitude': -41.154356
+      'latitude': -20.762618,
+      'longitude': -41.170895
     }
   },
   {
@@ -22549,8 +22549,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84727,
-      'longitude': -41.16223
+      'latitude': -20.762919,
+      'longitude': -41.17088
     }
   },
   {
@@ -22568,8 +22568,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846621,
-      'longitude': -41.159658
+      'latitude': -20.732528,
+      'longitude': -41.140307
     }
   },
   {
@@ -22587,8 +22587,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847576,
-      'longitude': -41.161745
+      'latitude': -20.734892,
+      'longitude': -41.144665
     }
   },
   {
@@ -22606,8 +22606,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847835,
-      'longitude': -41.16013
+      'latitude': -20.73547,
+      'longitude': -41.144905
     }
   },
   {
@@ -22625,8 +22625,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844384,
-      'longitude': -41.162013
+      'latitude': -20.738056,
+      'longitude': -41.156933
     }
   },
   {
@@ -22644,8 +22644,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845912,
-      'longitude': -41.163344
+      'latitude': -20.742396,
+      'longitude': -41.177948
     }
   },
   {
@@ -22663,8 +22663,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834936,
-      'longitude': -41.175401
+      'latitude': -20.74246,
+      'longitude': -41.178236
     }
   },
   {
@@ -22682,8 +22682,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83519,
-      'longitude': -41.176364
+      'latitude': -20.745394,
+      'longitude': -41.180171
     }
   },
   {
@@ -22701,8 +22701,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835897,
-      'longitude': -41.176252
+      'latitude': -20.745801,
+      'longitude': -41.180193
     }
   },
   {
@@ -22720,8 +22720,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83624,
-      'longitude': -41.177974
+      'latitude': -20.746518,
+      'longitude': -41.182612
     }
   },
   {
@@ -22739,8 +22739,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.837128,
-      'longitude': -41.179
+      'latitude': -20.804024,
+      'longitude': -41.12041
     }
   },
   {
@@ -22758,8 +22758,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83707,
-      'longitude': -41.178941
+      'latitude': -20.803887,
+      'longitude': -41.122126
     }
   },
   {
@@ -22777,8 +22777,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83638,
-      'longitude': -41.179067
+      'latitude': -20.804952,
+      'longitude': -41.123071
     }
   },
   {
@@ -22796,8 +22796,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83633,
-      'longitude': -41.179187
+      'latitude': -20.799613,
+      'longitude': -41.126821
     }
   },
   {
@@ -22815,8 +22815,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835151,
-      'longitude': -41.179873
+      'latitude': -20.799841,
+      'longitude': -41.130132
     }
   },
   {
@@ -22834,8 +22834,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835133,
-      'longitude': -41.179805
+      'latitude': -20.799193,
+      'longitude': -41.134778
     }
   },
   {
@@ -22853,8 +22853,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834179,
-      'longitude': -41.181531
+      'latitude': -20.794597,
+      'longitude': -41.135258
     }
   },
   {
@@ -22872,8 +22872,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846119,
-      'longitude': -41.157536
+      'latitude': -20.792731,
+      'longitude': -41.123257
     }
   },
   {
@@ -22891,8 +22891,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.840767,
-      'longitude': -41.160575
+      'latitude': -20.789787,
+      'longitude': -41.120394
     }
   },
   {
@@ -22910,8 +22910,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.842227,
-      'longitude': -41.161994
+      'latitude': -20.787197,
+      'longitude': -41.119399
     }
   },
   {
@@ -22929,8 +22929,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850871,
-      'longitude': -41.153799
+      'latitude': -20.7834,
+      'longitude': -41.120073
     }
   },
   {
@@ -22948,8 +22948,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846676,
-      'longitude': -41.155182
+      'latitude': -20.78319,
+      'longitude': -41.119274
     }
   },
   {
@@ -22967,8 +22967,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847165,
-      'longitude': -41.15517
+      'latitude': -20.787469,
+      'longitude': -41.114695
     }
   },
   {
@@ -22986,8 +22986,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847581,
-      'longitude': -41.155167
+      'latitude': -20.783929,
+      'longitude': -41.112479
     }
   },
   {
@@ -23005,8 +23005,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.847956,
-      'longitude': -41.154643
+      'latitude': -20.784559,
+      'longitude': -41.105427
     }
   },
   {
@@ -23024,8 +23024,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849969,
-      'longitude': -41.155787
+      'latitude': -20.78542,
+      'longitude': -41.102934
     }
   },
   {
@@ -23043,8 +23043,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.85061,
-      'longitude': -41.155836
+      'latitude': -20.785505,
+      'longitude': -41.098183
     }
   },
   {
@@ -23062,8 +23062,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84629,
-      'longitude': -41.154654
+      'latitude': -20.809391,
+      'longitude': -41.157132
     }
   },
   {
@@ -23081,8 +23081,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846267,
-      'longitude': -41.153975
+      'latitude': -20.7861,
+      'longitude': -41.10964
     }
   },
   {
@@ -23100,8 +23100,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.846255,
-      'longitude': -41.152843
+      'latitude': -20.794553,
+      'longitude': -41.160339
     }
   },
   {
@@ -23119,8 +23119,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827193,
-      'longitude': -41.159514
+      'latitude': -20.794172,
+      'longitude': -41.164569
     }
   },
   {
@@ -23138,8 +23138,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86931,
-      'longitude': -41.208043
+      'latitude': -20.793819,
+      'longitude': -41.169021
     }
   },
   {
@@ -23157,8 +23157,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.870215,
-      'longitude': -41.207642
+      'latitude': -20.794993,
+      'longitude': -41.170584
     }
   },
   {
@@ -23176,8 +23176,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.871246,
-      'longitude': -41.206866
+      'latitude': -20.795805,
+      'longitude': -41.173225
     }
   },
   {
@@ -23195,8 +23195,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.755494,
-      'longitude': -41.194181
+      'latitude': -20.794756,
+      'longitude': -41.175633
     }
   },
   {
@@ -23214,8 +23214,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.75481,
-      'longitude': -41.193837
+      'latitude': -20.793685,
+      'longitude': -41.177229
     }
   },
   {
@@ -23233,8 +23233,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.753665,
-      'longitude': -41.190887
+      'latitude': -20.79455,
+      'longitude': -41.179662
     }
   },
   {
@@ -23252,8 +23252,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.75236,
-      'longitude': -41.18962
+      'latitude': -20.800238,
+      'longitude': -41.187931
     }
   },
   {
@@ -23271,8 +23271,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.751146,
-      'longitude': -41.188409
+      'latitude': -20.800369,
+      'longitude': -41.189034
     }
   },
   {
@@ -23290,8 +23290,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.763894,
-      'longitude': -41.272893
+      'latitude': -20.800155,
+      'longitude': -41.197616
     }
   },
   {
@@ -23309,8 +23309,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855264,
-      'longitude': -41.113246
+      'latitude': -20.795239,
+      'longitude': -41.199519
     }
   },
   {
@@ -23328,8 +23328,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854575,
-      'longitude': -41.112116
+      'latitude': -20.789308,
+      'longitude': -41.198697
     }
   },
   {
@@ -23347,8 +23347,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854137,
-      'longitude': -41.111717
+      'latitude': -20.787567,
+      'longitude': -41.196773
     }
   },
   {
@@ -23366,8 +23366,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853202,
-      'longitude': -41.111043
+      'latitude': -20.814011,
+      'longitude': -41.180635
     }
   },
   {
@@ -23385,8 +23385,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852576,
-      'longitude': -41.112257
+      'latitude': -20.924572,
+      'longitude': -41.079831
     }
   },
   {
@@ -23404,8 +23404,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828839,
-      'longitude': -41.116015
+      'latitude': -20.917674,
+      'longitude': -41.081415
     }
   },
   {
@@ -23423,8 +23423,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83019,
-      'longitude': -41.115998
+      'latitude': -20.916518,
+      'longitude': -41.081926
     }
   },
   {
@@ -23442,8 +23442,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.830897,
-      'longitude': -41.116629
+      'latitude': -20.892497,
+      'longitude': -41.092535
     }
   },
   {
@@ -23461,8 +23461,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832782,
-      'longitude': -41.115422
+      'latitude': -20.90839,
+      'longitude': -41.110464
     }
   },
   {
@@ -23480,8 +23480,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.832386,
-      'longitude': -41.116723
+      'latitude': -20.895819,
+      'longitude': -41.092231
     }
   },
   {
@@ -23499,8 +23499,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831674,
-      'longitude': -41.115479
+      'latitude': -20.901955,
+      'longitude': -41.090622
     }
   },
   {
@@ -23518,8 +23518,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83094,
-      'longitude': -41.116141
+      'latitude': -20.906109,
+      'longitude': -41.086327
     }
   },
   {
@@ -23537,8 +23537,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.829893,
-      'longitude': -41.115851
+      'latitude': -20.91052,
+      'longitude': -41.08368
     }
   },
   {
@@ -23556,8 +23556,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.828913,
-      'longitude': -41.116087
+      'latitude': -20.913861,
+      'longitude': -41.082981
     }
   },
   {
@@ -23575,8 +23575,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833871,
-      'longitude': -41.117342
+      'latitude': -20.916443,
+      'longitude': -41.082138
     }
   },
   {
@@ -23594,8 +23594,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.833789,
-      'longitude': -41.117137
+      'latitude': -20.917685,
+      'longitude': -41.081593
     }
   },
   {
@@ -23613,8 +23613,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.834857,
-      'longitude': -41.116915
+      'latitude': -20.921758,
+      'longitude': -41.080545
     }
   },
   {
@@ -23632,8 +23632,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.835179,
-      'longitude': -41.116787
+      'latitude': -20.925273,
+      'longitude': -41.07903
     }
   },
   {
@@ -23651,8 +23651,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.831052,
-      'longitude': -41.117222
+      'latitude': -20.926319,
+      'longitude': -41.078642
     }
   },
   {
@@ -23670,8 +23670,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.83177,
-      'longitude': -41.118162
+      'latitude': -20.926513,
+      'longitude': -41.078519
     }
   },
   {
@@ -23689,8 +23689,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.84632,
-      'longitude': -41.113712
+      'latitude': -20.927903,
+      'longitude': -41.079609
     }
   },
   {
@@ -23708,8 +23708,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765869,
-      'longitude': -41.057733
+      'latitude': -20.921598,
+      'longitude': -41.080451
     }
   },
   {
@@ -23727,8 +23727,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.76576,
-      'longitude': -41.057666
+      'latitude': -20.913786,
+      'longitude': -41.082873
     }
   },
   {
@@ -23746,8 +23746,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764362,
-      'longitude': -41.059234
+      'latitude': -20.910514,
+      'longitude': -41.08355
     }
   },
   {
@@ -23765,8 +23765,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764482,
-      'longitude': -41.059086
+      'latitude': -20.905586,
+      'longitude': -41.086544
     }
   },
   {
@@ -23784,8 +23784,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764904,
-      'longitude': -41.060402
+      'latitude': -20.901645,
+      'longitude': -41.090551
     }
   },
   {
@@ -23803,8 +23803,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764983,
-      'longitude': -41.060662
+      'latitude': -20.920306,
+      'longitude': -41.102849
     }
   },
   {
@@ -23822,8 +23822,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766153,
-      'longitude': -41.060119
+      'latitude': -20.92547,
+      'longitude': -41.096793
     }
   },
   {
@@ -23841,8 +23841,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765886,
-      'longitude': -41.058964
+      'latitude': -20.926098,
+      'longitude': -41.097522
     }
   },
   {
@@ -23860,8 +23860,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.768938,
-      'longitude': -41.065099
+      'latitude': -20.926272,
+      'longitude': -41.098753
     }
   },
   {
@@ -23879,8 +23879,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.769052,
-      'longitude': -41.065097
+      'latitude': -20.921419,
+      'longitude': -41.092898
     }
   },
   {
@@ -23898,8 +23898,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.766739,
-      'longitude': -41.061584
+      'latitude': -20.908404,
+      'longitude': -41.110354
     }
   },
   {
@@ -23917,8 +23917,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.775382,
-      'longitude': -41.069518
+      'latitude': -20.923855,
+      'longitude': -41.125449
     }
   },
   {
@@ -23936,8 +23936,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.775383,
-      'longitude': -41.069418
+      'latitude': -20.826023,
+      'longitude': -41.03053
     }
   },
   {
@@ -23955,8 +23955,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.774138,
-      'longitude': -41.069196
+      'latitude': -20.827302,
+      'longitude': -41.028867
     }
   },
   {
@@ -23974,8 +23974,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.774241,
-      'longitude': -41.06915
+      'latitude': -20.836964,
+      'longitude': -41.033304
     }
   },
   {
@@ -23993,8 +23993,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.779275,
-      'longitude': -41.06849
+      'latitude': -20.841248,
+      'longitude': -41.037926
     }
   },
   {
@@ -24012,8 +24012,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.778239,
-      'longitude': -41.067596
+      'latitude': -20.844336,
+      'longitude': -41.038333
     }
   },
   {
@@ -24031,8 +24031,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794603,
-      'longitude': -41.179609
+      'latitude': -20.845612,
+      'longitude': -41.039716
     }
   },
   {
@@ -24050,8 +24050,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.795366,
-      'longitude': -41.180362
+      'latitude': -20.849256,
+      'longitude': -41.048501
     }
   },
   {
@@ -24069,8 +24069,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.797153,
-      'longitude': -41.182706
+      'latitude': -20.850737,
+      'longitude': -41.050188
     }
   },
   {
@@ -24088,8 +24088,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798816,
-      'longitude': -41.186835
+      'latitude': -20.853388,
+      'longitude': -41.056064
     }
   },
   {
@@ -24107,8 +24107,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798868,
-      'longitude': -41.186783
+      'latitude': -20.854992,
+      'longitude': -41.060516
     }
   },
   {
@@ -24126,8 +24126,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.800216,
-      'longitude': -41.188009
+      'latitude': -20.859019,
+      'longitude': -41.024394
     }
   },
   {
@@ -24145,8 +24145,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.800298,
-      'longitude': -41.188979
+      'latitude': -20.865155,
+      'longitude': -41.028258
     }
   },
   {
@@ -24164,8 +24164,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.80008,
-      'longitude': -41.197583
+      'latitude': -20.867808,
+      'longitude': -41.028196
     }
   },
   {
@@ -24183,8 +24183,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798563,
-      'longitude': -41.198511
+      'latitude': -20.868416,
+      'longitude': -41.026774
     }
   },
   {
@@ -24202,8 +24202,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798726,
-      'longitude': -41.198554
+      'latitude': -20.868428,
+      'longitude': -41.026916
     }
   },
   {
@@ -24221,8 +24221,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.795196,
-      'longitude': -41.199462
+      'latitude': -20.870294,
+      'longitude': -41.032985
     }
   },
   {
@@ -24240,8 +24240,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.789348,
-      'longitude': -41.198649
+      'latitude': -20.86606,
+      'longitude': -41.037894
     }
   },
   {
@@ -24259,8 +24259,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.785113,
-      'longitude': -41.19364
+      'latitude': -20.864346,
+      'longitude': -41.043863
     }
   },
   {
@@ -24278,8 +24278,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.818638,
-      'longitude': -41.156944
+      'latitude': -20.863046,
+      'longitude': -41.045969
     }
   },
   {
@@ -24297,8 +24297,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.814435,
-      'longitude': -41.158181
+      'latitude': -20.863138,
+      'longitude': -41.046149
     }
   },
   {
@@ -24316,8 +24316,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.809548,
-      'longitude': -41.156991
+      'latitude': -20.856824,
+      'longitude': -41.0561
     }
   },
   {
@@ -24335,8 +24335,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.80707,
-      'longitude': -41.15675
+      'latitude': -20.856747,
+      'longitude': -41.055925
     }
   },
   {
@@ -24354,8 +24354,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.802084,
-      'longitude': -41.155918
+      'latitude': -20.855761,
+      'longitude': -41.064898
     }
   },
   {
@@ -24373,8 +24373,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.801947,
-      'longitude': -41.156252
+      'latitude': -20.856128,
+      'longitude': -41.069105
     }
   },
   {
@@ -24392,8 +24392,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798827,
-      'longitude': -41.155575
+      'latitude': -20.856861,
+      'longitude': -41.071954
     }
   },
   {
@@ -24411,8 +24411,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.796493,
-      'longitude': -41.155177
+      'latitude': -20.858202,
+      'longitude': -41.074626
     }
   },
   {
@@ -24430,8 +24430,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.796298,
-      'longitude': -41.15543
+      'latitude': -20.857707,
+      'longitude': -41.079712
     }
   },
   {
@@ -24449,8 +24449,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.792567,
-      'longitude': -41.150216
+      'latitude': -20.857874,
+      'longitude': -41.079395
     }
   },
   {
@@ -24468,8 +24468,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.795717,
-      'longitude': -41.147353
+      'latitude': -20.852872,
+      'longitude': -41.086331
     }
   },
   {
@@ -24487,8 +24487,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.798042,
-      'longitude': -41.138523
+      'latitude': -20.892015,
+      'longitude': -41.098933
     }
   },
   {
@@ -24506,8 +24506,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.785266,
-      'longitude': -41.153669
+      'latitude': -20.89479,
+      'longitude': -41.102881
     }
   },
   {
@@ -24525,8 +24525,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.782456,
-      'longitude': -41.153954
+      'latitude': -20.89708,
+      'longitude': -41.103843
     }
   },
   {
@@ -24544,8 +24544,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.782419,
-      'longitude': -41.154135
+      'latitude': -20.900752,
+      'longitude': -41.111458
     }
   },
   {
@@ -24563,8 +24563,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.77634,
-      'longitude': -41.156735
+      'latitude': -20.900808,
+      'longitude': -41.111444
     }
   },
   {
@@ -24582,8 +24582,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.771435,
-      'longitude': -41.161883
+      'latitude': -20.899006,
+      'longitude': -41.116836
     }
   },
   {
@@ -24601,8 +24601,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.770728,
-      'longitude': -41.162336
+      'latitude': -20.899109,
+      'longitude': -41.116855
     }
   },
   {
@@ -24620,8 +24620,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.768913,
-      'longitude': -41.162971
+      'latitude': -20.901973,
+      'longitude': -41.105924
     }
   },
   {
@@ -24639,8 +24639,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.768611,
-      'longitude': -41.163427
+      'latitude': -20.908735,
+      'longitude': -41.117267
     }
   },
   {
@@ -24658,8 +24658,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764739,
-      'longitude': -41.16818
+      'latitude': -20.911317,
+      'longitude': -41.117208
     }
   },
   {
@@ -24677,8 +24677,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765025,
-      'longitude': -41.168077
+      'latitude': -20.911791,
+      'longitude': -41.118436
     }
   },
   {
@@ -24696,8 +24696,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762618,
-      'longitude': -41.170895
+      'latitude': -20.913268,
+      'longitude': -41.119739
     }
   },
   {
@@ -24715,8 +24715,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762919,
-      'longitude': -41.17088
+      'latitude': -20.91645,
+      'longitude': -41.121989
     }
   },
   {
@@ -24734,8 +24734,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.761636,
-      'longitude': -41.201693
+      'latitude': -20.917298,
+      'longitude': -41.122764
     }
   },
   {
@@ -24753,8 +24753,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.762393,
-      'longitude': -41.204258
+      'latitude': -20.918596,
+      'longitude': -41.12345
     }
   },
   {
@@ -24772,8 +24772,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.763051,
-      'longitude': -41.206394
+      'latitude': -20.920975,
+      'longitude': -41.124562
     }
   },
   {
@@ -24791,8 +24791,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.763505,
-      'longitude': -41.207915
+      'latitude': -20.836884,
+      'longitude': -41.080954
     }
   },
   {
@@ -24810,8 +24810,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.743342,
-      'longitude': -41.100011
+      'latitude': -20.837725,
+      'longitude': -41.078844
     }
   },
   {
@@ -24829,8 +24829,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.742971,
-      'longitude': -41.100702
+      'latitude': -20.835662,
+      'longitude': -41.074383
     }
   },
   {
@@ -24848,8 +24848,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.742629,
-      'longitude': -41.102592
+      'latitude': -20.833505,
+      'longitude': -41.073929
     }
   },
   {
@@ -24867,8 +24867,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.742173,
-      'longitude': -41.10398
+      'latitude': -20.830026,
+      'longitude': -41.072051
     }
   },
   {
@@ -24886,8 +24886,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.743224,
-      'longitude': -41.105605
+      'latitude': -20.828074,
+      'longitude': -41.071348
     }
   },
   {
@@ -24905,8 +24905,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.743211,
-      'longitude': -41.107449
+      'latitude': -20.825861,
+      'longitude': -41.070844
     }
   },
   {
@@ -24924,8 +24924,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.742975,
-      'longitude': -41.10898
+      'latitude': -20.863353,
+      'longitude': -41.058498
     }
   },
   {
@@ -24943,8 +24943,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.74308,
-      'longitude': -41.119867
+      'latitude': -20.864511,
+      'longitude': -41.058362
     }
   },
   {
@@ -24962,8 +24962,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.732528,
-      'longitude': -41.140307
+      'latitude': -20.869152,
+      'longitude': -41.056589
     }
   },
   {
@@ -24981,8 +24981,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.734892,
-      'longitude': -41.144665
+      'latitude': -20.871822,
+      'longitude': -41.058738
     }
   },
   {
@@ -25000,8 +25000,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.73547,
-      'longitude': -41.144905
+      'latitude': -20.87352,
+      'longitude': -41.060057
     }
   },
   {
@@ -25019,8 +25019,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.738056,
-      'longitude': -41.156933
+      'latitude': -20.876271,
+      'longitude': -41.06419
     }
   },
   {
@@ -25038,8 +25038,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.742396,
-      'longitude': -41.177948
+      'latitude': -20.877204,
+      'longitude': -41.066155
     }
   },
   {
@@ -25057,8 +25057,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.74246,
-      'longitude': -41.178236
+      'latitude': -20.883141,
+      'longitude': -41.068579
     }
   },
   {
@@ -25076,8 +25076,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.745394,
-      'longitude': -41.180171
+      'latitude': -20.883145,
+      'longitude': -41.069504
     }
   },
   {
@@ -25095,8 +25095,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.745801,
-      'longitude': -41.180193
+      'latitude': -20.885721,
+      'longitude': -41.074245
     }
   },
   {
@@ -25114,8 +25114,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.746518,
-      'longitude': -41.182612
+      'latitude': -20.889932,
+      'longitude': -41.07486
     }
   },
   {
@@ -25133,8 +25133,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.804024,
-      'longitude': -41.12041
+      'latitude': -20.891363,
+      'longitude': -41.072253
     }
   },
   {
@@ -25152,8 +25152,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.803887,
-      'longitude': -41.122126
+      'latitude': -20.891397,
+      'longitude': -41.068393
     }
   },
   {
@@ -25171,8 +25171,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.804952,
-      'longitude': -41.123071
+      'latitude': -20.878799,
+      'longitude': -41.073856
     }
   },
   {
@@ -25190,8 +25190,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.799613,
-      'longitude': -41.126821
+      'latitude': -20.877174,
+      'longitude': -41.075633
     }
   },
   {
@@ -25209,8 +25209,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.799841,
-      'longitude': -41.130132
+      'latitude': -20.876418,
+      'longitude': -41.076471
     }
   },
   {
@@ -25228,8 +25228,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.799193,
-      'longitude': -41.134778
+      'latitude': -20.872202,
+      'longitude': -41.080723
     }
   },
   {
@@ -25247,8 +25247,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794597,
-      'longitude': -41.135258
+      'latitude': -20.919965,
+      'longitude': -41.092387
     }
   },
   {
@@ -25266,8 +25266,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.792731,
-      'longitude': -41.123257
+      'latitude': -20.918458,
+      'longitude': -41.104435
     }
   },
   {
@@ -25285,8 +25285,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.789787,
-      'longitude': -41.120394
+      'latitude': -20.925482,
+      'longitude': -41.096714
     }
   },
   {
@@ -25304,8 +25304,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.787197,
-      'longitude': -41.119399
+      'latitude': -20.82032,
+      'longitude': -41.02847
     }
   },
   {
@@ -25323,8 +25323,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.7834,
-      'longitude': -41.120073
+      'latitude': -20.826129,
+      'longitude': -41.03055
     }
   },
   {
@@ -25342,8 +25342,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.78319,
-      'longitude': -41.119274
+      'latitude': -20.827306,
+      'longitude': -41.029034
     }
   },
   {
@@ -25361,8 +25361,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.787469,
-      'longitude': -41.114695
+      'latitude': -20.837016,
+      'longitude': -41.03323
     }
   },
   {
@@ -25380,8 +25380,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.783929,
-      'longitude': -41.112479
+      'latitude': -20.841407,
+      'longitude': -41.037988
     }
   },
   {
@@ -25399,8 +25399,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.784559,
-      'longitude': -41.105427
+      'latitude': -20.844319,
+      'longitude': -41.038443
     }
   },
   {
@@ -25418,8 +25418,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.78542,
-      'longitude': -41.102934
+      'latitude': -20.845713,
+      'longitude': -41.039604
     }
   },
   {
@@ -25437,8 +25437,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.785505,
-      'longitude': -41.098183
+      'latitude': -20.849298,
+      'longitude': -41.048468
     }
   },
   {
@@ -25456,8 +25456,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.809391,
-      'longitude': -41.157132
+      'latitude': -20.850801,
+      'longitude': -41.050094
     }
   },
   {
@@ -25475,8 +25475,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.770791,
-      'longitude': -41.112931
+      'latitude': -20.853292,
+      'longitude': -41.056136
     }
   },
   {
@@ -25494,8 +25494,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.76982,
-      'longitude': -41.111646
+      'latitude': -20.855018,
+      'longitude': -41.06026
     }
   },
   {
@@ -25513,8 +25513,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.765203,
-      'longitude': -41.1078
+      'latitude': -20.857883,
+      'longitude': -41.023007
     }
   },
   {
@@ -25532,8 +25532,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.764151,
-      'longitude': -41.105845
+      'latitude': -20.863533,
+      'longitude': -41.026997
     }
   },
   {
@@ -25551,8 +25551,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.763066,
-      'longitude': -41.104741
+      'latitude': -20.865165,
+      'longitude': -41.028381
     }
   },
   {
@@ -25570,8 +25570,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.761157,
-      'longitude': -41.100786
+      'latitude': -20.870407,
+      'longitude': -41.032936
     }
   },
   {
@@ -25589,8 +25589,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.759981,
-      'longitude': -41.098949
+      'latitude': -20.868076,
+      'longitude': -41.03796
     }
   },
   {
@@ -25608,8 +25608,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.757285,
-      'longitude': -41.096586
+      'latitude': -20.858903,
+      'longitude': -41.051244
     }
   },
   {
@@ -25627,8 +25627,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.7861,
-      'longitude': -41.10964
+      'latitude': -20.854971,
+      'longitude': -41.061043
     }
   },
   {
@@ -25646,8 +25646,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794553,
-      'longitude': -41.160339
+      'latitude': -20.853259,
+      'longitude': -41.086334
     }
   },
   {
@@ -25665,8 +25665,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794172,
-      'longitude': -41.164569
+      'latitude': -20.892108,
+      'longitude': -41.098866
     }
   },
   {
@@ -25684,8 +25684,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.793819,
-      'longitude': -41.169021
+      'latitude': -20.894709,
+      'longitude': -41.102929
     }
   },
   {
@@ -25703,8 +25703,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794993,
-      'longitude': -41.170584
+      'latitude': -20.897081,
+      'longitude': -41.103772
     }
   },
   {
@@ -25722,8 +25722,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.795805,
-      'longitude': -41.173225
+      'latitude': -20.902389,
+      'longitude': -41.105472
     }
   },
   {
@@ -25741,8 +25741,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.794756,
-      'longitude': -41.175633
+      'latitude': -20.902492,
+      'longitude': -41.105473
     }
   },
   {
@@ -25760,8 +25760,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.793685,
-      'longitude': -41.177229
+      'latitude': -20.89715,
+      'longitude': -41.125217
     }
   },
   {
@@ -25779,8 +25779,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.79455,
-      'longitude': -41.179662
+      'latitude': -20.902016,
+      'longitude': -41.105974
     }
   },
   {
@@ -25798,8 +25798,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.800238,
-      'longitude': -41.187931
+      'latitude': -20.9087,
+      'longitude': -41.11735
     }
   },
   {
@@ -25817,8 +25817,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.800369,
-      'longitude': -41.189034
+      'latitude': -20.911323,
+      'longitude': -41.117303
     }
   },
   {
@@ -25836,8 +25836,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.800155,
-      'longitude': -41.197616
+      'latitude': -20.911759,
+      'longitude': -41.118546
     }
   },
   {
@@ -25855,8 +25855,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.795239,
-      'longitude': -41.199519
+      'latitude': -20.913296,
+      'longitude': -41.119676
     }
   },
   {
@@ -25874,8 +25874,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.789308,
-      'longitude': -41.198697
+      'latitude': -20.916465,
+      'longitude': -41.121894
     }
   },
   {
@@ -25893,8 +25893,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.787567,
-      'longitude': -41.196773
+      'latitude': -20.917301,
+      'longitude': -41.122872
     }
   },
   {
@@ -25912,8 +25912,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.814011,
-      'longitude': -41.180635
+      'latitude': -20.918593,
+      'longitude': -41.123538
     }
   },
   {
@@ -25931,8 +25931,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.924572,
-      'longitude': -41.079831
+      'latitude': -20.92095,
+      'longitude': -41.124687
     }
   },
   {
@@ -25950,8 +25950,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.917674,
-      'longitude': -41.081415
+      'latitude': -20.859219,
+      'longitude': -41.202582
     }
   },
   {
@@ -25969,8 +25969,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.916518,
-      'longitude': -41.081926
+      'latitude': -20.859165,
+      'longitude': -41.20269
     }
   },
   {
@@ -25988,8 +25988,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.892497,
-      'longitude': -41.092535
+      'latitude': -20.860423,
+      'longitude': -41.204982
     }
   },
   {
@@ -26007,8 +26007,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.90839,
-      'longitude': -41.110464
+      'latitude': -20.861561,
+      'longitude': -41.206394
     }
   },
   {
@@ -26026,8 +26026,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.895819,
-      'longitude': -41.092231
+      'latitude': -20.862149,
+      'longitude': -41.207584
     }
   },
   {
@@ -26045,8 +26045,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.901955,
-      'longitude': -41.090622
+      'latitude': -20.866505,
+      'longitude': -41.212576
     }
   },
   {
@@ -26064,8 +26064,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.906109,
-      'longitude': -41.086327
+      'latitude': -20.866445,
+      'longitude': -41.212497
     }
   },
   {
@@ -26083,8 +26083,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.91052,
-      'longitude': -41.08368
+      'latitude': -20.866748,
+      'longitude': -41.217663
     }
   },
   {
@@ -26102,8 +26102,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.913861,
-      'longitude': -41.082981
+      'latitude': -20.867859,
+      'longitude': -41.218035
     }
   },
   {
@@ -26121,8 +26121,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.916443,
-      'longitude': -41.082138
+      'latitude': -20.869537,
+      'longitude': -41.219862
     }
   },
   {
@@ -26140,8 +26140,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.917685,
-      'longitude': -41.081593
+      'latitude': -20.871064,
+      'longitude': -41.222471
     }
   },
   {
@@ -26159,8 +26159,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.921758,
-      'longitude': -41.080545
+      'latitude': -20.871128,
+      'longitude': -41.222469
     }
   },
   {
@@ -26178,8 +26178,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.925273,
-      'longitude': -41.07903
+      'latitude': -20.871656,
+      'longitude': -41.224679
     }
   },
   {
@@ -26197,8 +26197,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.926319,
-      'longitude': -41.078642
+      'latitude': -20.871042,
+      'longitude': -41.226089
     }
   },
   {
@@ -26216,8 +26216,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.926513,
-      'longitude': -41.078519
+      'latitude': -20.870365,
+      'longitude': -41.227076
     }
   },
   {
@@ -26235,8 +26235,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.927903,
-      'longitude': -41.079609
+      'latitude': -20.861827,
+      'longitude': -41.192994
     }
   },
   {
@@ -26254,8 +26254,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.921598,
-      'longitude': -41.080451
+      'latitude': -20.861849,
+      'longitude': -41.193078
     }
   },
   {
@@ -26273,8 +26273,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.913786,
-      'longitude': -41.082873
+      'latitude': -20.866773,
+      'longitude': -41.189641
     }
   },
   {
@@ -26292,8 +26292,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.910514,
-      'longitude': -41.08355
+      'latitude': -20.86747,
+      'longitude': -41.187966
     }
   },
   {
@@ -26311,8 +26311,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.905586,
-      'longitude': -41.086544
+      'latitude': -20.867428,
+      'longitude': -41.187906
     }
   },
   {
@@ -26330,8 +26330,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.901645,
-      'longitude': -41.090551
+      'latitude': -20.87278,
+      'longitude': -41.186441
     }
   },
   {
@@ -26349,8 +26349,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.920306,
-      'longitude': -41.102849
+      'latitude': -20.878094,
+      'longitude': -41.183528
     }
   },
   {
@@ -26368,8 +26368,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.92547,
-      'longitude': -41.096793
+      'latitude': -20.878057,
+      'longitude': -41.183476
     }
   },
   {
@@ -26387,8 +26387,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.926098,
-      'longitude': -41.097522
+      'latitude': -20.863626,
+      'longitude': -41.192126
     }
   },
   {
@@ -26406,8 +26406,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.926272,
-      'longitude': -41.098753
+      'latitude': -20.856398,
+      'longitude': -41.199941
     }
   },
   {
@@ -26425,8 +26425,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.921419,
-      'longitude': -41.092898
+      'latitude': -20.856398,
+      'longitude': -41.199941
     }
   },
   {
@@ -26444,8 +26444,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.908404,
-      'longitude': -41.110354
+      'latitude': -20.859165,
+      'longitude': -41.20269
     }
   },
   {
@@ -26463,8 +26463,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.923855,
-      'longitude': -41.125449
+      'latitude': -20.859165,
+      'longitude': -41.20269
     }
   },
   {
@@ -26482,8 +26482,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.805959,
-      'longitude': -41.007532
+      'latitude': -20.859165,
+      'longitude': -41.20269
     }
   },
   {
@@ -26501,8 +26501,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.804485,
-      'longitude': -41.012741
+      'latitude': -20.866773,
+      'longitude': -41.189641
     }
   },
   {
@@ -26520,8 +26520,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.80928,
-      'longitude': -41.020255
+      'latitude': -20.846245,
+      'longitude': -41.190834
     }
   },
   {
@@ -26539,8 +26539,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.809235,
-      'longitude': -41.020262
+      'latitude': -20.847163,
+      'longitude': -41.192279
     }
   },
   {
@@ -26558,8 +26558,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.805836,
-      'longitude': -41.016623
+      'latitude': -20.849913,
+      'longitude': -41.195176
     }
   },
   {
@@ -26577,8 +26577,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.808809,
-      'longitude': -41.02405
+      'latitude': -20.851737,
+      'longitude': -41.197356
     }
   },
   {
@@ -26596,8 +26596,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.808825,
-      'longitude': -41.023956
+      'latitude': -20.84861,
+      'longitude': -41.200178
     }
   },
   {
@@ -26615,8 +26615,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.809654,
-      'longitude': -41.025702
+      'latitude': -20.851814,
+      'longitude': -41.198285
     }
   },
   {
@@ -26634,8 +26634,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.814144,
-      'longitude': -41.026048
+      'latitude': -20.852926,
+      'longitude': -41.199623
     }
   },
   {
@@ -26653,8 +26653,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.811214,
-      'longitude': -41.026249
+      'latitude': -20.854389,
+      'longitude': -41.199596
     }
   },
   {
@@ -26672,8 +26672,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.815377,
-      'longitude': -41.0268
+      'latitude': -20.856387,
+      'longitude': -41.200005
     }
   },
   {
@@ -26691,8 +26691,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.820226,
-      'longitude': -41.028393
+      'latitude': -20.860289,
+      'longitude': -41.204937
     }
   },
   {
@@ -26710,8 +26710,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.826023,
-      'longitude': -41.03053
+      'latitude': -20.861487,
+      'longitude': -41.206454
     }
   },
   {
@@ -26729,8 +26729,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.827302,
-      'longitude': -41.028867
+      'latitude': -20.862063,
+      'longitude': -41.20762
     }
   },
   {
@@ -26748,8 +26748,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.836964,
-      'longitude': -41.033304
+      'latitude': -20.866759,
+      'longitude': -41.217579
     }
   },
   {
@@ -26767,8 +26767,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.841248,
-      'longitude': -41.037926
+      'latitude': -20.867825,
+      'longitude': -41.21811
     }
   },
   {
@@ -26786,8 +26786,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.844336,
-      'longitude': -41.038333
+      'latitude': -20.869597,
+      'longitude': -41.219811
     }
   },
   {
@@ -26805,8 +26805,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.845612,
-      'longitude': -41.039716
+      'latitude': -20.87153,
+      'longitude': -41.224775
     }
   },
   {
@@ -26824,8 +26824,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.849256,
-      'longitude': -41.048501
+      'latitude': -20.870962,
+      'longitude': -41.225996
     }
   },
   {
@@ -26843,8 +26843,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.850737,
-      'longitude': -41.050188
+      'latitude': -20.869112,
+      'longitude': -41.228869
     }
   },
   {
@@ -26862,8 +26862,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.853388,
-      'longitude': -41.056064
+      'latitude': -20.870315,
+      'longitude': -41.227042
     }
   },
   {
@@ -26881,8 +26881,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.854992,
-      'longitude': -41.060516
+      'latitude': -20.866717,
+      'longitude': -41.189636
     }
   },
   {
@@ -26900,8 +26900,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.859019,
-      'longitude': -41.024394
+      'latitude': -20.872774,
+      'longitude': -41.186573
     }
   },
   {
@@ -26919,8 +26919,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.865155,
-      'longitude': -41.028258
+      'latitude': -20.879458,
+      'longitude': -41.181837
     }
   },
   {
@@ -26938,8 +26938,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.867808,
-      'longitude': -41.028196
+      'latitude': -20.863565,
+      'longitude': -41.192046
     }
   },
   {
@@ -26957,8 +26957,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.868416,
-      'longitude': -41.026774
+      'latitude': -20.856398,
+      'longitude': -41.199941
     }
   },
   {
@@ -26976,8 +26976,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.868428,
-      'longitude': -41.026916
+      'latitude': -20.856398,
+      'longitude': -41.199941
     }
   },
   {
@@ -26995,8 +26995,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.870294,
-      'longitude': -41.032985
+      'latitude': -20.859165,
+      'longitude': -41.20269
     }
   },
   {
@@ -27014,8 +27014,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.86606,
-      'longitude': -41.037894
+      'latitude': -20.74818,
+      'longitude': -41.188481
     }
   },
   {
@@ -27033,8 +27033,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.864346,
-      'longitude': -41.043863
+      'latitude': -20.748731,
+      'longitude': -41.189602
     }
   },
   {
@@ -27052,8 +27052,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863046,
-      'longitude': -41.045969
+      'latitude': -20.751311,
+      'longitude': -41.187689
     }
   },
   {
@@ -27071,8 +27071,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.863138,
-      'longitude': -41.046149
+      'latitude': -20.730857,
+      'longitude': -41.138287
     }
   },
   {
@@ -27090,8 +27090,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856824,
-      'longitude': -41.0561
+      'latitude': -20.864755,
+      'longitude': -41.153064
     }
   },
   {
@@ -27109,8 +27109,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856747,
-      'longitude': -41.055925
+      'latitude': -20.869352,
+      'longitude': -41.155912
     }
   },
   {
@@ -27128,8 +27128,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.855761,
-      'longitude': -41.064898
+      'latitude': -20.869362,
+      'longitude': -41.155779
     }
   },
   {
@@ -27147,8 +27147,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856128,
-      'longitude': -41.069105
+      'latitude': -20.874744,
+      'longitude': -41.157976
     }
   },
   {
@@ -27166,8 +27166,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.856861,
-      'longitude': -41.071954
+      'latitude': -20.874746,
+      'longitude': -41.157867
     }
   },
   {
@@ -27185,8 +27185,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.858202,
-      'longitude': -41.074626
+      'latitude': -20.881098,
+      'longitude': -41.157861
     }
   },
   {
@@ -27204,8 +27204,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857707,
-      'longitude': -41.079712
+      'latitude': -20.882784,
+      'longitude': -41.159587
     }
   },
   {
@@ -27223,8 +27223,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.857874,
-      'longitude': -41.079395
+      'latitude': -20.882785,
+      'longitude': -41.159481
     }
   },
   {
@@ -27242,6164 +27242,8 @@ export const PLACES = [
     'metro': 'N',
     'bus': '003',
     'coords': {
-      'latitude': -20.852872,
-      'longitude': -41.086331
-    }
-  },
-  {
-    'id': ' 1435',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1435',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.892015,
-      'longitude': -41.098933
-    }
-  },
-  {
-    'id': ' 1436',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1436',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.89479,
-      'longitude': -41.102881
-    }
-  },
-  {
-    'id': ' 1437',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1437',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.89708,
-      'longitude': -41.103843
-    }
-  },
-  {
-    'id': ' 1438',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1438',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.900752,
-      'longitude': -41.111458
-    }
-  },
-  {
-    'id': ' 1439',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1439',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.900808,
-      'longitude': -41.111444
-    }
-  },
-  {
-    'id': ' 1440',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1440',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.899006,
-      'longitude': -41.116836
-    }
-  },
-  {
-    'id': ' 1441',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1441',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.899109,
-      'longitude': -41.116855
-    }
-  },
-  {
-    'id': ' 1442',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1442',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.901973,
-      'longitude': -41.105924
-    }
-  },
-  {
-    'id': ' 1443',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1443',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.908735,
-      'longitude': -41.117267
-    }
-  },
-  {
-    'id': ' 1444',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1444',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.911317,
-      'longitude': -41.117208
-    }
-  },
-  {
-    'id': ' 1445',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1445',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.911791,
-      'longitude': -41.118436
-    }
-  },
-  {
-    'id': ' 1446',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1446',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.913268,
-      'longitude': -41.119739
-    }
-  },
-  {
-    'id': ' 1447',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1447',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.91645,
-      'longitude': -41.121989
-    }
-  },
-  {
-    'id': ' 1448',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1448',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.917298,
-      'longitude': -41.122764
-    }
-  },
-  {
-    'id': ' 1449',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1449',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.918596,
-      'longitude': -41.12345
-    }
-  },
-  {
-    'id': ' 1450',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1450',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.920975,
-      'longitude': -41.124562
-    }
-  },
-  {
-    'id': ' 1451',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1451',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.836884,
-      'longitude': -41.080954
-    }
-  },
-  {
-    'id': ' 1452',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1452',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.837725,
-      'longitude': -41.078844
-    }
-  },
-  {
-    'id': ' 1453',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1453',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.835662,
-      'longitude': -41.074383
-    }
-  },
-  {
-    'id': ' 1454',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1454',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.833505,
-      'longitude': -41.073929
-    }
-  },
-  {
-    'id': ' 1455',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1455',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.830026,
-      'longitude': -41.072051
-    }
-  },
-  {
-    'id': ' 1456',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1456',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.828074,
-      'longitude': -41.071348
-    }
-  },
-  {
-    'id': ' 1457',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1457',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.825861,
-      'longitude': -41.070844
-    }
-  },
-  {
-    'id': ' 1458',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1458',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.863353,
-      'longitude': -41.058498
-    }
-  },
-  {
-    'id': ' 1459',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1459',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.864511,
-      'longitude': -41.058362
-    }
-  },
-  {
-    'id': ' 1460',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1460',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869152,
-      'longitude': -41.056589
-    }
-  },
-  {
-    'id': ' 1461',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1461',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.871822,
-      'longitude': -41.058738
-    }
-  },
-  {
-    'id': ' 1462',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1462',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.87352,
-      'longitude': -41.060057
-    }
-  },
-  {
-    'id': ' 1463',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1463',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.876271,
-      'longitude': -41.06419
-    }
-  },
-  {
-    'id': ' 1464',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1464',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.877204,
-      'longitude': -41.066155
-    }
-  },
-  {
-    'id': ' 1465',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1465',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.883141,
-      'longitude': -41.068579
-    }
-  },
-  {
-    'id': ' 1466',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1466',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.883145,
-      'longitude': -41.069504
-    }
-  },
-  {
-    'id': ' 1467',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1467',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.885721,
-      'longitude': -41.074245
-    }
-  },
-  {
-    'id': ' 1468',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1468',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.889932,
-      'longitude': -41.07486
-    }
-  },
-  {
-    'id': ' 1469',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1469',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.891363,
-      'longitude': -41.072253
-    }
-  },
-  {
-    'id': ' 1470',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1470',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.891397,
-      'longitude': -41.068393
-    }
-  },
-  {
-    'id': ' 1471',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1471',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.878799,
-      'longitude': -41.073856
-    }
-  },
-  {
-    'id': ' 1472',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1472',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.877174,
-      'longitude': -41.075633
-    }
-  },
-  {
-    'id': ' 1473',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1473',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.876418,
-      'longitude': -41.076471
-    }
-  },
-  {
-    'id': ' 1474',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1474',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.872202,
-      'longitude': -41.080723
-    }
-  },
-  {
-    'id': ' 1475',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1475',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.919965,
-      'longitude': -41.092387
-    }
-  },
-  {
-    'id': ' 1476',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1476',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.918458,
-      'longitude': -41.104435
-    }
-  },
-  {
-    'id': ' 1477',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1477',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.925482,
-      'longitude': -41.096714
-    }
-  },
-  {
-    'id': ' 1478',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1478',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.803839,
-      'longitude': -41.003849
-    }
-  },
-  {
-    'id': ' 1479',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1479',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.805999,
-      'longitude': -41.007577
-    }
-  },
-  {
-    'id': ' 1480',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1480',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.804557,
-      'longitude': -41.01272
-    }
-  },
-  {
-    'id': ' 1481',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1481',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.805861,
-      'longitude': -41.016557
-    }
-  },
-  {
-    'id': ' 1482',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1482',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.809588,
-      'longitude': -41.02575
-    }
-  },
-  {
-    'id': ' 1483',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1483',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.811234,
-      'longitude': -41.026352
-    }
-  },
-  {
-    'id': ' 1484',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1484',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.81417,
-      'longitude': -41.026363
-    }
-  },
-  {
-    'id': ' 1485',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1485',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.815369,
-      'longitude': -41.026871
-    }
-  },
-  {
-    'id': ' 1486',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1486',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.82032,
-      'longitude': -41.02847
-    }
-  },
-  {
-    'id': ' 1487',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1487',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.826129,
-      'longitude': -41.03055
-    }
-  },
-  {
-    'id': ' 1488',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1488',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.827306,
-      'longitude': -41.029034
-    }
-  },
-  {
-    'id': ' 1489',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1489',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.837016,
-      'longitude': -41.03323
-    }
-  },
-  {
-    'id': ' 1490',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1490',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.841407,
-      'longitude': -41.037988
-    }
-  },
-  {
-    'id': ' 1491',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1491',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.844319,
-      'longitude': -41.038443
-    }
-  },
-  {
-    'id': ' 1492',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1492',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.845713,
-      'longitude': -41.039604
-    }
-  },
-  {
-    'id': ' 1493',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1493',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.849298,
-      'longitude': -41.048468
-    }
-  },
-  {
-    'id': ' 1494',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1494',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.850801,
-      'longitude': -41.050094
-    }
-  },
-  {
-    'id': ' 1495',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1495',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.853292,
-      'longitude': -41.056136
-    }
-  },
-  {
-    'id': ' 1496',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1496',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.855018,
-      'longitude': -41.06026
-    }
-  },
-  {
-    'id': ' 1497',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1497',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.857883,
-      'longitude': -41.023007
-    }
-  },
-  {
-    'id': ' 1498',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1498',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.863533,
-      'longitude': -41.026997
-    }
-  },
-  {
-    'id': ' 1499',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1499',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.865165,
-      'longitude': -41.028381
-    }
-  },
-  {
-    'id': ' 1500',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1500',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.870407,
-      'longitude': -41.032936
-    }
-  },
-  {
-    'id': ' 1501',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1501',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.868076,
-      'longitude': -41.03796
-    }
-  },
-  {
-    'id': ' 1502',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1502',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.858903,
-      'longitude': -41.051244
-    }
-  },
-  {
-    'id': ' 1503',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1503',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.854971,
-      'longitude': -41.061043
-    }
-  },
-  {
-    'id': ' 1504',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1504',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.853259,
-      'longitude': -41.086334
-    }
-  },
-  {
-    'id': ' 1505',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1505',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.892108,
-      'longitude': -41.098866
-    }
-  },
-  {
-    'id': ' 1506',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1506',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.894709,
-      'longitude': -41.102929
-    }
-  },
-  {
-    'id': ' 1507',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1507',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.897081,
-      'longitude': -41.103772
-    }
-  },
-  {
-    'id': ' 1508',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1508',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.902389,
-      'longitude': -41.105472
-    }
-  },
-  {
-    'id': ' 1509',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1509',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.902492,
-      'longitude': -41.105473
-    }
-  },
-  {
-    'id': ' 1510',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1510',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.89715,
-      'longitude': -41.125217
-    }
-  },
-  {
-    'id': ' 1511',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1511',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.902016,
-      'longitude': -41.105974
-    }
-  },
-  {
-    'id': ' 1512',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1512',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.9087,
-      'longitude': -41.11735
-    }
-  },
-  {
-    'id': ' 1513',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1513',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.911323,
-      'longitude': -41.117303
-    }
-  },
-  {
-    'id': ' 1514',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1514',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.911759,
-      'longitude': -41.118546
-    }
-  },
-  {
-    'id': ' 1515',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1515',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.913296,
-      'longitude': -41.119676
-    }
-  },
-  {
-    'id': ' 1516',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1516',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.916465,
-      'longitude': -41.121894
-    }
-  },
-  {
-    'id': ' 1517',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1517',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.917301,
-      'longitude': -41.122872
-    }
-  },
-  {
-    'id': ' 1518',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1518',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.918593,
-      'longitude': -41.123538
-    }
-  },
-  {
-    'id': ' 1519',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1519',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.92095,
-      'longitude': -41.124687
-    }
-  },
-  {
-    'id': ' 1520',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1520',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859219,
-      'longitude': -41.202582
-    }
-  },
-  {
-    'id': ' 1521',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1521',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859165,
-      'longitude': -41.20269
-    }
-  },
-  {
-    'id': ' 1522',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1522',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.860423,
-      'longitude': -41.204982
-    }
-  },
-  {
-    'id': ' 1523',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1523',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.861561,
-      'longitude': -41.206394
-    }
-  },
-  {
-    'id': ' 1524',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1524',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.862149,
-      'longitude': -41.207584
-    }
-  },
-  {
-    'id': ' 1525',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1525',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866505,
-      'longitude': -41.212576
-    }
-  },
-  {
-    'id': ' 1526',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1526',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866445,
-      'longitude': -41.212497
-    }
-  },
-  {
-    'id': ' 1527',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1527',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866748,
-      'longitude': -41.217663
-    }
-  },
-  {
-    'id': ' 1528',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1528',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.867859,
-      'longitude': -41.218035
-    }
-  },
-  {
-    'id': ' 1529',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1529',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869537,
-      'longitude': -41.219862
-    }
-  },
-  {
-    'id': ' 1530',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1530',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.871064,
-      'longitude': -41.222471
-    }
-  },
-  {
-    'id': ' 1531',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1531',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.871128,
-      'longitude': -41.222469
-    }
-  },
-  {
-    'id': ' 1532',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1532',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.871656,
-      'longitude': -41.224679
-    }
-  },
-  {
-    'id': ' 1533',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1533',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.871042,
-      'longitude': -41.226089
-    }
-  },
-  {
-    'id': ' 1534',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1534',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.870365,
-      'longitude': -41.227076
-    }
-  },
-  {
-    'id': ' 1535',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1535',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.861827,
-      'longitude': -41.192994
-    }
-  },
-  {
-    'id': ' 1536',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1536',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.861849,
-      'longitude': -41.193078
-    }
-  },
-  {
-    'id': ' 1537',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1537',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866773,
-      'longitude': -41.189641
-    }
-  },
-  {
-    'id': ' 1538',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1538',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.86747,
-      'longitude': -41.187966
-    }
-  },
-  {
-    'id': ' 1539',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1539',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.867428,
-      'longitude': -41.187906
-    }
-  },
-  {
-    'id': ' 1540',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1540',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.87278,
-      'longitude': -41.186441
-    }
-  },
-  {
-    'id': ' 1541',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1541',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.878094,
-      'longitude': -41.183528
-    }
-  },
-  {
-    'id': ' 1542',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1542',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.878057,
-      'longitude': -41.183476
-    }
-  },
-  {
-    'id': ' 1543',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1543',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.863626,
-      'longitude': -41.192126
-    }
-  },
-  {
-    'id': ' 1544',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1544',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.856398,
-      'longitude': -41.199941
-    }
-  },
-  {
-    'id': ' 1545',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1545',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.856398,
-      'longitude': -41.199941
-    }
-  },
-  {
-    'id': ' 1546',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1546',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859165,
-      'longitude': -41.20269
-    }
-  },
-  {
-    'id': ' 1547',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1547',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859165,
-      'longitude': -41.20269
-    }
-  },
-  {
-    'id': ' 1548',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1548',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859165,
-      'longitude': -41.20269
-    }
-  },
-  {
-    'id': ' 1549',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1549',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866773,
-      'longitude': -41.189641
-    }
-  },
-  {
-    'id': ' 1550',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1550',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.846245,
-      'longitude': -41.190834
-    }
-  },
-  {
-    'id': ' 1551',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1551',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.847163,
-      'longitude': -41.192279
-    }
-  },
-  {
-    'id': ' 1552',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1552',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.849913,
-      'longitude': -41.195176
-    }
-  },
-  {
-    'id': ' 1553',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1553',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.851737,
-      'longitude': -41.197356
-    }
-  },
-  {
-    'id': ' 1554',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1554',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.84861,
-      'longitude': -41.200178
-    }
-  },
-  {
-    'id': ' 1555',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1555',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.851814,
-      'longitude': -41.198285
-    }
-  },
-  {
-    'id': ' 1556',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1556',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.852926,
-      'longitude': -41.199623
-    }
-  },
-  {
-    'id': ' 1557',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1557',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.854389,
-      'longitude': -41.199596
-    }
-  },
-  {
-    'id': ' 1558',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1558',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.856387,
-      'longitude': -41.200005
-    }
-  },
-  {
-    'id': ' 1559',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1559',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.860289,
-      'longitude': -41.204937
-    }
-  },
-  {
-    'id': ' 1560',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1560',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.861487,
-      'longitude': -41.206454
-    }
-  },
-  {
-    'id': ' 1561',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1561',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.862063,
-      'longitude': -41.20762
-    }
-  },
-  {
-    'id': ' 1562',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1562',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866759,
-      'longitude': -41.217579
-    }
-  },
-  {
-    'id': ' 1563',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1563',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.867825,
-      'longitude': -41.21811
-    }
-  },
-  {
-    'id': ' 1564',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1564',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869597,
-      'longitude': -41.219811
-    }
-  },
-  {
-    'id': ' 1565',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1565',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.87153,
-      'longitude': -41.224775
-    }
-  },
-  {
-    'id': ' 1566',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1566',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.870962,
-      'longitude': -41.225996
-    }
-  },
-  {
-    'id': ' 1567',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1567',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869112,
-      'longitude': -41.228869
-    }
-  },
-  {
-    'id': ' 1568',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1568',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.870315,
-      'longitude': -41.227042
-    }
-  },
-  {
-    'id': ' 1569',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1569',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.866717,
-      'longitude': -41.189636
-    }
-  },
-  {
-    'id': ' 1570',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1570',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.872774,
-      'longitude': -41.186573
-    }
-  },
-  {
-    'id': ' 1571',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1571',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.879458,
-      'longitude': -41.181837
-    }
-  },
-  {
-    'id': ' 1572',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1572',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.863565,
-      'longitude': -41.192046
-    }
-  },
-  {
-    'id': ' 1573',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1573',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.856398,
-      'longitude': -41.199941
-    }
-  },
-  {
-    'id': ' 1574',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1574',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.856398,
-      'longitude': -41.199941
-    }
-  },
-  {
-    'id': ' 1575',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1575',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.859165,
-      'longitude': -41.20269
-    }
-  },
-  {
-    'id': ' 1576',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1576',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.756009,
-      'longitude': -41.27839
-    }
-  },
-  {
-    'id': ' 1577',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1577',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.754275,
-      'longitude': -41.290776
-    }
-  },
-  {
-    'id': ' 1578',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1578',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.753617,
-      'longitude': -41.293328
-    }
-  },
-  {
-    'id': ' 1579',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1579',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.737231,
-      'longitude': -41.292634
-    }
-  },
-  {
-    'id': ' 1580',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1580',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.693706,
-      'longitude': -41.317844
-    }
-  },
-  {
-    'id': ' 1581',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1581',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.694689,
-      'longitude': -41.320975
-    }
-  },
-  {
-    'id': ' 1582',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1582',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.696025,
-      'longitude': -41.322296
-    }
-  },
-  {
-    'id': ' 1583',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1583',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.697947,
-      'longitude': -41.322626
-    }
-  },
-  {
-    'id': ' 1584',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1584',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.700238,
-      'longitude': -41.322056
-    }
-  },
-  {
-    'id': ' 1585',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1585',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.700167,
-      'longitude': -41.322023
-    }
-  },
-  {
-    'id': ' 1586',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1586',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.706786,
-      'longitude': -41.330795
-    }
-  },
-  {
-    'id': ' 1587',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1587',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.711504,
-      'longitude': -41.335097
-    }
-  },
-  {
-    'id': ' 1588',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1588',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.725983,
-      'longitude': -41.324375
-    }
-  },
-  {
-    'id': ' 1589',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1589',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.732193,
-      'longitude': -41.319678
-    }
-  },
-  {
-    'id': ' 1590',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1590',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.73983,
-      'longitude': -41.317568
-    }
-  },
-  {
-    'id': ' 1591',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1591',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.749285,
-      'longitude': -41.31093
-    }
-  },
-  {
-    'id': ' 1592',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1592',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.7526,
-      'longitude': -41.304442
-    }
-  },
-  {
-    'id': ' 1593',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1593',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.687096,
-      'longitude': -41.342953
-    }
-  },
-  {
-    'id': ' 1594',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1594',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.687106,
-      'longitude': -41.34284
-    }
-  },
-  {
-    'id': ' 1595',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1595',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.695301,
-      'longitude': -41.346933
-    }
-  },
-  {
-    'id': ' 1596',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1596',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.695377,
-      'longitude': -41.346893
-    }
-  },
-  {
-    'id': ' 1597',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1597',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.696448,
-      'longitude': -41.3476
-    }
-  },
-  {
-    'id': ' 1598',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1598',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.696478,
-      'longitude': -41.347483
-    }
-  },
-  {
-    'id': ' 1599',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1599',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.69798,
-      'longitude': -41.34734
-    }
-  },
-  {
-    'id': ' 1600',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1600',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.699027,
-      'longitude': -41.345756
-    }
-  },
-  {
-    'id': ' 1601',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1601',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.699671,
-      'longitude': -41.342781
-    }
-  },
-  {
-    'id': ' 1602',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1602',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.699652,
-      'longitude': -41.342683
-    }
-  },
-  {
-    'id': ' 1603',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1603',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.702779,
-      'longitude': -41.341967
-    }
-  },
-  {
-    'id': ' 1604',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1604',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.702964,
-      'longitude': -41.341984
-    }
-  },
-  {
-    'id': ' 1605',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1605',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.707426,
-      'longitude': -41.339031
-    }
-  },
-  {
-    'id': ' 1606',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1606',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.710379,
-      'longitude': -41.337743
-    }
-  },
-  {
-    'id': ' 1607',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1607',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.689439,
-      'longitude': -41.306938
-    }
-  },
-  {
-    'id': ' 1608',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1608',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.710353,
-      'longitude': -41.337652
-    }
-  },
-  {
-    'id': ' 1609',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1609',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.712844,
-      'longitude': -41.33615
-    }
-  },
-  {
-    'id': ' 1610',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1610',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.712713,
-      'longitude': -41.336107
-    }
-  },
-  {
-    'id': ' 1611',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1611',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.716627,
-      'longitude': -41.335187
-    }
-  },
-  {
-    'id': ' 1612',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1612',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.716635,
-      'longitude': -41.335287
-    }
-  },
-  {
-    'id': ' 1613',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1613',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.720155,
-      'longitude': -41.33517
-    }
-  },
-  {
-    'id': ' 1614',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1614',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.720092,
-      'longitude': -41.335078
-    }
-  },
-  {
-    'id': ' 1615',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1615',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.724451,
-      'longitude': -41.332436
-    }
-  },
-  {
-    'id': ' 1616',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1616',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.724877,
-      'longitude': -41.331808
-    }
-  },
-  {
-    'id': ' 1617',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1617',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673698,
-      'longitude': -41.21437
-    }
-  },
-  {
-    'id': ' 1618',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1618',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673471,
-      'longitude': -41.220004
-    }
-  },
-  {
-    'id': ' 1619',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1619',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676127,
-      'longitude': -41.229387
-    }
-  },
-  {
-    'id': ' 1620',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1620',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.675344,
-      'longitude': -41.231989
-    }
-  },
-  {
-    'id': ' 1621',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1621',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673294,
-      'longitude': -41.240094
-    }
-  },
-  {
-    'id': ' 1622',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1622',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673636,
-      'longitude': -41.245128
-    }
-  },
-  {
-    'id': ' 1623',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1623',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.679442,
-      'longitude': -41.249725
-    }
-  },
-  {
-    'id': ' 1624',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1624',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.681668,
-      'longitude': -41.256208
-    }
-  },
-  {
-    'id': ' 1625',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1625',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.677841,
-      'longitude': -41.263887
-    }
-  },
-  {
-    'id': ' 1626',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1626',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.677065,
-      'longitude': -41.265266
-    }
-  },
-  {
-    'id': ' 1627',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1627',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676338,
-      'longitude': -41.271987
-    }
-  },
-  {
-    'id': ' 1628',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1628',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676964,
-      'longitude': -41.274876
-    }
-  },
-  {
-    'id': ' 1629',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1629',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.677379,
-      'longitude': -41.279006
-    }
-  },
-  {
-    'id': ' 1630',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1630',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.680001,
-      'longitude': -41.28169
-    }
-  },
-  {
-    'id': ' 1631',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1631',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.689235,
-      'longitude': -41.306074
-    }
-  },
-  {
-    'id': ' 1632',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1632',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.682265,
-      'longitude': -41.290265
-    }
-  },
-  {
-    'id': ' 1633',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1633',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.686101,
-      'longitude': -41.295417
-    }
-  },
-  {
-    'id': ' 1634',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1634',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.688568,
-      'longitude': -41.296825
-    }
-  },
-  {
-    'id': ' 1635',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1635',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.691156,
-      'longitude': -41.294915
-    }
-  },
-  {
-    'id': ' 1636',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1636',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.692833,
-      'longitude': -41.293632
-    }
-  },
-  {
-    'id': ' 1637',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1637',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.694799,
-      'longitude': -41.29652
-    }
-  },
-  {
-    'id': ' 1638',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1638',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.693418,
-      'longitude': -41.300528
-    }
-  },
-  {
-    'id': ' 1639',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1639',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.691308,
-      'longitude': -41.303067
-    }
-  },
-  {
-    'id': ' 1640',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1640',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.756127,
-      'longitude': -41.278395
-    }
-  },
-  {
-    'id': ' 1641',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1641',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.754132,
-      'longitude': -41.290837
-    }
-  },
-  {
-    'id': ' 1642',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1642',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.75363,
-      'longitude': -41.293434
-    }
-  },
-  {
-    'id': ' 1643',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1643',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.693749,
-      'longitude': -41.317697
-    }
-  },
-  {
-    'id': ' 1644',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1644',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.694748,
-      'longitude': -41.320929
-    }
-  },
-  {
-    'id': ' 1645',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1645',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.696015,
-      'longitude': -41.322437
-    }
-  },
-  {
-    'id': ' 1646',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1646',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.697756,
-      'longitude': -41.322543
-    }
-  },
-  {
-    'id': ' 1647',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1647',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.70674,
-      'longitude': -41.330897
-    }
-  },
-  {
-    'id': ' 1648',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1648',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.711426,
-      'longitude': -41.335146
-    }
-  },
-  {
-    'id': ' 1649',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1649',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.726252,
-      'longitude': -41.32394
-    }
-  },
-  {
-    'id': ' 1650',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1650',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.732459,
-      'longitude': -41.319426
-    }
-  },
-  {
-    'id': ' 1651',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1651',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.740019,
-      'longitude': -41.317748
-    }
-  },
-  {
-    'id': ' 1652',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1652',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.749322,
-      'longitude': -41.311078
-    }
-  },
-  {
-    'id': ' 1653',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1653',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.752697,
-      'longitude': -41.304438
-    }
-  },
-  {
-    'id': ' 1654',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1654',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673618,
-      'longitude': -41.214342
-    }
-  },
-  {
-    'id': ' 1655',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1655',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673406,
-      'longitude': -41.220008
-    }
-  },
-  {
-    'id': ' 1656',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1656',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.675266,
-      'longitude': -41.231975
-    }
-  },
-  {
-    'id': ' 1657',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1657',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.673637,
-      'longitude': -41.245067
-    }
-  },
-  {
-    'id': ' 1658',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1658',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.679362,
-      'longitude': -41.249811
-    }
-  },
-  {
-    'id': ' 1659',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1659',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.68173,
-      'longitude': -41.256214
-    }
-  },
-  {
-    'id': ' 1660',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1660',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.67788,
-      'longitude': -41.263944
-    }
-  },
-  {
-    'id': ' 1661',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1661',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676968,
-      'longitude': -41.265282
-    }
-  },
-  {
-    'id': ' 1662',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1662',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676435,
-      'longitude': -41.271937
-    }
-  },
-  {
-    'id': ' 1663',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1663',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.679854,
-      'longitude': -41.28181
-    }
-  },
-  {
-    'id': ' 1664',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1664',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.68228,
-      'longitude': -41.290204
-    }
-  },
-  {
-    'id': ' 1665',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1665',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.686136,
-      'longitude': -41.295366
-    }
-  },
-  {
-    'id': ' 1666',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1666',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.69539,
-      'longitude': -41.296326
-    }
-  },
-  {
-    'id': ' 1667',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1667',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.691347,
-      'longitude': -41.303109
-    }
-  },
-  {
-    'id': ' 1668',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1668',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.756233,
-      'longitude': -41.217567
-    }
-  },
-  {
-    'id': ' 1669',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1669',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.755316,
-      'longitude': -41.219361
-    }
-  },
-  {
-    'id': ' 1670',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1670',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.756815,
-      'longitude': -41.23236
-    }
-  },
-  {
-    'id': ' 1671',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1671',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.756654,
-      'longitude': -41.233739
-    }
-  },
-  {
-    'id': ' 1672',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1672',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.757617,
-      'longitude': -41.247049
-    }
-  },
-  {
-    'id': ' 1673',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1673',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.757153,
-      'longitude': -41.25245
-    }
-  },
-  {
-    'id': ' 1674',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1674',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.760301,
-      'longitude': -41.263699
-    }
-  },
-  {
-    'id': ' 1675',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1675',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.757236,
-      'longitude': -41.251677
-    }
-  },
-  {
-    'id': ' 1676',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1676',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.760747,
-      'longitude': -41.26492
-    }
-  },
-  {
-    'id': ' 1677',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1677',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.764592,
-      'longitude': -41.270316
-    }
-  },
-  {
-    'id': ' 1678',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1678',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.752434,
-      'longitude': -41.189606
-    }
-  },
-  {
-    'id': ' 1679',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1679',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.751502,
-      'longitude': -41.188626
-    }
-  },
-  {
-    'id': ' 1680',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1680',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.746803,
-      'longitude': -41.194651
-    }
-  },
-  {
-    'id': ' 1681',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1681',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.743596,
-      'longitude': -41.200498
-    }
-  },
-  {
-    'id': ' 1682',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1682',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.736785,
-      'longitude': -41.198606
-    }
-  },
-  {
-    'id': ' 1683',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1683',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.734541,
-      'longitude': -41.197313
-    }
-  },
-  {
-    'id': ' 1684',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1684',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.74818,
-      'longitude': -41.188481
-    }
-  },
-  {
-    'id': ' 1685',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1685',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.748731,
-      'longitude': -41.189602
-    }
-  },
-  {
-    'id': ' 1686',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1686',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.751311,
-      'longitude': -41.187689
-    }
-  },
-  {
-    'id': ' 1687',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1687',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.763621,
-      'longitude': -41.273003
-    }
-  },
-  {
-    'id': ' 1688',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1688',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.760436,
-      'longitude': -41.266978
-    }
-  },
-  {
-    'id': ' 1689',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1689',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.760361,
-      'longitude': -41.26709
-    }
-  },
-  {
-    'id': ' 1690',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1690',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.759618,
-      'longitude': -41.268117
-    }
-  },
-  {
-    'id': ' 1691',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1691',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.759503,
-      'longitude': -41.269503
-    }
-  },
-  {
-    'id': ' 1692',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1692',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.759576,
-      'longitude': -41.269511
-    }
-  },
-  {
-    'id': ' 1693',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1693',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.706108,
-      'longitude': -41.197319
-    }
-  },
-  {
-    'id': ' 1694',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1694',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.706165,
-      'longitude': -41.197428
-    }
-  },
-  {
-    'id': ' 1695',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1695',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.69833,
-      'longitude': -41.205296
-    }
-  },
-  {
-    'id': ' 1696',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1696',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.697974,
-      'longitude': -41.205382
-    }
-  },
-  {
-    'id': ' 1697',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1697',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.695152,
-      'longitude': -41.204587
-    }
-  },
-  {
-    'id': ' 1698',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1698',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.695375,
-      'longitude': -41.204747
-    }
-  },
-  {
-    'id': ' 1699',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1699',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.692732,
-      'longitude': -41.203922
-    }
-  },
-  {
-    'id': ' 1700',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1700',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.692715,
-      'longitude': -41.204016
-    }
-  },
-  {
-    'id': ' 1701',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1701',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.686644,
-      'longitude': -41.201407
-    }
-  },
-  {
-    'id': ' 1702',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1702',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.686367,
-      'longitude': -41.20144
-    }
-  },
-  {
-    'id': ' 1703',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1703',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.659436,
-      'longitude': -41.092454
-    }
-  },
-  {
-    'id': ' 1704',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1704',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.663883,
-      'longitude': -41.094067
-    }
-  },
-  {
-    'id': ' 1705',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1705',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.666414,
-      'longitude': -41.096117
-    }
-  },
-  {
-    'id': ' 1706',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1706',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.670312,
-      'longitude': -41.099871
-    }
-  },
-  {
-    'id': ' 1707',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1707',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.671732,
-      'longitude': -41.105863
-    }
-  },
-  {
-    'id': ' 1708',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1708',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.67339,
-      'longitude': -41.108656
-    }
-  },
-  {
-    'id': ' 1709',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1709',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.675642,
-      'longitude': -41.109721
-    }
-  },
-  {
-    'id': ' 1710',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1710',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.678005,
-      'longitude': -41.117374
-    }
-  },
-  {
-    'id': ' 1711',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1711',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.680507,
-      'longitude': -41.122856
-    }
-  },
-  {
-    'id': ' 1712',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1712',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.681864,
-      'longitude': -41.126078
-    }
-  },
-  {
-    'id': ' 1713',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1713',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.677522,
-      'longitude': -41.136538
-    }
-  },
-  {
-    'id': ' 1714',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1714',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.674314,
-      'longitude': -41.141741
-    }
-  },
-  {
-    'id': ' 1715',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1715',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.676163,
-      'longitude': -41.144802
-    }
-  },
-  {
-    'id': ' 1716',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1716',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.678196,
-      'longitude': -41.148156
-    }
-  },
-  {
-    'id': ' 1717',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1717',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.679007,
-      'longitude': -41.153102
-    }
-  },
-  {
-    'id': ' 1718',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1718',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.680017,
-      'longitude': -41.156016
-    }
-  },
-  {
-    'id': ' 1719',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1719',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.685279,
-      'longitude': -41.167204
-    }
-  },
-  {
-    'id': ' 1720',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1720',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.698085,
-      'longitude': -41.172245
-    }
-  },
-  {
-    'id': ' 1721',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1721',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.701194,
-      'longitude': -41.174271
-    }
-  },
-  {
-    'id': ' 1722',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1722',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.705825,
-      'longitude': -41.1852
-    }
-  },
-  {
-    'id': ' 1723',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1723',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.713573,
-      'longitude': -41.188887
-    }
-  },
-  {
-    'id': ' 1724',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1724',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.713145,
-      'longitude': -41.188673
-    }
-  },
-  {
-    'id': ' 1725',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1725',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.734747,
-      'longitude': -41.197526
-    }
-  },
-  {
-    'id': ' 1726',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1726',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.730857,
-      'longitude': -41.138287
-    }
-  },
-  {
-    'id': ' 1727',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1727',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.738942,
-      'longitude': -41.087731
-    }
-  },
-  {
-    'id': ' 1728',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1728',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.738871,
-      'longitude': -41.087645
-    }
-  },
-  {
-    'id': ' 1729',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1729',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.740269,
-      'longitude': -41.085583
-    }
-  },
-  {
-    'id': ' 1730',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1730',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.740259,
-      'longitude': -41.085075
-    }
-  },
-  {
-    'id': ' 1731',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1731',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.740915,
-      'longitude': -41.082731
-    }
-  },
-  {
-    'id': ' 1732',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1732',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.742248,
-      'longitude': -41.080563
-    }
-  },
-  {
-    'id': ' 1733',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1733',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.74218,
-      'longitude': -41.080481
-    }
-  },
-  {
-    'id': ' 1734',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1734',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.744837,
-      'longitude': -41.075791
-    }
-  },
-  {
-    'id': ' 1735',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1735',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.744761,
-      'longitude': -41.075712
-    }
-  },
-  {
-    'id': ' 1736',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1736',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.748328,
-      'longitude': -41.072559
-    }
-  },
-  {
-    'id': ' 1737',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1737',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.748606,
-      'longitude': -41.072237
-    }
-  },
-  {
-    'id': ' 1738',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1738',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.750592,
-      'longitude': -41.071269
-    }
-  },
-  {
-    'id': ' 1739',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1739',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.750653,
-      'longitude': -41.071057
-    }
-  },
-  {
-    'id': ' 1740',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1740',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.751945,
-      'longitude': -41.069595
-    }
-  },
-  {
-    'id': ' 1741',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1741',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.752194,
-      'longitude': -41.069518
-    }
-  },
-  {
-    'id': ' 1742',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1742',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.752823,
-      'longitude': -41.066887
-    }
-  },
-  {
-    'id': ' 1743',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1743',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.752724,
-      'longitude': -41.066924
-    }
-  },
-  {
-    'id': ' 1744',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1744',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.754062,
-      'longitude': -41.064904
-    }
-  },
-  {
-    'id': ' 1745',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1745',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.754081,
-      'longitude': -41.064772
-    }
-  },
-  {
-    'id': ' 1746',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1746',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.757223,
-      'longitude': -41.061892
-    }
-  },
-  {
-    'id': ' 1747',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1747',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.757287,
-      'longitude': -41.061743
-    }
-  },
-  {
-    'id': ' 1748',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1748',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.759777,
-      'longitude': -41.061478
-    }
-  },
-  {
-    'id': ' 1749',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1749',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.759767,
-      'longitude': -41.061395
-    }
-  },
-  {
-    'id': ' 1750',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1750',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.702998,
-      'longitude': -41.092052
-    }
-  },
-  {
-    'id': ' 1751',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1751',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.864755,
-      'longitude': -41.153064
-    }
-  },
-  {
-    'id': ' 1752',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1752',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869352,
-      'longitude': -41.155912
-    }
-  },
-  {
-    'id': ' 1753',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1753',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.869362,
-      'longitude': -41.155779
-    }
-  },
-  {
-    'id': ' 1754',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1754',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.874744,
-      'longitude': -41.157976
-    }
-  },
-  {
-    'id': ' 1755',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1755',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.874746,
-      'longitude': -41.157867
-    }
-  },
-  {
-    'id': ' 1756',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1756',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.881098,
-      'longitude': -41.157861
-    }
-  },
-  {
-    'id': ' 1757',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1757',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.882784,
-      'longitude': -41.159587
-    }
-  },
-  {
-    'id': ' 1758',
-    'city': '58b5c886c99168af7d353e8f',
-    'image': 'https',
-    'name': 'Ponto 1758',
-    'description': 'This',
-    'type': 'M',
-    'fullDescription': 'P',
-    'address': '7',
-    'openingDays': 'E',
-    'openingTime': '0',
-    'ticket': 'Free',
-    'metro': 'N',
-    'bus': '003',
-    'coords': {
-      'latitude': -20.882785,
-      'longitude': -41.159481
+      'latitude': -20.881029,
+      'longitude': -41.157993
     }
   }
 
